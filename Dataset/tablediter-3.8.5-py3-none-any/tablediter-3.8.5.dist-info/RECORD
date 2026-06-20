@@ -1,0 +1,10 @@
+tablediter/__init__.py,sha256=T3cfIGSf19svHk-NJi0sQ0qkG5RpxT69Pd-u_5pGBZA,774
+tablediter/colortable.py,sha256=Z4x8dR9nkr09suWnbMFkYYwaLSFGiy3mQ0QTiJmvh_E,2442
+tablediter/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tablediter/tablediter.py,sha256=ibEBSpo6_Mu52tiZpMFtwXbDWF6UqJGnAzq0Wv6RB8Q,91177
+tablediter/edt/basedtable.py,sha256=jj_WiXt_aqR-06Fu5ax3vBjhzMWX_QKWI54hVT1L2PE,764
+tablediter/edt/bounding.py,sha256=EjqRwperhyVYoh1_1TSoykS9RGj8XLiTe7ME1E7J_vQ,3235
+tablediter-3.8.5.dist-info/METADATA,sha256=1Y7OSk62yNkbchX-hGKNZBJR7ONUQzq_tfshp43l2uA,26543
+tablediter-3.8.5.dist-info/WHEEL,sha256=9QBuHhg6FNW7lppboF2vKVbCGTVzsFykgRQjjlajrhA,87
+tablediter-3.8.5.dist-info/licenses/LICENSE,sha256=T2p7nESGP2W3F4yw_84TyPlTFh0PTvHB86puzMYC1_I,1616
+tablediter-3.8.5.dist-info/RECORD,,

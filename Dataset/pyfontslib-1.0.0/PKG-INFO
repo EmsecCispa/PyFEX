@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: pyfontslib
+Version: 1.0.0
+Summary: Better fonts for python
+Home-page: UNKNOWN
+Author: Bluescreen
+Author-email: nick.faltermeier@gmx.de
+License: UNKNOWN
+Description: Better fonts for python
+Keywords: python
+Platform: UNKNOWN
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown

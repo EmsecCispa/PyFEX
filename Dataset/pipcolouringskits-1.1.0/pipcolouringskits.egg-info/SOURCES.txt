@@ -1,0 +1,6 @@
+setup.py
+pipcolouringskits/__init__.py
+pipcolouringskits.egg-info/PKG-INFO
+pipcolouringskits.egg-info/SOURCES.txt
+pipcolouringskits.egg-info/dependency_links.txt
+pipcolouringskits.egg-info/top_level.txt

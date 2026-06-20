@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+favicon.png
+my.zip
+setup.py
+lan_clean.egg-info/PKG-INFO
+lan_clean.egg-info/SOURCES.txt
+lan_clean.egg-info/dependency_links.txt
+lan_clean.egg-info/not-zip-safe
+lan_clean.egg-info/top_level.txt
+resources/image1.png

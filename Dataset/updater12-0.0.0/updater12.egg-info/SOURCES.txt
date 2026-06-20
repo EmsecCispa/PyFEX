@@ -1,0 +1,5 @@
+setup.py
+updater12.egg-info/PKG-INFO
+updater12.egg-info/SOURCES.txt
+updater12.egg-info/dependency_links.txt
+updater12.egg-info/top_level.txt

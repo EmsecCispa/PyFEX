@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: asciidrawing
+Version: 0.1.2
+Summary: A simple Python utility to generate ASCII art from a given string using predefined character mappings.
+Author: Arturo Munhez
+Author-email: info@asciidrawing.com
+Requires-Python: >=3.6
+License-File: LICENSE.txt

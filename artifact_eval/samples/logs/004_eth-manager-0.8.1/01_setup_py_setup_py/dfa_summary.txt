@@ -1,0 +1,39 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/004_eth-manager-0.8.1
+dfa_logs: 0
+trace_logs: 1
+python_files: 24
+touched_files: 1
+untouched_files: 23
+defined_functions: 0
+called_functions: 0
+defined_but_not_called: 0
+
+## Untouched Python Files
+- eth_manager/__init__.py
+- eth_manager/_utils/__init__.py
+- eth_manager/_utils/encode_typed_data/__init__.py
+- eth_manager/_utils/encode_typed_data/encoding_and_hashing.py
+- eth_manager/_utils/encode_typed_data/helpers.py
+- eth_manager/_utils/legacy_transactions.py
+- eth_manager/_utils/signing.py
+- eth_manager/_utils/structured_data/__init__.py
+- eth_manager/_utils/structured_data/hashing.py
+- eth_manager/_utils/structured_data/validation.py
+- eth_manager/_utils/transaction_utils.py
+- eth_manager/_utils/typed_transactions.py
+- eth_manager/_utils/validation.py
+- eth_manager/account.py
+- eth_manager/datastructures.py
+- eth_manager/hdaccount/__init__.py
+- eth_manager/hdaccount/_utils.py
+- eth_manager/hdaccount/deterministic.py
+- eth_manager/hdaccount/mnemonic.py
+- eth_manager/messages.py
+- eth_manager/signers/__init__.py
+- eth_manager/signers/base.py
+- eth_manager/signers/local.py
+
+## Defined But Not Called
+- <none>

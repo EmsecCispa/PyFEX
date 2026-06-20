@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: zoom-pyutils
+Version: 7.0.0
+License: MIT
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+
+# Example Package
+
+This is a simple example package for POC.

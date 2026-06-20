@@ -1,0 +1,21 @@
+[build-system]
+requires = [
+    "pdm-backend",
+]
+build-backend = "pdm.backend"
+
+[project]
+name = "pywinrequest"
+version = "1.0.1"
+authors = [
+    { name = "Jacob Sanchez", email = "qusikora@afia.pro" },
+]
+description = "A package that makes python easier to understand"
+readme = "README.md"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[tool]

@@ -1,0 +1,7 @@
+setup.py
+pygraphql/__init__.py
+pygraphql32.egg-info/PKG-INFO
+pygraphql32.egg-info/SOURCES.txt
+pygraphql32.egg-info/dependency_links.txt
+pygraphql32.egg-info/requires.txt
+pygraphql32.egg-info/top_level.txt

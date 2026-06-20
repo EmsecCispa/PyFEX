@@ -1,0 +1,15 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+test_test_test123/__init__.py
+test_test_test123/connector.py
+test_test_test123/errors.py
+test_test_test123/helpers.py
+test_test_test123/proto.py
+test_test_test123.egg-info/PKG-INFO
+test_test_test123.egg-info/SOURCES.txt
+test_test_test123.egg-info/dependency_links.txt
+test_test_test123.egg-info/requires.txt
+test_test_test123.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+pyproject.toml
+setup.cfg
+src/__init__.py
+src/setup.py
+src/pycryptv7.egg-info/PKG-INFO
+src/pycryptv7.egg-info/SOURCES.txt
+src/pycryptv7.egg-info/dependency_links.txt
+src/pycryptv7.egg-info/top_level.txt

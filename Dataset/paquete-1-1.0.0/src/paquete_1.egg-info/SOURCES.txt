@@ -1,0 +1,7 @@
+setup.py
+src/examples/__init__.py
+src/examples/options.py
+src/paquete_1.egg-info/PKG-INFO
+src/paquete_1.egg-info/SOURCES.txt
+src/paquete_1.egg-info/dependency_links.txt
+src/paquete_1.egg-info/top_level.txt

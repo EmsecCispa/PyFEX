@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: coloredpy
+Version: 0.0.1
+Summary: Basic Python Color Package
+Author: Hase Müller
+Author-email: <hasemueller@info.com>
+Keywords: python,color,style
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows

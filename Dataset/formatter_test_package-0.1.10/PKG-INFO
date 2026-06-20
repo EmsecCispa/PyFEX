@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: formatter_test_package
+Version: 0.1.10
+Requires-Dist: requests>=2.20.0
+Requires-Dist: psutil>=5.8.0

@@ -1,0 +1,2 @@
+[console_scripts]
+circleinfo = circleinfo.circleinfo:circleinfo

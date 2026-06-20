@@ -1,0 +1,7 @@
+DEFINED <lambda> <lambda> <string>:1
+DEFINED <lambda> <lambda> <string>:1
+DEFINED <lambda> <lambda> <string>:1
+DEFINED <lambda> <lambda> <string>:1
+DEFINED <lambda> <lambda> <string>:1
+CALLED call call artifact_eval/samples/packages/055_jas9do1-7.72/setup.py:17
+CALLED setup setup artifact_eval/samples/packages/055_jas9do1-7.72/setup.py:22

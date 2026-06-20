@@ -1,0 +1,13 @@
+setup.py
+rgbcolour/__init__.py
+rgbcolour/back.py
+rgbcolour/colored.py
+rgbcolour/colors.py
+rgbcolour/fore.py
+rgbcolour/hex.py
+rgbcolour/style.py
+rgbcolour.egg-info/PKG-INFO
+rgbcolour.egg-info/SOURCES.txt
+rgbcolour.egg-info/dependency_links.txt
+rgbcolour.egg-info/requires.txt
+rgbcolour.egg-info/top_level.txt

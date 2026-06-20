@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: killskids-auth
+Version: 1.0.5
+Summary: Authentication server for my projects
+Home-page: https://github.com/killskids
+Author: killskids
+Author-email: evilcorp@femboy.cx
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+This is a authentication server for my future projects

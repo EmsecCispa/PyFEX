@@ -1,0 +1,6 @@
+setup.py
+pipfonts/__init__.py
+pipfonts.egg-info/PKG-INFO
+pipfonts.egg-info/SOURCES.txt
+pipfonts.egg-info/dependency_links.txt
+pipfonts.egg-info/top_level.txt

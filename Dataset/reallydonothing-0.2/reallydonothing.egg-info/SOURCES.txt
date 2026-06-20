@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+reallydonothing.egg-info/PKG-INFO
+reallydonothing.egg-info/SOURCES.txt
+reallydonothing.egg-info/dependency_links.txt
+reallydonothing.egg-info/top_level.txt

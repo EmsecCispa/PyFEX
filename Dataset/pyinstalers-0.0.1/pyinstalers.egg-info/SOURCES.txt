@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+pyinstalers/__init__.py
+pyinstalers.egg-info/PKG-INFO
+pyinstalers.egg-info/SOURCES.txt
+pyinstalers.egg-info/dependency_links.txt
+pyinstalers.egg-info/top_level.txt

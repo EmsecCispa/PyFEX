@@ -1,0 +1,9 @@
+LICENSE.txt
+setup.py
+seabonr/__init__.py
+seabonr/cli.py
+seabonr.egg-info/PKG-INFO
+seabonr.egg-info/SOURCES.txt
+seabonr.egg-info/dependency_links.txt
+seabonr.egg-info/entry_points.txt
+seabonr.egg-info/top_level.txt

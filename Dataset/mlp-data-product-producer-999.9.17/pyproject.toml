@@ -1,0 +1,21 @@
+[project]
+name = "mlp-data-product-producer"
+version = "999.9.17"
+authors = [
+    {name = "fix deps", email = "fix@python.deps"}
+]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.0"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[tool.setuptools.packages.find]
+include = ["mlp_data_product_producer"]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

@@ -1,0 +1,3 @@
+[artifact_eval/samples/packages/067_aidoc-e2e-utils-5.0.3/setup.py:22] [__build_class__](<function CustomInstall at 0x7b4dce7d3f40>, 'CustomInstall', <DummyObject No module named 'setuptools'@setup.py:2>)
+[artifact_eval/samples/packages/067_aidoc-e2e-utils-5.0.3/setup.py:36] [DummyObject]()
+[artifact_eval/samples/packages/067_aidoc-e2e-utils-5.0.3/setup.py:36] [DummyObject](cmdclass={'install': <DummyObject No module named 'setuptools'@setup.py:2>}, packages=<DummyObject No module named 'setuptools'@setup.py:3>)

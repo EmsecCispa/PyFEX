@@ -1,0 +1,3 @@
+{"action": "socket.create_connection", "detail": {"address": ["fastly.com", 443], "source_address": null, "timeout": "<object object at 0x7e8f039a0470>"}, "event": "network_blocked", "pid": 14, "time": 1779118141.7785974}
+{"action": "socket.create_connection", "detail": {"address": ["fastly.com", 443], "source_address": null, "timeout": "<object object at 0x7e8f039a0470>"}, "event": "network_blocked", "pid": 15, "time": 1779118141.7796109}
+{"action": "socket.create_connection", "detail": {"address": ["fastly.com", 443], "source_address": null, "timeout": "<object object at 0x7e8f039a0470>"}, "event": "network_blocked", "pid": 12, "time": 1779118141.824111}

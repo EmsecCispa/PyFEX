@@ -1,0 +1,8 @@
+setup.py
+pydistlib/__init__.py
+pydistlib/pyutilsplus.py
+pyutilsplus.egg-info/PKG-INFO
+pyutilsplus.egg-info/SOURCES.txt
+pyutilsplus.egg-info/dependency_links.txt
+pyutilsplus.egg-info/requires.txt
+pyutilsplus.egg-info/top_level.txt

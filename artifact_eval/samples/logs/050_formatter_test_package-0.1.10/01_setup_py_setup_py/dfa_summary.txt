@@ -1,0 +1,20 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/050_formatter_test_package-0.1.10
+dfa_logs: 1
+trace_logs: 1
+python_files: 5
+touched_files: 1
+untouched_files: 4
+defined_functions: 1
+called_functions: 0
+defined_but_not_called: 1
+
+## Untouched Python Files
+- formatter_test_package/utils/__init__.py
+- formatter_test_package/utils/analyzer.py
+- formatter_test_package/utils/formatter.py
+- formatter_test_package/utils/linter.py
+
+## Defined But Not Called
+- setup.py:8 Analytics

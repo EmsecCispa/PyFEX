@@ -1,0 +1,2 @@
+[console_scripts]
+cookiesshower = CookiesShower.main:main

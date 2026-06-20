@@ -1,0 +1,6 @@
+setup.py
+ateslassia.egg-info/PKG-INFO
+ateslassia.egg-info/SOURCES.txt
+ateslassia.egg-info/dependency_links.txt
+ateslassia.egg-info/not-zip-safe
+ateslassia.egg-info/top_level.txt

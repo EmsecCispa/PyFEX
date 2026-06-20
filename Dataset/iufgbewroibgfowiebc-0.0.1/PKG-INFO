@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: iufgbewroibgfowiebc
+Version: 0.0.1
+Summary: Dependency confiuse Attack
+Author: <techghoshal>
+Author-email: <techghoshal@gmail.com>
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
+
+<h1 align="center">This Python package vulnerable to dependency confusion vulnerability</h1>

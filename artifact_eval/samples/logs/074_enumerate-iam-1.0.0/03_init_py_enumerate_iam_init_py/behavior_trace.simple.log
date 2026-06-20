@@ -1,0 +1,2 @@
+[artifact_eval/samples/packages/074_enumerate-iam-1.0.0/_pyfex_import_enumerate_iam.py:3] [print]('[pyfex-entry] import enumerate_iam')
+[artifact_eval/samples/packages/074_enumerate-iam-1.0.0/_pyfex_import_enumerate_iam.py:4] [import_module]('enumerate_iam')

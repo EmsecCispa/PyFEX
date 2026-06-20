@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+src/dmp_suite/__init__.py
+src/dmp_suite.egg-info/PKG-INFO
+src/dmp_suite.egg-info/SOURCES.txt
+src/dmp_suite.egg-info/dependency_links.txt
+src/dmp_suite.egg-info/top_level.txt

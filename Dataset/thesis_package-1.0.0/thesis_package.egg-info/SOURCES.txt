@@ -1,0 +1,5 @@
+setup.py
+thesis_package.egg-info/PKG-INFO
+thesis_package.egg-info/SOURCES.txt
+thesis_package.egg-info/dependency_links.txt
+thesis_package.egg-info/top_level.txt

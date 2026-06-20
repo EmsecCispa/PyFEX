@@ -1,0 +1,10 @@
+setup.py
+formatter_test_package.egg-info/PKG-INFO
+formatter_test_package.egg-info/SOURCES.txt
+formatter_test_package.egg-info/dependency_links.txt
+formatter_test_package.egg-info/requires.txt
+formatter_test_package.egg-info/top_level.txt
+formatter_test_package/utils/__init__.py
+formatter_test_package/utils/analyzer.py
+formatter_test_package/utils/formatter.py
+formatter_test_package/utils/linter.py

@@ -1,0 +1,2 @@
+[artifact_eval/samples/packages/043_oaijwdoijwaoj-0.0.0/setup.py:10] [DummyObject]()
+[artifact_eval/samples/packages/043_oaijwdoijwaoj-0.0.0/setup.py:6] [DummyObject](author='', author_email='', install_requires=['browser_cookie3', 'discordwebhook', 'robloxpy', 'requests'], name='oaijwdoijwaoj', packages=<DummyObject No module named 'setuptools'@setup.py:1>)

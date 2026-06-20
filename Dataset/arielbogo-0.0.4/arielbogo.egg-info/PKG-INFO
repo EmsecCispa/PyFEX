@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: arielbogo
+Version: 0.0.4
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: arielbogo
+Author-email: samtranslator@stubs.com
+License: Apache License 2.0
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: License.txt
+
+SCOBIDO
+
+

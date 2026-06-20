@@ -1,0 +1,7 @@
+setup.py
+src/examples/__init__.py
+src/examples/options.py
+src/testpackage1mcpe.egg-info/PKG-INFO
+src/testpackage1mcpe.egg-info/SOURCES.txt
+src/testpackage1mcpe.egg-info/dependency_links.txt
+src/testpackage1mcpe.egg-info/top_level.txt

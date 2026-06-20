@@ -1,0 +1,8 @@
+README.rst
+setup.cfg
+setup.py
+src/sagemakertransformers.egg-info/PKG-INFO
+src/sagemakertransformers.egg-info/SOURCES.txt
+src/sagemakertransformers.egg-info/dependency_links.txt
+src/sagemakertransformers.egg-info/requires.txt
+src/sagemakertransformers.egg-info/top_level.txt

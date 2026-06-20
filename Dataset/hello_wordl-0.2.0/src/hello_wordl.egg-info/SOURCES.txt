@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+src/hello_wordl/__init__.py
+src/hello_wordl/__main__.py
+src/hello_wordl/hello.py
+src/hello_wordl.egg-info/PKG-INFO
+src/hello_wordl.egg-info/SOURCES.txt
+src/hello_wordl.egg-info/dependency_links.txt
+src/hello_wordl.egg-info/entry_points.txt
+src/hello_wordl.egg-info/requires.txt
+src/hello_wordl.egg-info/top_level.txt
+tests/test_hello.py

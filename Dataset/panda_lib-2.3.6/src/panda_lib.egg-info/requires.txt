@@ -1,0 +1,9 @@
+numpy
+scipy
+astropy
+specutils>=1.6
+importlib_resources
+pandas
+matplotlib
+tqdm
+bokeh<=2.4.3

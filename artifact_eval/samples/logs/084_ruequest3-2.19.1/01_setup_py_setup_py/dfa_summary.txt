@@ -1,0 +1,53 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/084_ruequest3-2.19.1
+dfa_logs: 1
+trace_logs: 1
+python_files: 35
+touched_files: 1
+untouched_files: 34
+defined_functions: 4
+called_functions: 6
+defined_but_not_called: 4
+
+## Untouched Python Files
+- src/ruequest3/__init__.py
+- src/ruequest3/__version__.py
+- src/ruequest3/_internal_utils.py
+- src/ruequest3/adapters.py
+- src/ruequest3/api.py
+- src/ruequest3/auth.py
+- src/ruequest3/certs.py
+- src/ruequest3/compat.py
+- src/ruequest3/cookies.py
+- src/ruequest3/exceptions.py
+- src/ruequest3/help.py
+- src/ruequest3/hooks.py
+- src/ruequest3/models.py
+- src/ruequest3/packages.py
+- src/ruequest3/sessions.py
+- src/ruequest3/status_codes.py
+- src/ruequest3/structures.py
+- src/ruequest3/utils.py
+- tests/__init__.py
+- tests/compat.py
+- tests/conftest.py
+- tests/pyarmor_runtime_000000/__init__.py
+- tests/pytransform/__init__.py
+- tests/test_help.py
+- tests/test_hooks.py
+- tests/test_lowlevel.py
+- tests/test_packages.py
+- tests/test_requests.py
+- tests/test_structures.py
+- tests/test_testserver.py
+- tests/test_utils.py
+- tests/testserver/__init__.py
+- tests/testserver/server.py
+- tests/utils.py
+
+## Defined But Not Called
+- setup.py:71 PostDevelopCommand
+- setup.py:78 PostInstallCommand
+- setup.py:35 PyTest
+- setup.py:58 strt

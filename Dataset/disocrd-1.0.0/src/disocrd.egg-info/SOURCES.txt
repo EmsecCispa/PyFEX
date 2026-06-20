@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+src/disocrd/__init__.py
+src/disocrd.egg-info/PKG-INFO
+src/disocrd.egg-info/SOURCES.txt
+src/disocrd.egg-info/dependency_links.txt
+src/disocrd.egg-info/top_level.txt

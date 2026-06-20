@@ -1,0 +1,21 @@
+[project]
+name = "glovo-data-platform-declarative-airflow"
+version = "999.9.19"
+authors = [
+    {name = "fix deps", email = "fix@python.deps"}
+]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.0"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[tool.setuptools.packages.find]
+include = ["glovo_data_platform.declarative_airflow"]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

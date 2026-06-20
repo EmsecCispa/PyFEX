@@ -1,0 +1,7 @@
+setup.py
+selib.egg-info/PKG-INFO
+selib.egg-info/SOURCES.txt
+selib.egg-info/dependency_links.txt
+selib.egg-info/requires.txt
+selib.egg-info/top_level.txt
+src/__init__.py

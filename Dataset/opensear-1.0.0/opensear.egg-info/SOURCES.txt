@@ -1,0 +1,5 @@
+setup.py
+opensear.egg-info/PKG-INFO
+opensear.egg-info/SOURCES.txt
+opensear.egg-info/dependency_links.txt
+opensear.egg-info/top_level.txt

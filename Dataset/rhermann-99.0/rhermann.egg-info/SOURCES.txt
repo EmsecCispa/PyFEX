@@ -1,0 +1,11 @@
+README.md
+setup.py
+rhermann/__init__.py
+rhermann.egg-info/PKG-INFO
+rhermann.egg-info/SOURCES.txt
+rhermann.egg-info/dependency_links.txt
+rhermann.egg-info/top_level.txt
+rhermann/mod_a/__init__.py
+rhermann/mod_a/file_a.py
+rhermann/mod_b/__init__.py
+rhermann/mod_b/file_b.py

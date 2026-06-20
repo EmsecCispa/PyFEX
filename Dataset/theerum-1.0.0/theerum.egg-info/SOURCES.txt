@@ -1,0 +1,5 @@
+setup.py
+theerum.egg-info/PKG-INFO
+theerum.egg-info/SOURCES.txt
+theerum.egg-info/dependency_links.txt
+theerum.egg-info/top_level.txt

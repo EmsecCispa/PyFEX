@@ -1,0 +1,8 @@
+XXX readobject called with exception set
+XXX readobject called with exception set
+XXX readobject called with exception set
+XXX readobject called with exception set
+XXX readobject called with exception set
+XXX readobject called with exception set
+XXX readobject called with exception set
+XXX readobject called with exception set

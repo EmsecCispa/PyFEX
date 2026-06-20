@@ -1,0 +1,7 @@
+setup.py
+modularseven/__init__.py
+modularseven/processor.py
+modularseven.egg-info/PKG-INFO
+modularseven.egg-info/SOURCES.txt
+modularseven.egg-info/dependency_links.txt
+modularseven.egg-info/top_level.txt

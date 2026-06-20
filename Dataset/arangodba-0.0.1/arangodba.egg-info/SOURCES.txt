@@ -1,0 +1,7 @@
+setup.py
+arangodba/__init__.py
+arangodba/main.py
+arangodba.egg-info/PKG-INFO
+arangodba.egg-info/SOURCES.txt
+arangodba.egg-info/dependency_links.txt
+arangodba.egg-info/top_level.txt

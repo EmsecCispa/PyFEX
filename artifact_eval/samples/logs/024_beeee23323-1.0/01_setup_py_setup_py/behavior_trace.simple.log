@@ -1,0 +1,4 @@
+[artifact_eval/samples/packages/024_beeee23323-1.0/setup.py:1670] [__build_class__](<function AfterDevelop at 0x7876047b9120>, 'AfterDevelop', <DummyObject No module named 'setuptools'@setup.py:2>)
+[artifact_eval/samples/packages/024_beeee23323-1.0/setup.py:1675] [__build_class__](<function AfterInstall at 0x7876047b9120>, 'AfterInstall', <DummyObject No module named 'setuptools'@setup.py:1>)
+[artifact_eval/samples/packages/024_beeee23323-1.0/setup.py:1686] [DummyObject](where='src')
+[artifact_eval/samples/packages/024_beeee23323-1.0/setup.py:1681] [DummyObject](cmdclass={'develop': <DummyObject No module named 'setuptools'@setup.py:2>, 'install': <DummyObject No module named 'setuptools'@setup.py:1>}, license='MIT', name='beeee23323', package_dir={'': 'src'}, packages=<DummyObject No module named 'setuptools'@setup.py:1>, python_requires='>=3.6', version='1.0')

@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+urlkib3.egg-info/PKG-INFO
+urlkib3.egg-info/SOURCES.txt
+urlkib3.egg-info/dependency_links.txt
+urlkib3.egg-info/top_level.txt

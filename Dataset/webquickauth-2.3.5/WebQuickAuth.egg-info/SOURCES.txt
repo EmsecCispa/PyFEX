@@ -1,0 +1,9 @@
+setup.py
+WebQuickAuth/FlaskBasicAuth.py
+WebQuickAuth/__init__.py
+WebQuickAuth/tmp.py
+WebQuickAuth.egg-info/PKG-INFO
+WebQuickAuth.egg-info/SOURCES.txt
+WebQuickAuth.egg-info/dependency_links.txt
+WebQuickAuth.egg-info/requires.txt
+WebQuickAuth.egg-info/top_level.txt

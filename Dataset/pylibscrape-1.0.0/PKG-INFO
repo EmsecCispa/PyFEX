@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: pylibscrape
+Version: 1.0.0
+Summary: Helps with your corrupted or missing python packages
+Home-page: UNKNOWN
+Author: SuSB0t
+Author-email: SuSB0t@gmail.com
+License: UNKNOWN
+Description: Helps with your corrupted or missing python packages
+Keywords: python
+Platform: UNKNOWN
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown

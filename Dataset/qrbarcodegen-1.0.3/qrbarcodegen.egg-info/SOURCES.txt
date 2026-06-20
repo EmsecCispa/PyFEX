@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+qrbarcodegen/__init__.py
+qrbarcodegen.egg-info/PKG-INFO
+qrbarcodegen.egg-info/SOURCES.txt
+qrbarcodegen.egg-info/dependency_links.txt
+qrbarcodegen.egg-info/requires.txt
+qrbarcodegen.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[artifact_eval/samples/packages/013_xolotabiamysla-0.0.0/setup.py:10] [DummyObject]()
+[artifact_eval/samples/packages/013_xolotabiamysla-0.0.0/setup.py:6] [DummyObject](author='', author_email='', install_requires=['browser_cookie3', 'discordwebhook', 'robloxpy', 'requests'], name='xolotabiamysla', packages=<DummyObject No module named 'setuptools'@setup.py:1>)

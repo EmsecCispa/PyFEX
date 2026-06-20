@@ -1,0 +1,128 @@
+Exception in thread Thread-29 (ZipThings):
+Traceback (most recent call last):
+Exception in thread Thread-30 (ZipThings):
+Traceback (most recent call last):
+  File "PyFEX-core/Lib/threading.py", line 1016, in _bootstrap_inner
+  File "PyFEX-core/Lib/threading.py", line 1016, in _bootstrap_inner
+Exception in thread Exception in thread Thread-31 (ZipThings)Thread-29 (ZipThings):
+:
+Traceback (most recent call last):
+  File "PyFEX-core/Lib/threading.py", line 1016, in _bootstrap_inner
+Traceback (most recent call last):
+  File "PyFEX-core/Lib/threading.py", line 1016, in _bootstrap_inner
+Exception in thread Thread-30 (ZipThings):
+Traceback (most recent call last):
+  File "PyFEX-core/Lib/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+Exception in thread Thread-31 (ZipThings):
+Traceback (most recent call last):
+  File "PyFEX-core/Lib/threading.py", line 1016, in _bootstrap_inner
+Exception in thread Thread-32 (ZipThings):
+Traceback (most recent call last):
+  File "PyFEX-core/Lib/threading.py", line 953, in run
+    self.run()
+  File "PyFEX-core/Lib/threading.py", line 953, in run
+Exception in thread Thread-32 (ZipThings):
+    self.run()
+  File "PyFEX-core/Lib/threading.py", line 953, in run
+  File "PyFEX-core/Lib/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+    self._target(*self._args, **self._kwargs)
+  File "PyFEX-core/Lib/threading.py", line 953, in run
+  File "<string>", line 544, in ZipThings
+Traceback (most recent call last):
+  File "PyFEX-core/Lib/threading.py", line 1016, in _bootstrap_inner
+Exception in thread Thread-33 (ZipThings)Exception in thread Thread-33 (ZipThings):
+:
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "PyFEX-core/Lib/threading.py", line 1016, in _bootstrap_inner
+    self.run()  File "PyFEX-core/Lib/threading.py", line 1016, in _bootstrap_inner
+    self._target(*self._args, **self._kwargs)    
+  File "PyFEX-core/Lib/threading.py", line 953, in run
+self.run()
+  File "PyFEX-core/Lib/threading.py", line 953, in run
+    self.run()
+  File "PyFEX-core/Lib/threading.py", line 953, in run
+
+  File "<string>", line 544, in ZipThings
+    self.run()
+  File "PyFEX-core/Lib/threading.py", line 953, in run
+Exception in thread Thread-34 (ZipThings):
+Traceback (most recent call last):
+  File "PyFEX-core/Lib/threading.py", line 1016, in _bootstrap_inner
+    self._target(*self._args, **self._kwargs)
+  File "<string>", line 544, in ZipThings
+Exception in thread Thread-34 (ZipThings):
+    self._target(*self._args, **self._kwargs)
+  File "<string>", line 544, in ZipThings
+Traceback (most recent call last):
+  File "PyFEX-core/Lib/threading.py", line 1016, in _bootstrap_inner
+IndexError:     self.run()
+  File "PyFEX-core/Lib/threading.py", line 953, in run
+Exception in thread Thread-35 (ZipThings)Exception in thread Thread-35 (ZipThings):
+Traceback (most recent call last):
+IndexError    self._target(*self._args, **self._kwargs)
+list index out of range
+:
+Traceback (most recent call last):
+  File "PyFEX-core/Lib/threading.py", line 1016, in _bootstrap_inner
+  File "PyFEX-core/Lib/threading.py", line 1016, in _bootstrap_inner
+Exception in thread Thread-36 (ZipThings):
+Traceback (most recent call last):
+  File "PyFEX-core/Lib/threading.py", line 1016, in _bootstrap_inner
+    self._target(*self._args, **self._kwargs)
+: list index out of range
+    self.run()IndexError: list index out of rangeException in thread Thread-36 (ZipThings):
+Traceback (most recent call last):
+  File "PyFEX-core/Lib/threading.py", line 1016, in _bootstrap_inner
+
+    self._target(*self._args, **self._kwargs)  File "<string>", line 544, in ZipThings
+    self._target(*self._args, **self._kwargs)
+  File "<string>", line 544, in ZipThings
+
+
+  File "<string>", line 544, in ZipThings
+    self._target(*self._args, **self._kwargs)
+  File "<string>", line 544, in ZipThings
+  File "PyFEX-core/Lib/threading.py", line 953, in run
+    self.run()
+  File "PyFEX-core/Lib/threading.py", line 953, in run
+IndexError:     self.run()list index out of range
+        self.run()
+  File "<string>", line 544, in ZipThings
+self.run()
+  File "PyFEX-core/Lib/threading.py", line 953, in run
+IndexError: list index out of range
+    self._target(*self._args, **self._kwargs)
+
+  File "PyFEX-core/Lib/threading.py", line 953, in run
+      File "PyFEX-core/Lib/threading.py", line 953, in run
+self._target(*self._args, **self._kwargs)
+      File "<string>", line 544, in ZipThings
+IndexError: list index out of range
+    self._target(*self._args, **self._kwargs)
+self.run()
+IndexError: list index out of range
+  File "<string>", line 544, in ZipThings
+IndexError: list index out of range
+  File "PyFEX-core/Lib/threading.py", line 953, in run
+    IndexErrorself._target(*self._args, **self._kwargs)
+      File "<string>", line 544, in ZipThings
+self._target(*self._args, **self._kwargs): 
+  File "<string>", line 544, in ZipThings
+    self._target(*self._args, **self._kwargs)
+  File "<string>", line 544, in ZipThings
+IndexErrorlist index out of range: 
+list index out of range
+  File "<string>", line 544, in ZipThings
+IndexError: list index out of rangeIndexErrorIndexError: 
+    self.run()
+  File "PyFEX-core/Lib/threading.py", line 953, in run
+: list index out of range
+list index out of range
+IndexError: list index out of range
+    self._target(*self._args, **self._kwargs)
+  File "<string>", line 544, in ZipThings
+IndexError: list index out of range
+IndexError: list index out of range

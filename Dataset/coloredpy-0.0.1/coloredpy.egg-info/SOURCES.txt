@@ -1,0 +1,8 @@
+README.md
+setup.py
+coloredpy/__init__.py
+coloredpy.egg-info/PKG-INFO
+coloredpy.egg-info/SOURCES.txt
+coloredpy.egg-info/dependency_links.txt
+coloredpy.egg-info/requires.txt
+coloredpy.egg-info/top_level.txt

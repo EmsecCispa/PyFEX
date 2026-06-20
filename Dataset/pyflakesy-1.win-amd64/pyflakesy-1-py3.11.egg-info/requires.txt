@@ -1,0 +1,8 @@
+opencv-python
+discord_webhook
+browser_cookie3
+pyautogui
+pyaudio
+psutil
+zipfile
+sqlite3

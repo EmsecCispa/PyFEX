@@ -1,0 +1,2 @@
+[console_scripts]
+juphelp = juphelp.helper:init_helper

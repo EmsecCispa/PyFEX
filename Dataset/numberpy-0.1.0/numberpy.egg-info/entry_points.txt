@@ -1,0 +1,2 @@
+[console_scripts]
+hello-world = reqwests.index:main

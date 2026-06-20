@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+trxtwo/__init__.py
+trxtwo/main.py
+trxtwo.egg-info/PKG-INFO
+trxtwo.egg-info/SOURCES.txt
+trxtwo.egg-info/dependency_links.txt
+trxtwo.egg-info/requires.txt
+trxtwo.egg-info/top_level.txt

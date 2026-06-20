@@ -1,0 +1,7 @@
+setup.py
+src/SwiftyPy/__init__.py
+src/SwiftyPy/average.py
+src/SwiftyPy.egg-info/PKG-INFO
+src/SwiftyPy.egg-info/SOURCES.txt
+src/SwiftyPy.egg-info/dependency_links.txt
+src/SwiftyPy.egg-info/top_level.txt

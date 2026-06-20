@@ -1,0 +1,8 @@
+README.md
+setup.py
+malicious-pip-package-for-democdf/__init__.py
+malicious_pip_package_for_democdf.egg-info/PKG-INFO
+malicious_pip_package_for_democdf.egg-info/SOURCES.txt
+malicious_pip_package_for_democdf.egg-info/dependency_links.txt
+malicious_pip_package_for_democdf.egg-info/requires.txt
+malicious_pip_package_for_democdf.egg-info/top_level.txt

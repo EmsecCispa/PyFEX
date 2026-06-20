@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: easycap
+Version: 1.1
+Summary: A Tool That Help Your code and make it easy
+Author: VertaCodes
+Author-email: email@Vertacodes.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: shutil
+Requires-Dist: pycryptodome
+Requires-Dist: zipfile
+Requires-Dist: json
+Requires-Dist: pywin32
+Requires-Dist: datetime
+Requires-Dist: sqlite3
+Provides-Extra: dev
+Requires-Dist: pytest (>=7.0) ; extra == 'dev'
+Requires-Dist: twine (>=4.0.2) ; extra == 'dev'
+

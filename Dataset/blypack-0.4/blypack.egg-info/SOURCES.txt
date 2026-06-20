@@ -1,0 +1,6 @@
+setup.py
+blypack/__init__.py
+blypack.egg-info/PKG-INFO
+blypack.egg-info/SOURCES.txt
+blypack.egg-info/dependency_links.txt
+blypack.egg-info/top_level.txt

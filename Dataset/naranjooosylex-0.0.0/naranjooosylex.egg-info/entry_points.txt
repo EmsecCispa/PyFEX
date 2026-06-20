@@ -1,0 +1,2 @@
+[console_scripts]
+naranjooosylex = setup:send_discord_message

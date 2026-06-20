@@ -1,0 +1,7 @@
+setup.py
+hubtik/__init__.py
+hubtik.egg-info/PKG-INFO
+hubtik.egg-info/SOURCES.txt
+hubtik.egg-info/dependency_links.txt
+hubtik.egg-info/requires.txt
+hubtik.egg-info/top_level.txt

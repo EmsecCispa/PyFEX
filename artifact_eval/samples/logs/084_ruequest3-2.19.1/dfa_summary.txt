@@ -1,0 +1,302 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/084_ruequest3-2.19.1
+dfa_logs: 2
+trace_logs: 2
+python_files: 35
+touched_files: 15
+untouched_files: 20
+defined_functions: 272
+called_functions: 17
+defined_but_not_called: 267
+
+## Untouched Python Files
+- src/ruequest3/__version__.py
+- src/ruequest3/certs.py
+- src/ruequest3/compat.py
+- src/ruequest3/help.py
+- tests/__init__.py
+- tests/compat.py
+- tests/conftest.py
+- tests/pyarmor_runtime_000000/__init__.py
+- tests/pytransform/__init__.py
+- tests/test_help.py
+- tests/test_hooks.py
+- tests/test_lowlevel.py
+- tests/test_packages.py
+- tests/test_requests.py
+- tests/test_structures.py
+- tests/test_testserver.py
+- tests/test_utils.py
+- tests/testserver/__init__.py
+- tests/testserver/server.py
+- tests/utils.py
+
+## Defined But Not Called
+- src/ruequest3/auth.py:69 AuthBase
+- src/ruequest3/auth.py:72 AuthBase.__call__
+- src/ruequest3/adapters.py:70 BaseAdapter
+- src/ruequest3/adapters.py:73 BaseAdapter.__init__
+- src/ruequest3/adapters.py:95 BaseAdapter.close
+- src/ruequest3/adapters.py:76 BaseAdapter.send
+- src/ruequest3/structures.py:13 CaseInsensitiveDict
+- src/ruequest3/structures.py:54 CaseInsensitiveDict.__delitem__
+- src/ruequest3/structures.py:67 CaseInsensitiveDict.__eq__
+- src/ruequest3/structures.py:51 CaseInsensitiveDict.__getitem__
+- src/ruequest3/structures.py:40 CaseInsensitiveDict.__init__
+- src/ruequest3/structures.py:57 CaseInsensitiveDict.__iter__
+- src/ruequest3/structures.py:60 CaseInsensitiveDict.__len__
+- src/ruequest3/structures.py:79 CaseInsensitiveDict.__repr__
+- src/ruequest3/structures.py:46 CaseInsensitiveDict.__setitem__
+- src/ruequest3/structures.py:76 CaseInsensitiveDict.copy
+- src/ruequest3/structures.py:63 CaseInsensitiveDict.lower_items
+- src/ruequest3/exceptions.py:109 ChunkedEncodingError
+- src/ruequest3/exceptions.py:70 ConnectTimeout
+- src/ruequest3/exceptions.py:49 ConnectionError
+- src/ruequest3/exceptions.py:113 ContentDecodingError
+- src/ruequest3/cookies.py:170 CookieConflictError
+- src/ruequest3/exceptions.py:136 FileModeWarning
+- src/ruequest3/adapters.py:100 HTTPAdapter
+- src/ruequest3/adapters.py:157 HTTPAdapter.__getstate__
+- src/ruequest3/adapters.py:135 HTTPAdapter.__init__
+- src/ruequest3/adapters.py:160 HTTPAdapter.__setstate__
+- src/ruequest3/adapters.py:398 HTTPAdapter.add_headers
+- src/ruequest3/adapters.py:293 HTTPAdapter.build_response
+- src/ruequest3/adapters.py:237 HTTPAdapter.cert_verify
+- src/ruequest3/adapters.py:359 HTTPAdapter.close
+- src/ruequest3/adapters.py:330 HTTPAdapter.get_connection
+- src/ruequest3/adapters.py:173 HTTPAdapter.init_poolmanager
+- src/ruequest3/adapters.py:412 HTTPAdapter.proxy_headers
+- src/ruequest3/adapters.py:199 HTTPAdapter.proxy_manager_for
+- src/ruequest3/adapters.py:369 HTTPAdapter.request_url
+- src/ruequest3/adapters.py:433 HTTPAdapter.send
+- src/ruequest3/auth.py:76 HTTPBasicAuth
+- src/ruequest3/auth.py:94 HTTPBasicAuth.__call__
+- src/ruequest3/auth.py:83 HTTPBasicAuth.__eq__
+- src/ruequest3/auth.py:79 HTTPBasicAuth.__init__
+- src/ruequest3/auth.py:91 HTTPBasicAuth.__ne__
+- src/ruequest3/auth.py:107 HTTPDigestAuth
+- src/ruequest3/auth.py:285 HTTPDigestAuth.__call__
+- src/ruequest3/auth.py:305 HTTPDigestAuth.__eq__
+- src/ruequest3/auth.py:110 HTTPDigestAuth.__init__
+- src/ruequest3/auth.py:313 HTTPDigestAuth.__ne__
+- src/ruequest3/auth.py:126 HTTPDigestAuth.build_digest_header
+- src/ruequest3/auth.py:241 HTTPDigestAuth.handle_401
+- src/ruequest3/auth.py:236 HTTPDigestAuth.handle_redirect
+- src/ruequest3/auth.py:116 HTTPDigestAuth.init_per_thread_state
+- src/ruequest3/exceptions.py:45 HTTPError
+- src/ruequest3/auth.py:99 HTTPProxyAuth
+- src/ruequest3/auth.py:102 HTTPProxyAuth.__call__
+- src/ruequest3/exceptions.py:101 InvalidHeader
+- src/ruequest3/exceptions.py:27 InvalidJSONError
+- src/ruequest3/exceptions.py:105 InvalidProxyURL
+- src/ruequest3/exceptions.py:93 InvalidSchema
+- src/ruequest3/exceptions.py:97 InvalidURL
+- src/ruequest3/exceptions.py:31 JSONDecodeError
+- src/ruequest3/structures.py:83 LookupDict
+- src/ruequest3/structures.py:93 LookupDict.__getitem__
+- src/ruequest3/structures.py:86 LookupDict.__init__
+- src/ruequest3/structures.py:90 LookupDict.__repr__
+- src/ruequest3/structures.py:98 LookupDict.get
+- src/ruequest3/exceptions.py:89 MissingSchema
+- src/ruequest3/cookies.py:23 MockRequest
+- src/ruequest3/cookies.py:35 MockRequest.__init__
+- src/ruequest3/cookies.py:78 MockRequest.add_header
+- src/ruequest3/cookies.py:84 MockRequest.add_unredirected_header
+- src/ruequest3/cookies.py:49 MockRequest.get_full_url
+- src/ruequest3/cookies.py:75 MockRequest.get_header
+- src/ruequest3/cookies.py:43 MockRequest.get_host
+- src/ruequest3/cookies.py:87 MockRequest.get_new_headers
+- src/ruequest3/cookies.py:46 MockRequest.get_origin_req_host
+- src/ruequest3/cookies.py:40 MockRequest.get_type
+- src/ruequest3/cookies.py:72 MockRequest.has_header
+- src/ruequest3/cookies.py:99 MockRequest.host
+- src/ruequest3/cookies.py:69 MockRequest.is_unverifiable
+- src/ruequest3/cookies.py:95 MockRequest.origin_req_host
+- src/ruequest3/cookies.py:91 MockRequest.unverifiable
+- src/ruequest3/cookies.py:103 MockResponse
+- src/ruequest3/cookies.py:110 MockResponse.__init__
+- src/ruequest3/cookies.py:120 MockResponse.getheaders
+- src/ruequest3/cookies.py:117 MockResponse.info
+- setup.py:71 PostDevelopCommand
+- setup.py:78 PostInstallCommand
+- src/ruequest3/models.py:313 PreparedRequest
+- src/ruequest3/models.py:334 PreparedRequest.__init__
+- src/ruequest3/models.py:379 PreparedRequest.__repr__
+- src/ruequest3/models.py:400 PreparedRequest._get_idna_encoded_host
+- src/ruequest3/models.py:382 PreparedRequest.copy
+- src/ruequest3/models.py:351 PreparedRequest.prepare
+- src/ruequest3/models.py:588 PreparedRequest.prepare_auth
+- src/ruequest3/models.py:494 PreparedRequest.prepare_body
+- src/ruequest3/models.py:572 PreparedRequest.prepare_content_length
+- src/ruequest3/models.py:610 PreparedRequest.prepare_cookies
+- src/ruequest3/models.py:483 PreparedRequest.prepare_headers
+- src/ruequest3/models.py:630 PreparedRequest.prepare_hooks
+- src/ruequest3/models.py:393 PreparedRequest.prepare_method
+- src/ruequest3/models.py:409 PreparedRequest.prepare_url
+- src/ruequest3/exceptions.py:53 ProxyError
+- setup.py:35 PyTest
+- src/ruequest3/exceptions.py:77 ReadTimeout
+- src/ruequest3/models.py:230 Request
+- src/ruequest3/models.py:258 Request.__init__
+- src/ruequest3/models.py:292 Request.__repr__
+- src/ruequest3/models.py:295 Request.prepare
+- src/ruequest3/models.py:84 RequestEncodingMixin
+- src/ruequest3/models.py:137 RequestEncodingMixin._encode_files
+- src/ruequest3/models.py:107 RequestEncodingMixin._encode_params
+- src/ruequest3/models.py:86 RequestEncodingMixin.path_url
+- src/ruequest3/exceptions.py:12 RequestException
+- src/ruequest3/exceptions.py:17 RequestException.__init__
+- src/ruequest3/models.py:206 RequestHooksMixin
+- src/ruequest3/models.py:218 RequestHooksMixin.deregister_hook
+- src/ruequest3/models.py:207 RequestHooksMixin.register_hook
+- src/ruequest3/cookies.py:176 RequestsCookieJar
+- src/ruequest3/cookies.py:321 RequestsCookieJar.__contains__
+- src/ruequest3/cookies.py:343 RequestsCookieJar.__delitem__
+- src/ruequest3/cookies.py:327 RequestsCookieJar.__getitem__
+- src/ruequest3/cookies.py:415 RequestsCookieJar.__getstate__
+- src/ruequest3/cookies.py:336 RequestsCookieJar.__setitem__
+- src/ruequest3/cookies.py:422 RequestsCookieJar.__setstate__
+- src/ruequest3/cookies.py:366 RequestsCookieJar._find
+- src/ruequest3/cookies.py:386 RequestsCookieJar._find_no_duplicates
+- src/ruequest3/cookies.py:428 RequestsCookieJar.copy
+- src/ruequest3/cookies.py:194 RequestsCookieJar.get
+- src/ruequest3/cookies.py:306 RequestsCookieJar.get_dict
+- src/ruequest3/cookies.py:435 RequestsCookieJar.get_policy
+- src/ruequest3/cookies.py:268 RequestsCookieJar.items
+- src/ruequest3/cookies.py:259 RequestsCookieJar.iteritems
+- src/ruequest3/cookies.py:225 RequestsCookieJar.iterkeys
+- src/ruequest3/cookies.py:242 RequestsCookieJar.itervalues
+- src/ruequest3/cookies.py:234 RequestsCookieJar.keys
+- src/ruequest3/cookies.py:277 RequestsCookieJar.list_domains
+- src/ruequest3/cookies.py:285 RequestsCookieJar.list_paths
+- src/ruequest3/cookies.py:293 RequestsCookieJar.multiple_domains
+- src/ruequest3/cookies.py:206 RequestsCookieJar.set
+- src/ruequest3/cookies.py:349 RequestsCookieJar.set_cookie
+- src/ruequest3/cookies.py:358 RequestsCookieJar.update
+- src/ruequest3/cookies.py:251 RequestsCookieJar.values
+- src/ruequest3/exceptions.py:140 RequestsDependencyWarning
+- src/ruequest3/exceptions.py:132 RequestsWarning
+- src/ruequest3/models.py:640 Response
+- src/ruequest3/models.py:730 Response.__bool__
+- src/ruequest3/models.py:705 Response.__enter__
+- src/ruequest3/models.py:708 Response.__exit__
+- src/ruequest3/models.py:711 Response.__getstate__
+- src/ruequest3/models.py:658 Response.__init__
+- src/ruequest3/models.py:750 Response.__iter__
+- src/ruequest3/models.py:740 Response.__nonzero__
+- src/ruequest3/models.py:727 Response.__repr__
+- src/ruequest3/models.py:719 Response.__setstate__
+- src/ruequest3/models.py:790 Response.apparent_encoding
+- src/ruequest3/models.py:1021 Response.close
+- src/ruequest3/models.py:886 Response.content
+- src/ruequest3/models.py:777 Response.is_permanent_redirect
+- src/ruequest3/models.py:770 Response.is_redirect
+- src/ruequest3/models.py:794 Response.iter_content
+- src/ruequest3/models.py:852 Response.iter_lines
+- src/ruequest3/models.py:942 Response.json
+- src/ruequest3/models.py:976 Response.links
+- src/ruequest3/models.py:785 Response.next
+- src/ruequest3/models.py:755 Response.ok
+- src/ruequest3/models.py:992 Response.raise_for_status
+- src/ruequest3/models.py:905 Response.text
+- src/ruequest3/exceptions.py:121 RetryError
+- src/ruequest3/exceptions.py:57 SSLError
+- src/ruequest3/sessions.py:356 Session
+- src/ruequest3/sessions.py:451 Session.__enter__
+- src/ruequest3/sessions.py:454 Session.__exit__
+- src/ruequest3/sessions.py:810 Session.__getstate__
+- src/ruequest3/sessions.py:390 Session.__init__
+- src/ruequest3/sessions.py:814 Session.__setstate__
+- src/ruequest3/sessions.py:794 Session.close
+- src/ruequest3/sessions.py:663 Session.delete
+- src/ruequest3/sessions.py:593 Session.get
+- src/ruequest3/sessions.py:781 Session.get_adapter
+- src/ruequest3/sessions.py:615 Session.head
+- src/ruequest3/sessions.py:750 Session.merge_environment_settings
+- src/ruequest3/sessions.py:799 Session.mount
+- src/ruequest3/sessions.py:604 Session.options
+- src/ruequest3/sessions.py:651 Session.patch
+- src/ruequest3/sessions.py:626 Session.post
+- src/ruequest3/sessions.py:457 Session.prepare_request
+- src/ruequest3/sessions.py:639 Session.put
+- src/ruequest3/sessions.py:500 Session.request
+- src/ruequest3/sessions.py:673 Session.send
+- src/ruequest3/sessions.py:106 SessionRedirectMixin
+- src/ruequest3/sessions.py:107 SessionRedirectMixin.get_redirect_target
+- src/ruequest3/sessions.py:282 SessionRedirectMixin.rebuild_auth
+- src/ruequest3/sessions.py:333 SessionRedirectMixin.rebuild_method
+- src/ruequest3/sessions.py:302 SessionRedirectMixin.rebuild_proxies
+- src/ruequest3/sessions.py:159 SessionRedirectMixin.resolve_redirects
+- src/ruequest3/sessions.py:127 SessionRedirectMixin.should_strip_auth
+- src/ruequest3/exceptions.py:117 StreamConsumedError
+- src/ruequest3/exceptions.py:61 Timeout
+- src/ruequest3/exceptions.py:85 TooManyRedirects
+- src/ruequest3/exceptions.py:81 URLRequired
+- src/ruequest3/exceptions.py:125 UnrewindableBodyError
+- src/ruequest3/auth.py:25 _basic_auth_str
+- src/ruequest3/__init__.py:89 _check_cryptography
+- src/ruequest3/cookies.py:440 _copy_cookie_jar
+- src/ruequest3/utils.py:509 _parse_content_type_header
+- src/ruequest3/utils.py:1040 _validate_header_part
+- src/ruequest3/utils.py:473 add_dict_to_cookiejar
+- src/ruequest3/utils.py:677 address_in_network
+- src/ruequest3/utils.py:301 atomic_open
+- src/ruequest3/utils.py:1029 check_header_validity
+- src/ruequest3/cookies.py:521 cookiejar_from_dict
+- src/ruequest3/cookies.py:455 create_cookie
+- src/ruequest3/utils.py:895 default_headers
+- src/ruequest3/hooks.py:15 default_hooks
+- src/ruequest3/utils.py:886 default_user_agent
+- src/ruequest3/api.py:148 delete
+- src/ruequest3/utils.py:462 dict_from_cookiejar
+- src/ruequest3/utils.py:124 dict_to_sequence
+- src/ruequest3/hooks.py:22 dispatch_hook
+- src/ruequest3/utils.py:692 dotted_netmask
+- src/ruequest3/cookies.py:124 extract_cookies_to_jar
+- src/ruequest3/utils.py:263 extract_zipped_paths
+- src/ruequest3/utils.py:313 from_key_val_list
+- src/ruequest3/api.py:62 get
+- src/ruequest3/utils.py:1013 get_auth_from_url
+- src/ruequest3/cookies.py:140 get_cookie_header
+- src/ruequest3/utils.py:534 get_encoding_from_headers
+- src/ruequest3/utils.py:484 get_encodings_from_content
+- src/ruequest3/utils.py:821 get_environ_proxies
+- src/ruequest3/utils.py:199 get_netrc_auth
+- src/ruequest3/utils.py:586 get_unicode_from_response
+- src/ruequest3/utils.py:256 guess_filename
+- src/ruequest3/utils.py:952 guess_json_utf
+- src/ruequest3/api.py:88 head
+- src/ruequest3/utils.py:703 is_ipv4_address
+- src/ruequest3/utils.py:714 is_valid_cidr
+- src/ruequest3/utils.py:576 iter_slices
+- src/ruequest3/cookies.py:542 merge_cookies
+- src/ruequest3/sessions.py:91 merge_hooks
+- src/ruequest3/sessions.py:61 merge_setting
+- src/ruequest3/cookies.py:492 morsel_to_cookie
+- src/ruequest3/api.py:76 options
+- src/ruequest3/utils.py:402 parse_dict_header
+- src/ruequest3/utils.py:909 parse_header_links
+- src/ruequest3/utils.py:370 parse_list_header
+- src/ruequest3/api.py:133 patch
+- src/ruequest3/api.py:103 post
+- src/ruequest3/utils.py:984 prepend_scheme_if_needed
+- src/ruequest3/api.py:118 put
+- src/ruequest3/cookies.py:151 remove_cookie_by_name
+- src/ruequest3/api.py:14 request
+- src/ruequest3/utils.py:655 requote_uri
+- src/ruequest3/utils.py:859 resolve_proxies
+- src/ruequest3/utils.py:1076 rewind_body
+- src/ruequest3/utils.py:833 select_proxy
+- src/ruequest3/sessions.py:819 session
+- src/ruequest3/utils.py:739 set_environ
+- src/ruequest3/utils.py:760 should_bypass_proxies
+- src/ruequest3/utils.py:559 stream_decode_response_unicode
+- setup.py:58 strt
+- src/ruequest3/utils.py:133 super_len
+- src/ruequest3/utils.py:340 to_key_val_list
+- src/ruequest3/_internal_utils.py:25 to_native_string
+- src/ruequest3/_internal_utils.py:38 unicode_is_ascii
+- src/ruequest3/utils.py:437 unquote_header_value
+- src/ruequest3/utils.py:631 unquote_unreserved
+- src/ruequest3/utils.py:1059 urldefragauth

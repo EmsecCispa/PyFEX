@@ -1,0 +1,17 @@
+nnabla_ext_cuda101_nccl2_ubuntu16-1.4.0-py3.5-nspkg.pth,sha256=UEAiEXWksIYqVVi683qyBR08z5ZrevjX_RxMxZyrmoI,559
+nnabla_ext/cuda/__init__.py,sha256=eBZMw2nuzJZQOtiAidtenlQSAonHsWToHXdTRG2g8f8,2605
+nnabla_ext/cuda/_version.py,sha256=1M0zLBLhGDciYzAEYu1Vepvq1uGdqfAXGBaI03cLqOo,933
+nnabla_ext/cuda/init.cpython-35m-x86_64-linux-gnu.so,sha256=j4jCw78BXBqfo2zEad1D7w7kPIEavK0451XR95fEFJw,639480
+nnabla_ext/cuda/libnnabla_cuda.so,sha256=ZDBXVIrY_ZK7hi5M9g_VWFeyhfXhx7Tm7BK3WydyiyE,81183608
+nnabla_ext/cuda/nvtx.cpython-35m-x86_64-linux-gnu.so,sha256=x4_K2i9pn-9dvEsG1rsAJs1zTpAqLwZcVfvkqeQjhbc,163416
+nnabla_ext/cuda/experimental/__init__.py,sha256=kSr7Oj_e5fRWiOCgiX1E-EjHfAwfSz1NVPTdxUBTfPs,646
+nnabla_ext/cuda/experimental/_dali_iterator.py,sha256=B2KcQWuX561iT6n9kJMozfzGlIMmlV_3wb-UenThbQU,8641
+nnabla_ext/cuda/experimental/dali_iterator.py,sha256=d7LBledT85yIz46p6NK90BhtpNf_SBwbA_51jZHCUOg,944
+nnabla_ext/cudnn/__init__.py,sha256=MBQzfFQNkfErSSLnJs2RM4Kp3L9jyulLdZ6taNq-TCg,1688
+nnabla_ext/cudnn/_version.py,sha256=a3YWTfro2i3N2wEv74iuR4B2DpP6yB8jGGLYI4Rn7n8,932
+nnabla_ext/cudnn/init.cpython-35m-x86_64-linux-gnu.so,sha256=ll2EKphS7XgMs5RLyY5kifPMJZO4kUGQwkwE3ycrtWA,117512
+nnabla_ext_cuda101_nccl2_ubuntu16-1.4.0.dist-info/METADATA,sha256=K4s7pgap9Oqt7uOeVaRcgNzpyd6-padTV-hybgCrxaI,1441
+nnabla_ext_cuda101_nccl2_ubuntu16-1.4.0.dist-info/RECORD,,
+nnabla_ext_cuda101_nccl2_ubuntu16-1.4.0.dist-info/WHEEL,sha256=i6k7eASF0PYkxTk8xYGDo2lgmvHxPOJop87WoO3c38E,104
+nnabla_ext_cuda101_nccl2_ubuntu16-1.4.0.dist-info/namespace_packages.txt,sha256=-KWYEgJwkaw0I5OZnRT2pReE8CsHo5um_1F-NN_lU5M,11
+nnabla_ext_cuda101_nccl2_ubuntu16-1.4.0.dist-info/top_level.txt,sha256=-KWYEgJwkaw0I5OZnRT2pReE8CsHo5um_1F-NN_lU5M,11

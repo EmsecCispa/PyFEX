@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: discordwebutils
+Version: 0.6
+Home-page: https://github.com/gmyrianthous/example-publish-pypi
+Author: Giorgos Myrianthous
+Author-email: email@example.com
+License: MIT
+Keywords: example project
+License-File: license.txt

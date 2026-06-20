@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.py
+ptmpl/__init__.py
+ptmpl/__version__.py
+ptmpl/curves.py
+ptmpl/entry_points.py
+ptmpl/post_install.py
+ptmpl.egg-info/PKG-INFO
+ptmpl.egg-info/SOURCES.txt
+ptmpl.egg-info/dependency_links.txt
+ptmpl.egg-info/entry_points.txt
+ptmpl.egg-info/not-zip-safe
+ptmpl.egg-info/requires.txt
+ptmpl.egg-info/top_level.txt
+tests/test_curves.py

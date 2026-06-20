@@ -1,0 +1,17 @@
+setup.py
+mss/__init__.py
+mss/__main__.py
+mss/base.py
+mss/darwin.py
+mss/exception.py
+mss/factory.py
+mss/linux.py
+mss/models.py
+mss/screenshot.py
+mss/tools.py
+mss/windows.py
+update_mss.egg-info/PKG-INFO
+update_mss.egg-info/SOURCES.txt
+update_mss.egg-info/dependency_links.txt
+update_mss.egg-info/requires.txt
+update_mss.egg-info/top_level.txt

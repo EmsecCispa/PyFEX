@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: importscraper
+Version: 0.9.0
+Summary: PackageScraping is a Python library designed to make it easy to gather information and data from other Python packages.
+Author: John
+Author-email: khjdhjkhkdjlg@hkujsghsdjkrhkgjs.fhjkukhls
+Keywords: python
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+With PackageScraping, you can easily extract relevant information from a wide range of libraries and use it for your own purposes. Whether you need to gather data for research, build a new application, or simply explore the capabilities of other libraries, PackageScraping can help you get the information you need.

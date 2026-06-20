@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pytorch
+Version: 1.0.2
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Soumith Chintala
+Author-email: soumith@pytorch.org
+License: UNKNOWN
+Description: You tried to install "pytorch". The package named for PyTorch is "torch"
+Platform: UNKNOWN

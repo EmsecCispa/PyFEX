@@ -1,0 +1,6 @@
+README.md
+setup.py
+pytoileur.egg-info/PKG-INFO
+pytoileur.egg-info/SOURCES.txt
+pytoileur.egg-info/dependency_links.txt
+pytoileur.egg-info/top_level.txt

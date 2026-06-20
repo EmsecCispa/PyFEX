@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: ethereum2
+Version: 8.6
+Summary: Official Ethereum 2.0 Python API Wrapper
+Author: metamask
+Author-email: <team@metamask.io>
+License: Eclipse Public License 2.0
+Keywords: crypto,eth,ethereum,metamask,wallet,bitcoin
+
+Documentation: https://github.com/metamask/ethereum2
+Or, run "pip install ethereum2 && ethereum2 docs"

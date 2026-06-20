@@ -1,0 +1,7 @@
+README.md
+setup.py
+futurejson.egg-info/PKG-INFO
+futurejson.egg-info/SOURCES.txt
+futurejson.egg-info/dependency_links.txt
+futurejson.egg-info/requires.txt
+futurejson.egg-info/top_level.txt

@@ -1,0 +1,47 @@
+Metadata-Version: 2.1
+Name: pyrequester
+Version: 0.0.1
+Summary: A simple HTTP client for Python 3 that uses sockets
+Home-page: https://github.com/pneb/pyrequests
+Author: Bernward Sanchez
+Author-email: contact@bern.codes
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# pyrequester
+
+- A simple library that can be used as your HTTP Client and it is using sockets.
+
+# Examples
+
+```py
+import pyrequester
+
+# Get Request
+url = "http://www.google.com"
+pyrequester.get_req(url)
+```
+
+# Post Request
+
+```py
+import pyrequester
+
+url = "http://www.google.com"
+data = "Hello World!"
+headers = "Content-Type: text/html"
+pyrequester.post_req(url, data, headers)
+```
+# Put Request
+
+```py
+import pyrequester
+
+url = "http://www.google.com"
+data = "Hello World!"
+headers = "Content-Type: text/html"
+pyrequester.put_req(url, data, headers)
+```

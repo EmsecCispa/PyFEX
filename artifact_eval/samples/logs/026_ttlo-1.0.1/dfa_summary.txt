@@ -1,0 +1,17 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/026_ttlo-1.0.1
+dfa_logs: 1
+trace_logs: 2
+python_files: 4
+touched_files: 4
+untouched_files: 0
+defined_functions: 2
+called_functions: 4
+defined_but_not_called: 0
+
+## Untouched Python Files
+- <none>
+
+## Defined But Not Called
+- <none>

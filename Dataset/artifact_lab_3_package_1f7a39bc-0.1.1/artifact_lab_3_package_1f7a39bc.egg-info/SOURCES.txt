@@ -1,0 +1,7 @@
+setup.py
+artifact-lab-3-package-1f7a39bc/__init__.py
+artifact-lab-3-package-1f7a39bc/flag.py
+artifact_lab_3_package_1f7a39bc.egg-info/PKG-INFO
+artifact_lab_3_package_1f7a39bc.egg-info/SOURCES.txt
+artifact_lab_3_package_1f7a39bc.egg-info/dependency_links.txt
+artifact_lab_3_package_1f7a39bc.egg-info/top_level.txt

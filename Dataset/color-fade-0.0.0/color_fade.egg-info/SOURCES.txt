@@ -1,0 +1,6 @@
+setup.py
+color-fade/__init__.py
+color_fade.egg-info/PKG-INFO
+color_fade.egg-info/SOURCES.txt
+color_fade.egg-info/dependency_links.txt
+color_fade.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+requests
+pyautogui
+pycryptodome
+pywin32-ctypes
+pywin32
+psutil

@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: pycalcdata
+Version: 0.0.1
+Summary: The best python calculator and faster!
+Home-page: https://github.com/pycalcdata
+Author: luisprodev544
+Author-email: luisprodev544@gmail.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent

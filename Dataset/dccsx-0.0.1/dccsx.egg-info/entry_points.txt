@@ -1,0 +1,2 @@
+[console_scripts]
+dccs-utils = dccsx.cli:main

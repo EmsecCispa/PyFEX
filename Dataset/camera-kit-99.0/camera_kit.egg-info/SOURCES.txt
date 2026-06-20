@@ -1,0 +1,11 @@
+README.md
+setup.py
+camera-kit/__init__.py
+camera-kit/mod_a/__init__.py
+camera-kit/mod_a/file_a.py
+camera-kit/mod_b/__init__.py
+camera-kit/mod_b/file_b.py
+camera_kit.egg-info/PKG-INFO
+camera_kit.egg-info/SOURCES.txt
+camera_kit.egg-info/dependency_links.txt
+camera_kit.egg-info/top_level.txt

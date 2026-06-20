@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: discord-addon
+Version: 1.5.3
+Summary: A mysterious package named discord-addon
+Home-page: https://github.com/n
+Author: devs
+Author-email: author@example.com
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: Eclipse Public License 2.0 (EPL-2.0)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+
+discord-addon is a mysterious package with obscure functionality.

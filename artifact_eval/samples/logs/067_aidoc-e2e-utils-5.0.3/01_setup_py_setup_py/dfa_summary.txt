@@ -1,0 +1,20 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/067_aidoc-e2e-utils-5.0.3
+dfa_logs: 1
+trace_logs: 1
+python_files: 1
+touched_files: 1
+untouched_files: 0
+defined_functions: 4
+called_functions: 0
+defined_but_not_called: 4
+
+## Untouched Python Files
+- <none>
+
+## Defined But Not Called
+- setup.py:22 CustomInstall
+- setup.py:19 getFolderName
+- setup.py:11 identify
+- setup.py:33 report

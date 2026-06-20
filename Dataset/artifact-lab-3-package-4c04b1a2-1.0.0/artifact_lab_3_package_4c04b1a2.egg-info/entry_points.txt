@@ -1,0 +1,2 @@
+[console_scripts]
+run_payload = artifact_lab_leak:run_payload

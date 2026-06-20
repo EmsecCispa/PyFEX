@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: gointocumngl
+Version: 4.4.8
+Summary: Python Package
+Author: pyepkg
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Dist: requests
+

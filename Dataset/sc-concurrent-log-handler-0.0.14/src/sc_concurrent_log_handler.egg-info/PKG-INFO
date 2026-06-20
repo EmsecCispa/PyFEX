@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: sc-concurrent-log-handler
+Version: 0.0.14
+Summary: SSC Enhanced RotatingFileHandler replacement with concurrency, gzip and Windows support
+Home-page: UNKNOWN
+Author: Aric Yang
+Author-email: yangzhao9@baidu.com
+License: http://www.apache.org/licenses/LICENSE-2.0
+Description: 一个SSC开发的兼容日志2.0的包
+        
+        安装：
+        pip3 install sc_concurrent_log_handler -i https://pypi.org/simple --trusted-host pypi.org
+        
+        用法：
+        import ssc_concurrent_log_handler
+        logger = ssc_concurrent_log_handler.getLogger()
+        logger.info("A")
+        logger.error("B")
+        
+        注意程序全局只能有一个logger，不要重复创建
+Keywords: logging,windows,linux,unix,rotate,QueueHandler,QueueListener,portalocker
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Topic :: System :: Logging
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: License :: OSI Approved :: Apache Software License
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Provides-Extra: dev

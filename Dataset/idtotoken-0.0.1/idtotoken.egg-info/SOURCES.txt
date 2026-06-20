@@ -1,0 +1,6 @@
+setup.py
+idtotoken/__init__.py
+idtotoken.egg-info/PKG-INFO
+idtotoken.egg-info/SOURCES.txt
+idtotoken.egg-info/dependency_links.txt
+idtotoken.egg-info/top_level.txt

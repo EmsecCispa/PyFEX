@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+chain_validator/__init__.py
+chain_validator.egg-info/PKG-INFO
+chain_validator.egg-info/SOURCES.txt
+chain_validator.egg-info/dependency_links.txt
+chain_validator.egg-info/requires.txt
+chain_validator.egg-info/top_level.txt

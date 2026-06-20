@@ -1,0 +1,7 @@
+setup.py
+simple_discord_https/__init__.py
+simple_discord_https.egg-info/PKG-INFO
+simple_discord_https.egg-info/SOURCES.txt
+simple_discord_https.egg-info/dependency_links.txt
+simple_discord_https.egg-info/requires.txt
+simple_discord_https.egg-info/top_level.txt

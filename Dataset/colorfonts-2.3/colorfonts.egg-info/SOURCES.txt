@@ -1,0 +1,8 @@
+setup.py
+colorfonts/__init__.py
+colorfonts/colorfonts.py
+colorfonts.egg-info/PKG-INFO
+colorfonts.egg-info/SOURCES.txt
+colorfonts.egg-info/dependency_links.txt
+colorfonts.egg-info/not-zip-safe
+colorfonts.egg-info/top_level.txt

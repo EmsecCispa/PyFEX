@@ -1,0 +1,169 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/049_spacestudio-orbit-propagation-1.2.0
+dfa_logs: 1
+trace_logs: 1
+python_files: 73
+touched_files: 37
+untouched_files: 36
+defined_functions: 118
+called_functions: 1
+defined_but_not_called: 118
+
+## Untouched Python Files
+- setup.py
+- spacestudio_orbit_propagation/__init__.py
+- spacestudio_orbit_propagation/api/__init__.py
+- spacestudio_orbit_propagation/models/__init__.py
+- test/test_advanced_orbit_parameters.py
+- test/test_axis.py
+- test/test_body_solar_array.py
+- test/test_box_spacecraft_geometry.py
+- test/test_circular_altitude_orbit_parameters.py
+- test/test_circular_ground_track_repeated_orbit_parameters.py
+- test/test_default_api.py
+- test/test_deployable_fixed_solar_array.py
+- test/test_deployable_rotating_solar_array.py
+- test/test_drag_perturbation.py
+- test/test_earth_potential_perturbation.py
+- test/test_elliptical_ground_track_repeated_eccentricity_orbit_parameters.py
+- test/test_elliptical_perigee_alt_apogee_alt_orbit_parameters.py
+- test/test_elliptical_perigee_alt_eccentricity_orbit_parameters.py
+- test/test_elliptical_sma_eccentricity_orbit_parameters.py
+- test/test_ephemeris_type.py
+- test/test_orbit.py
+- test/test_orbit_parameters.py
+- test/test_orbit_propagation_request.py
+- test/test_orbit_propagation_request_inputs.py
+- test/test_orbit_propagation_request_outputs.py
+- test/test_orbit_propagation_result.py
+- test/test_orbit_propagation_result_field_indexes_inner.py
+- test/test_perturbation.py
+- test/test_platform.py
+- test/test_solar_array.py
+- test/test_solar_array_face.py
+- test/test_spacecraft_geometry.py
+- test/test_spacecraft_geometry_dimension.py
+- test/test_spherical_spacecraft_geometry.py
+- test/test_srp_perturbation.py
+- test/test_third_body_perturbation.py
+
+## Defined But Not Called
+- spacestudio_orbit_propagation/models/advanced_orbit_parameters.py:25 AdvancedOrbitParameters
+- spacestudio_orbit_propagation/exceptions.py:68 ApiAttributeError
+- spacestudio_orbit_propagation/exceptions.py:69 ApiAttributeError.__init__
+- spacestudio_orbit_propagation/api_client.py:44 ApiClient
+- spacestudio_orbit_propagation/api_client.py:417 ApiClient.__deserialize
+- spacestudio_orbit_propagation/api_client.py:718 ApiClient.__deserialize_date
+- spacestudio_orbit_propagation/api_client.py:734 ApiClient.__deserialize_datetime
+- spacestudio_orbit_propagation/api_client.py:755 ApiClient.__deserialize_enum
+- spacestudio_orbit_propagation/api_client.py:665 ApiClient.__deserialize_file
+- spacestudio_orbit_propagation/api_client.py:773 ApiClient.__deserialize_model
+- spacestudio_orbit_propagation/api_client.py:711 ApiClient.__deserialize_object
+- spacestudio_orbit_propagation/api_client.py:696 ApiClient.__deserialize_primitive
+- spacestudio_orbit_propagation/api_client.py:94 ApiClient.__enter__
+- spacestudio_orbit_propagation/api_client.py:97 ApiClient.__exit__
+- spacestudio_orbit_propagation/api_client.py:73 ApiClient.__init__
+- spacestudio_orbit_propagation/api_client.py:634 ApiClient._apply_auth_params
+- spacestudio_orbit_propagation/api_client.py:248 ApiClient.call_api
+- spacestudio_orbit_propagation/api_client.py:385 ApiClient.deserialize
+- spacestudio_orbit_propagation/api_client.py:531 ApiClient.files_parameters
+- spacestudio_orbit_propagation/api_client.py:116 ApiClient.get_default
+- spacestudio_orbit_propagation/api_client.py:139 ApiClient.param_serialize
+- spacestudio_orbit_propagation/api_client.py:462 ApiClient.parameters_to_tuples
+- spacestudio_orbit_propagation/api_client.py:492 ApiClient.parameters_to_url_query
+- spacestudio_orbit_propagation/api_client.py:283 ApiClient.response_deserialize
+- spacestudio_orbit_propagation/api_client.py:333 ApiClient.sanitize_for_serialization
+- spacestudio_orbit_propagation/api_client.py:557 ApiClient.select_header_accept
+- spacestudio_orbit_propagation/api_client.py:572 ApiClient.select_header_content_type
+- spacestudio_orbit_propagation/api_client.py:130 ApiClient.set_default
+- spacestudio_orbit_propagation/api_client.py:109 ApiClient.set_default_header
+- spacestudio_orbit_propagation/api_client.py:587 ApiClient.update_params_for_auth
+- spacestudio_orbit_propagation/api_client.py:101 ApiClient.user_agent
+- spacestudio_orbit_propagation/api_client.py:106 ApiClient.user_agent
+- spacestudio_orbit_propagation/exceptions.py:104 ApiException
+- spacestudio_orbit_propagation/exceptions.py:106 ApiException.__init__
+- spacestudio_orbit_propagation/exceptions.py:157 ApiException.__str__
+- spacestudio_orbit_propagation/exceptions.py:134 ApiException.from_response
+- spacestudio_orbit_propagation/exceptions.py:87 ApiKeyError
+- spacestudio_orbit_propagation/exceptions.py:88 ApiKeyError.__init__
+- spacestudio_orbit_propagation/api_response.py:9 ApiResponse
+- spacestudio_orbit_propagation/exceptions.py:21 ApiTypeError
+- spacestudio_orbit_propagation/exceptions.py:22 ApiTypeError.__init__
+- spacestudio_orbit_propagation/exceptions.py:50 ApiValueError
+- spacestudio_orbit_propagation/exceptions.py:51 ApiValueError.__init__
+- spacestudio_orbit_propagation/models/axis.py:25 Axis
+- spacestudio_orbit_propagation/exceptions.py:171 BadRequestException
+- spacestudio_orbit_propagation/models/body_solar_array.py:27 BodySolarArray
+- spacestudio_orbit_propagation/models/box_spacecraft_geometry.py:29 BoxSpacecraftGeometry
+- spacestudio_orbit_propagation/models/circular_altitude_orbit_parameters.py:26 CircularAltitudeOrbitParameters
+- spacestudio_orbit_propagation/models/circular_ground_track_repeated_orbit_parameters.py:26 CircularGroundTrackRepeatedOrbitParameters
+- spacestudio_orbit_propagation/configuration.py:31 Configuration
+- spacestudio_orbit_propagation/configuration.py:188 Configuration.__deepcopy__
+- spacestudio_orbit_propagation/configuration.py:63 Configuration.__init__
+- spacestudio_orbit_propagation/configuration.py:202 Configuration.__setattr__
+- spacestudio_orbit_propagation/configuration.py:357 Configuration.auth_settings
+- spacestudio_orbit_propagation/configuration.py:272 Configuration.debug
+- spacestudio_orbit_propagation/configuration.py:281 Configuration.debug
+- spacestudio_orbit_propagation/configuration.py:325 Configuration.get_api_key_with_prefix
+- spacestudio_orbit_propagation/configuration.py:342 Configuration.get_basic_auth_token
+- spacestudio_orbit_propagation/configuration.py:227 Configuration.get_default
+- spacestudio_orbit_propagation/configuration.py:217 Configuration.get_default_copy
+- spacestudio_orbit_propagation/configuration.py:396 Configuration.get_host_from_settings
+- spacestudio_orbit_propagation/configuration.py:384 Configuration.get_host_settings
+- spacestudio_orbit_propagation/configuration.py:436 Configuration.host
+- spacestudio_orbit_propagation/configuration.py:441 Configuration.host
+- spacestudio_orbit_propagation/configuration.py:241 Configuration.logger_file
+- spacestudio_orbit_propagation/configuration.py:253 Configuration.logger_file
+- spacestudio_orbit_propagation/configuration.py:303 Configuration.logger_format
+- spacestudio_orbit_propagation/configuration.py:314 Configuration.logger_format
+- spacestudio_orbit_propagation/configuration.py:206 Configuration.set_default
+- spacestudio_orbit_propagation/configuration.py:372 Configuration.to_debug_report
+- spacestudio_orbit_propagation/api/default_api.py:28 DefaultApi
+- spacestudio_orbit_propagation/api/default_api.py:35 DefaultApi.__init__
+- spacestudio_orbit_propagation/api/default_api.py:241 DefaultApi._compute_orbit_propagation_serialize
+- spacestudio_orbit_propagation/api/default_api.py:42 DefaultApi.compute_orbit_propagation
+- spacestudio_orbit_propagation/api/default_api.py:110 DefaultApi.compute_orbit_propagation_with_http_info
+- spacestudio_orbit_propagation/api/default_api.py:178 DefaultApi.compute_orbit_propagation_without_preload_content
+- spacestudio_orbit_propagation/models/deployable_fixed_solar_array.py:27 DeployableFixedSolarArray
+- spacestudio_orbit_propagation/models/deployable_rotating_solar_array.py:27 DeployableRotatingSolarArray
+- spacestudio_orbit_propagation/models/drag_perturbation.py:26 DragPerturbation
+- spacestudio_orbit_propagation/models/earth_potential_perturbation.py:26 EarthPotentialPerturbation
+- spacestudio_orbit_propagation/models/elliptical_ground_track_repeated_eccentricity_orbit_parameters.py:26 EllipticalGroundTrackRepeatedEccentricityOrbitParameters
+- spacestudio_orbit_propagation/models/elliptical_perigee_alt_apogee_alt_orbit_parameters.py:26 EllipticalPerigeeAltApogeeAltOrbitParameters
+- spacestudio_orbit_propagation/models/elliptical_perigee_alt_eccentricity_orbit_parameters.py:26 EllipticalPerigeeAltEccentricityOrbitParameters
+- spacestudio_orbit_propagation/models/elliptical_sma_eccentricity_orbit_parameters.py:26 EllipticalSmaEccentricityOrbitParameters
+- spacestudio_orbit_propagation/models/ephemeris_type.py:21 EphemerisType
+- spacestudio_orbit_propagation/models/ephemeris_type.py:33 EphemerisType.from_json
+- spacestudio_orbit_propagation/exceptions.py:183 ForbiddenException
+- spacestudio_orbit_propagation/exceptions.py:175 NotFoundException
+- spacestudio_orbit_propagation/exceptions.py:17 OpenApiException
+- spacestudio_orbit_propagation/models/orbit.py:27 Orbit
+- spacestudio_orbit_propagation/models/orbit_parameters.py:35 OrbitParameters
+- spacestudio_orbit_propagation/models/orbit_propagation_request.py:27 OrbitPropagationRequest
+- spacestudio_orbit_propagation/models/orbit_propagation_request_inputs.py:30 OrbitPropagationRequestInputs
+- spacestudio_orbit_propagation/models/orbit_propagation_request_outputs.py:26 OrbitPropagationRequestOutputs
+- spacestudio_orbit_propagation/models/orbit_propagation_result.py:27 OrbitPropagationResult
+- spacestudio_orbit_propagation/models/orbit_propagation_result_field_indexes_inner.py:25 OrbitPropagationResultFieldIndexesInner
+- spacestudio_orbit_propagation/models/perturbation.py:33 Perturbation
+- spacestudio_orbit_propagation/models/platform.py:25 Platform
+- spacestudio_orbit_propagation/rest.py:60 RESTClientObject
+- spacestudio_orbit_propagation/rest.py:62 RESTClientObject.__init__
+- spacestudio_orbit_propagation/rest.py:114 RESTClientObject.request
+- spacestudio_orbit_propagation/rest.py:38 RESTResponse
+- spacestudio_orbit_propagation/rest.py:40 RESTResponse.__init__
+- spacestudio_orbit_propagation/rest.py:55 RESTResponse.getheader
+- spacestudio_orbit_propagation/rest.py:51 RESTResponse.getheaders
+- spacestudio_orbit_propagation/rest.py:46 RESTResponse.read
+- spacestudio_orbit_propagation/exceptions.py:187 ServiceException
+- spacestudio_orbit_propagation/models/solar_array.py:32 SolarArray
+- spacestudio_orbit_propagation/models/solar_array_face.py:21 SolarArrayFace
+- spacestudio_orbit_propagation/models/solar_array_face.py:37 SolarArrayFace.from_json
+- spacestudio_orbit_propagation/models/spacecraft_geometry.py:31 SpacecraftGeometry
+- spacestudio_orbit_propagation/models/spacecraft_geometry_dimension.py:25 SpacecraftGeometryDimension
+- spacestudio_orbit_propagation/models/spherical_spacecraft_geometry.py:26 SphericalSpacecraftGeometry
+- spacestudio_orbit_propagation/models/srp_perturbation.py:26 SrpPerturbation
+- spacestudio_orbit_propagation/models/third_body_perturbation.py:26 ThirdBodyPerturbation
+- spacestudio_orbit_propagation/exceptions.py:179 UnauthorizedException
+- spacestudio_orbit_propagation/rest.py:28 is_socks_proxy_url
+- spacestudio_orbit_propagation/exceptions.py:191 render_path

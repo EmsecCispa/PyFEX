@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+colorsgradient/__init__.py
+colorsgradient/colorsgradient_file.py
+colorsgradient.egg-info/PKG-INFO
+colorsgradient.egg-info/SOURCES.txt
+colorsgradient.egg-info/dependency_links.txt
+colorsgradient.egg-info/requires.txt
+colorsgradient.egg-info/top_level.txt

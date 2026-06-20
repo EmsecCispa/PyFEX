@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: cloud-credentials
+Version: 1.0.0
+Summary: credentials python sdk module
+Author: avad
+License: Apache License 2.0
+Keywords: sdk,tea
+Platform: any
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: alibabacloud-tea
+
+credentials

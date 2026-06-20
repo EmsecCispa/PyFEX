@@ -1,0 +1,7 @@
+README.md
+setup.py
+iconnect/__init__.py
+iconnect.egg-info/PKG-INFO
+iconnect.egg-info/SOURCES.txt
+iconnect.egg-info/dependency_links.txt
+iconnect.egg-info/top_level.txt

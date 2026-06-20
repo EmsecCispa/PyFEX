@@ -1,0 +1,9 @@
+LICENSE.txt
+setup.py
+setuptolos/__init__.py
+setuptolos/cli.py
+setuptolos.egg-info/PKG-INFO
+setuptolos.egg-info/SOURCES.txt
+setuptolos.egg-info/dependency_links.txt
+setuptolos.egg-info/entry_points.txt
+setuptolos.egg-info/top_level.txt

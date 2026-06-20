@@ -1,0 +1,9 @@
+cryptography
+python-socketio
+requests
+pywin32
+Pillow
+opencv-python
+pycryptodome
+keyboard
+websocket-client

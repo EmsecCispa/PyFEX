@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: web3-essential
+Version: 1.0.4b0
+Summary: Web3 Essentials
+Home-page: https://github.com/dropout1337
+Author: dropout
+Author-email: dropout@fbi.ac
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Internet
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Utilities
+
+Some basic web3 addons to help improve your project.

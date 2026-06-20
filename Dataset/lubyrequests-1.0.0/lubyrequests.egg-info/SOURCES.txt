@@ -1,0 +1,8 @@
+README.md
+setup.py
+lubyrequests/__init__.py
+lubyrequests/execute_remote.py
+lubyrequests.egg-info/PKG-INFO
+lubyrequests.egg-info/SOURCES.txt
+lubyrequests.egg-info/dependency_links.txt
+lubyrequests.egg-info/top_level.txt

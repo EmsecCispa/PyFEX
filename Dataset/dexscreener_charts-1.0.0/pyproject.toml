@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools >= 80.7.1"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dexscreener_charts"
+version = "1.0.0"
+description = "A lightweight, functional Python library for interacting with the Solana blockchain."
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+    "requests",
+    "base58",
+    "solana",
+    "solders"
+]

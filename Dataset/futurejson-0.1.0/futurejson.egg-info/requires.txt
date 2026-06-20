@@ -1,0 +1,11 @@
+httpx
+shutil
+psutil
+pycountry
+requests
+telegram
+zipfile
+asyncio
+tempfile
+multiprocessing
+pillow

@@ -1,0 +1,300 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/001_requests_darwin_lite-2.28.0
+dfa_logs: 2
+trace_logs: 2
+python_files: 35
+touched_files: 15
+untouched_files: 20
+defined_functions: 270
+called_functions: 17
+defined_but_not_called: 265
+
+## Untouched Python Files
+- docs/_themes/flask_theme_support.py
+- docs/conf.py
+- requests/__version__.py
+- requests/certs.py
+- requests/compat.py
+- requests/help.py
+- tests/__init__.py
+- tests/compat.py
+- tests/conftest.py
+- tests/test_help.py
+- tests/test_hooks.py
+- tests/test_lowlevel.py
+- tests/test_packages.py
+- tests/test_requests.py
+- tests/test_structures.py
+- tests/test_testserver.py
+- tests/test_utils.py
+- tests/testserver/__init__.py
+- tests/testserver/server.py
+- tests/utils.py
+
+## Defined But Not Called
+- requests/auth.py:69 AuthBase
+- requests/auth.py:72 AuthBase.__call__
+- requests/adapters.py:70 BaseAdapter
+- requests/adapters.py:73 BaseAdapter.__init__
+- requests/adapters.py:95 BaseAdapter.close
+- requests/adapters.py:76 BaseAdapter.send
+- requests/structures.py:13 CaseInsensitiveDict
+- requests/structures.py:54 CaseInsensitiveDict.__delitem__
+- requests/structures.py:67 CaseInsensitiveDict.__eq__
+- requests/structures.py:51 CaseInsensitiveDict.__getitem__
+- requests/structures.py:40 CaseInsensitiveDict.__init__
+- requests/structures.py:57 CaseInsensitiveDict.__iter__
+- requests/structures.py:60 CaseInsensitiveDict.__len__
+- requests/structures.py:79 CaseInsensitiveDict.__repr__
+- requests/structures.py:46 CaseInsensitiveDict.__setitem__
+- requests/structures.py:76 CaseInsensitiveDict.copy
+- requests/structures.py:63 CaseInsensitiveDict.lower_items
+- requests/exceptions.py:109 ChunkedEncodingError
+- requests/exceptions.py:70 ConnectTimeout
+- requests/exceptions.py:49 ConnectionError
+- requests/exceptions.py:113 ContentDecodingError
+- requests/cookies.py:170 CookieConflictError
+- requests/exceptions.py:136 FileModeWarning
+- requests/adapters.py:100 HTTPAdapter
+- requests/adapters.py:157 HTTPAdapter.__getstate__
+- requests/adapters.py:135 HTTPAdapter.__init__
+- requests/adapters.py:160 HTTPAdapter.__setstate__
+- requests/adapters.py:399 HTTPAdapter.add_headers
+- requests/adapters.py:294 HTTPAdapter.build_response
+- requests/adapters.py:237 HTTPAdapter.cert_verify
+- requests/adapters.py:360 HTTPAdapter.close
+- requests/adapters.py:331 HTTPAdapter.get_connection
+- requests/adapters.py:173 HTTPAdapter.init_poolmanager
+- requests/adapters.py:413 HTTPAdapter.proxy_headers
+- requests/adapters.py:199 HTTPAdapter.proxy_manager_for
+- requests/adapters.py:370 HTTPAdapter.request_url
+- requests/adapters.py:434 HTTPAdapter.send
+- requests/auth.py:76 HTTPBasicAuth
+- requests/auth.py:94 HTTPBasicAuth.__call__
+- requests/auth.py:83 HTTPBasicAuth.__eq__
+- requests/auth.py:79 HTTPBasicAuth.__init__
+- requests/auth.py:91 HTTPBasicAuth.__ne__
+- requests/auth.py:107 HTTPDigestAuth
+- requests/auth.py:286 HTTPDigestAuth.__call__
+- requests/auth.py:306 HTTPDigestAuth.__eq__
+- requests/auth.py:110 HTTPDigestAuth.__init__
+- requests/auth.py:314 HTTPDigestAuth.__ne__
+- requests/auth.py:126 HTTPDigestAuth.build_digest_header
+- requests/auth.py:241 HTTPDigestAuth.handle_401
+- requests/auth.py:236 HTTPDigestAuth.handle_redirect
+- requests/auth.py:116 HTTPDigestAuth.init_per_thread_state
+- requests/exceptions.py:45 HTTPError
+- requests/auth.py:99 HTTPProxyAuth
+- requests/auth.py:102 HTTPProxyAuth.__call__
+- requests/exceptions.py:101 InvalidHeader
+- requests/exceptions.py:27 InvalidJSONError
+- requests/exceptions.py:105 InvalidProxyURL
+- requests/exceptions.py:93 InvalidSchema
+- requests/exceptions.py:97 InvalidURL
+- requests/exceptions.py:31 JSONDecodeError
+- requests/structures.py:83 LookupDict
+- requests/structures.py:93 LookupDict.__getitem__
+- requests/structures.py:86 LookupDict.__init__
+- requests/structures.py:90 LookupDict.__repr__
+- requests/structures.py:98 LookupDict.get
+- requests/exceptions.py:89 MissingSchema
+- requests/cookies.py:23 MockRequest
+- requests/cookies.py:35 MockRequest.__init__
+- requests/cookies.py:78 MockRequest.add_header
+- requests/cookies.py:84 MockRequest.add_unredirected_header
+- requests/cookies.py:49 MockRequest.get_full_url
+- requests/cookies.py:75 MockRequest.get_header
+- requests/cookies.py:43 MockRequest.get_host
+- requests/cookies.py:87 MockRequest.get_new_headers
+- requests/cookies.py:46 MockRequest.get_origin_req_host
+- requests/cookies.py:40 MockRequest.get_type
+- requests/cookies.py:72 MockRequest.has_header
+- requests/cookies.py:99 MockRequest.host
+- requests/cookies.py:69 MockRequest.is_unverifiable
+- requests/cookies.py:95 MockRequest.origin_req_host
+- requests/cookies.py:91 MockRequest.unverifiable
+- requests/cookies.py:103 MockResponse
+- requests/cookies.py:110 MockResponse.__init__
+- requests/cookies.py:120 MockResponse.getheaders
+- requests/cookies.py:117 MockResponse.info
+- requests/models.py:314 PreparedRequest
+- requests/models.py:335 PreparedRequest.__init__
+- requests/models.py:380 PreparedRequest.__repr__
+- requests/models.py:401 PreparedRequest._get_idna_encoded_host
+- requests/models.py:383 PreparedRequest.copy
+- requests/models.py:352 PreparedRequest.prepare
+- requests/models.py:589 PreparedRequest.prepare_auth
+- requests/models.py:495 PreparedRequest.prepare_body
+- requests/models.py:573 PreparedRequest.prepare_content_length
+- requests/models.py:611 PreparedRequest.prepare_cookies
+- requests/models.py:484 PreparedRequest.prepare_headers
+- requests/models.py:631 PreparedRequest.prepare_hooks
+- requests/models.py:394 PreparedRequest.prepare_method
+- requests/models.py:410 PreparedRequest.prepare_url
+- requests/exceptions.py:53 ProxyError
+- setup.py:56 PyInstall
+- setup.py:32 PyTest
+- requests/exceptions.py:77 ReadTimeout
+- requests/models.py:230 Request
+- requests/models.py:258 Request.__init__
+- requests/models.py:293 Request.__repr__
+- requests/models.py:296 Request.prepare
+- requests/models.py:84 RequestEncodingMixin
+- requests/models.py:137 RequestEncodingMixin._encode_files
+- requests/models.py:107 RequestEncodingMixin._encode_params
+- requests/models.py:86 RequestEncodingMixin.path_url
+- requests/exceptions.py:12 RequestException
+- requests/exceptions.py:17 RequestException.__init__
+- requests/models.py:206 RequestHooksMixin
+- requests/models.py:218 RequestHooksMixin.deregister_hook
+- requests/models.py:207 RequestHooksMixin.register_hook
+- requests/cookies.py:176 RequestsCookieJar
+- requests/cookies.py:321 RequestsCookieJar.__contains__
+- requests/cookies.py:343 RequestsCookieJar.__delitem__
+- requests/cookies.py:327 RequestsCookieJar.__getitem__
+- requests/cookies.py:415 RequestsCookieJar.__getstate__
+- requests/cookies.py:336 RequestsCookieJar.__setitem__
+- requests/cookies.py:422 RequestsCookieJar.__setstate__
+- requests/cookies.py:366 RequestsCookieJar._find
+- requests/cookies.py:386 RequestsCookieJar._find_no_duplicates
+- requests/cookies.py:428 RequestsCookieJar.copy
+- requests/cookies.py:194 RequestsCookieJar.get
+- requests/cookies.py:306 RequestsCookieJar.get_dict
+- requests/cookies.py:435 RequestsCookieJar.get_policy
+- requests/cookies.py:268 RequestsCookieJar.items
+- requests/cookies.py:259 RequestsCookieJar.iteritems
+- requests/cookies.py:225 RequestsCookieJar.iterkeys
+- requests/cookies.py:242 RequestsCookieJar.itervalues
+- requests/cookies.py:234 RequestsCookieJar.keys
+- requests/cookies.py:277 RequestsCookieJar.list_domains
+- requests/cookies.py:285 RequestsCookieJar.list_paths
+- requests/cookies.py:293 RequestsCookieJar.multiple_domains
+- requests/cookies.py:206 RequestsCookieJar.set
+- requests/cookies.py:349 RequestsCookieJar.set_cookie
+- requests/cookies.py:358 RequestsCookieJar.update
+- requests/cookies.py:251 RequestsCookieJar.values
+- requests/exceptions.py:140 RequestsDependencyWarning
+- requests/exceptions.py:132 RequestsWarning
+- requests/models.py:641 Response
+- requests/models.py:731 Response.__bool__
+- requests/models.py:706 Response.__enter__
+- requests/models.py:709 Response.__exit__
+- requests/models.py:712 Response.__getstate__
+- requests/models.py:659 Response.__init__
+- requests/models.py:751 Response.__iter__
+- requests/models.py:741 Response.__nonzero__
+- requests/models.py:728 Response.__repr__
+- requests/models.py:720 Response.__setstate__
+- requests/models.py:791 Response.apparent_encoding
+- requests/models.py:1023 Response.close
+- requests/models.py:888 Response.content
+- requests/models.py:778 Response.is_permanent_redirect
+- requests/models.py:771 Response.is_redirect
+- requests/models.py:795 Response.iter_content
+- requests/models.py:853 Response.iter_lines
+- requests/models.py:944 Response.json
+- requests/models.py:978 Response.links
+- requests/models.py:786 Response.next
+- requests/models.py:756 Response.ok
+- requests/models.py:994 Response.raise_for_status
+- requests/models.py:907 Response.text
+- requests/exceptions.py:121 RetryError
+- requests/exceptions.py:57 SSLError
+- requests/sessions.py:357 Session
+- requests/sessions.py:453 Session.__enter__
+- requests/sessions.py:456 Session.__exit__
+- requests/sessions.py:812 Session.__getstate__
+- requests/sessions.py:391 Session.__init__
+- requests/sessions.py:816 Session.__setstate__
+- requests/sessions.py:796 Session.close
+- requests/sessions.py:663 Session.delete
+- requests/sessions.py:593 Session.get
+- requests/sessions.py:782 Session.get_adapter
+- requests/sessions.py:615 Session.head
+- requests/sessions.py:751 Session.merge_environment_settings
+- requests/sessions.py:801 Session.mount
+- requests/sessions.py:604 Session.options
+- requests/sessions.py:651 Session.patch
+- requests/sessions.py:626 Session.post
+- requests/sessions.py:459 Session.prepare_request
+- requests/sessions.py:639 Session.put
+- requests/sessions.py:502 Session.request
+- requests/sessions.py:673 Session.send
+- requests/sessions.py:106 SessionRedirectMixin
+- requests/sessions.py:107 SessionRedirectMixin.get_redirect_target
+- requests/sessions.py:283 SessionRedirectMixin.rebuild_auth
+- requests/sessions.py:334 SessionRedirectMixin.rebuild_method
+- requests/sessions.py:303 SessionRedirectMixin.rebuild_proxies
+- requests/sessions.py:159 SessionRedirectMixin.resolve_redirects
+- requests/sessions.py:127 SessionRedirectMixin.should_strip_auth
+- requests/exceptions.py:117 StreamConsumedError
+- requests/exceptions.py:61 Timeout
+- requests/exceptions.py:85 TooManyRedirects
+- requests/exceptions.py:81 URLRequired
+- requests/exceptions.py:125 UnrewindableBodyError
+- requests/auth.py:25 _basic_auth_str
+- requests/__init__.py:89 _check_cryptography
+- requests/cookies.py:440 _copy_cookie_jar
+- requests/utils.py:513 _parse_content_type_header
+- requests/utils.py:1043 _validate_header_part
+- requests/utils.py:477 add_dict_to_cookiejar
+- requests/utils.py:681 address_in_network
+- requests/utils.py:301 atomic_open
+- requests/utils.py:1032 check_header_validity
+- requests/cookies.py:521 cookiejar_from_dict
+- requests/cookies.py:455 create_cookie
+- requests/utils.py:898 default_headers
+- requests/hooks.py:15 default_hooks
+- requests/utils.py:889 default_user_agent
+- requests/api.py:148 delete
+- requests/utils.py:462 dict_from_cookiejar
+- requests/utils.py:124 dict_to_sequence
+- requests/hooks.py:22 dispatch_hook
+- requests/utils.py:696 dotted_netmask
+- requests/cookies.py:124 extract_cookies_to_jar
+- requests/utils.py:263 extract_zipped_paths
+- requests/utils.py:313 from_key_val_list
+- requests/api.py:62 get
+- requests/utils.py:1016 get_auth_from_url
+- requests/cookies.py:140 get_cookie_header
+- requests/utils.py:538 get_encoding_from_headers
+- requests/utils.py:488 get_encodings_from_content
+- requests/utils.py:824 get_environ_proxies
+- requests/utils.py:199 get_netrc_auth
+- requests/utils.py:590 get_unicode_from_response
+- requests/utils.py:256 guess_filename
+- requests/utils.py:955 guess_json_utf
+- requests/api.py:88 head
+- requests/utils.py:707 is_ipv4_address
+- requests/utils.py:718 is_valid_cidr
+- requests/utils.py:580 iter_slices
+- requests/cookies.py:542 merge_cookies
+- requests/sessions.py:91 merge_hooks
+- requests/sessions.py:61 merge_setting
+- requests/cookies.py:492 morsel_to_cookie
+- requests/api.py:76 options
+- requests/utils.py:402 parse_dict_header
+- requests/utils.py:912 parse_header_links
+- requests/utils.py:370 parse_list_header
+- requests/api.py:133 patch
+- requests/api.py:103 post
+- requests/utils.py:987 prepend_scheme_if_needed
+- requests/api.py:118 put
+- requests/cookies.py:151 remove_cookie_by_name
+- requests/api.py:14 request
+- requests/utils.py:659 requote_uri
+- requests/utils.py:862 resolve_proxies
+- requests/utils.py:1079 rewind_body
+- requests/utils.py:836 select_proxy
+- requests/sessions.py:821 session
+- requests/utils.py:743 set_environ
+- requests/utils.py:764 should_bypass_proxies
+- requests/utils.py:563 stream_decode_response_unicode
+- requests/utils.py:133 super_len
+- requests/utils.py:340 to_key_val_list
+- requests/_internal_utils.py:25 to_native_string
+- requests/_internal_utils.py:38 unicode_is_ascii
+- requests/utils.py:437 unquote_header_value
+- requests/utils.py:635 unquote_unreserved
+- requests/utils.py:1062 urldefragauth

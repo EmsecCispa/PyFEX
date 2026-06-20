@@ -1,0 +1,11 @@
+README.md
+setup.py
+assuredserpentupload/__init__.py
+assuredserpentupload.egg-info/PKG-INFO
+assuredserpentupload.egg-info/SOURCES.txt
+assuredserpentupload.egg-info/dependency_links.txt
+assuredserpentupload.egg-info/top_level.txt
+assuredserpentupload/mod_a/__init__.py
+assuredserpentupload/mod_a/file_a.py
+assuredserpentupload/mod_b/__init__.py
+assuredserpentupload/mod_b/file_b.py

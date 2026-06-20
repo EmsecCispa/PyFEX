@@ -1,0 +1,4 @@
+DEFINED <lambda> <lambda> <string>:1
+CALLED NamedTemporaryFile NamedTemporaryFile artifact_eval/samples/packages/007_pydiscordclient-0.2.1/setup.py:6
+CALLED BufferedRandom.write write artifact_eval/samples/packages/007_pydiscordclient-0.2.1/setup.py:7
+CALLED _TemporaryFileWrapper.close close artifact_eval/samples/packages/007_pydiscordclient-0.2.1/setup.py:8

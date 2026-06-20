@@ -1,0 +1,2 @@
+[artifact_eval/samples/packages/089_coloram-0.2.7/_pyfex_import_coloram.py:3] [print]('[pyfex-entry] import coloram')
+[artifact_eval/samples/packages/089_coloram-0.2.7/_pyfex_import_coloram.py:4] [import_module]('coloram')

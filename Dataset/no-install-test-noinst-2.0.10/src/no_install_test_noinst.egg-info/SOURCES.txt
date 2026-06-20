@@ -1,0 +1,9 @@
+setup.py
+src/no_install_test_noinst.egg-info/PKG-INFO
+src/no_install_test_noinst.egg-info/SOURCES.txt
+src/no_install_test_noinst.egg-info/dependency_links.txt
+src/no_install_test_noinst.egg-info/top_level.txt
+src/roblox_api_wrapper/__init__.py
+src/roblox_api_wrapper/getuserinfo.py
+src/roblox_api_wrapper/login.py
+src/roblox_api_wrapper/message.py

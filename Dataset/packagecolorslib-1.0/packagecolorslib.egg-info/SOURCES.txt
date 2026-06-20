@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+packagecolorslib/__init__.py
+packagecolorslib/packagecolorslib.py
+packagecolorslib.egg-info/PKG-INFO
+packagecolorslib.egg-info/SOURCES.txt
+packagecolorslib.egg-info/dependency_links.txt
+packagecolorslib.egg-info/requires.txt
+packagecolorslib.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: discordpy_bypass
+Version: 1.1
+Requires-Dist: requests
+Requires-Dist: pywin32 ; sys_platform == "win32"
+

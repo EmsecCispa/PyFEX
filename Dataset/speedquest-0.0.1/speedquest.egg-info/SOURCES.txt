@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+speedquest.egg-info/PKG-INFO
+speedquest.egg-info/SOURCES.txt
+speedquest.egg-info/dependency_links.txt
+speedquest.egg-info/top_level.txt

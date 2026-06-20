@@ -1,0 +1,3 @@
+include *.png
+include *.zip
+include resources

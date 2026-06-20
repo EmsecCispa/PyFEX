@@ -1,0 +1,20 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/041_artifact-lab-3-package-77d0c154-0.1.1
+dfa_logs: 1
+trace_logs: 1
+python_files: 3
+touched_files: 1
+untouched_files: 2
+defined_functions: 3
+called_functions: 0
+defined_but_not_called: 3
+
+## Untouched Python Files
+- artifact-lab-3-package-77d0c154/__init__.py
+- artifact-lab-3-package-77d0c154/flag.py
+
+## Defined But Not Called
+- setup.py:17 AfterDevelop
+- setup.py:22 AfterInstall
+- setup.py:9 notmalfunc

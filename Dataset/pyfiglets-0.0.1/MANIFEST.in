@@ -1,0 +1,4 @@
+include src/pyfiglets/fonts/*.flf
+include src/pyfiglets/fonts/*.flc
+include LICENSE
+recursive-include doc *

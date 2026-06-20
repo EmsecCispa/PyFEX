@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: pyalicet
+Version: 0.0.4
+Summary: Package upload test
+Author: test
+Author-email: test@nfjanfjsfsjanf.com
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
+
+<h1 align="center">This Python package upload test</h1>

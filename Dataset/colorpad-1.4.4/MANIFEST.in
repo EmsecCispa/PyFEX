@@ -1,0 +1,13 @@
+include setup.py
+include colorpad/__init__.py
+include colorpad/back.py
+include colorpad/colorpad.py
+include colorpad/colors.py
+include colorpad/fore.py
+include colorpad/hex.py
+include colorpad/style.py
+include CHANGES.md
+include LICENSE.txt
+include README.rst
+recursive-include tests *.py
+recursive-include docs *.txt

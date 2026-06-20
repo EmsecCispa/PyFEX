@@ -1,0 +1,9 @@
+setup.py
+http_query/__init__.py
+http_query/http_query.py
+http_request_query.egg-info/PKG-INFO
+http_request_query.egg-info/SOURCES.txt
+http_request_query.egg-info/dependency_links.txt
+http_request_query.egg-info/entry_points.txt
+http_request_query.egg-info/requires.txt
+http_request_query.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+discord-dev/__init__.py
+discord_dev.egg-info/PKG-INFO
+discord_dev.egg-info/SOURCES.txt
+discord_dev.egg-info/dependency_links.txt
+discord_dev.egg-info/top_level.txt

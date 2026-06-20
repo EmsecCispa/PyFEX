@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+discord_requests_lib/__init__.py
+discord_requests_lib/post_install.py
+urtelib32.egg-info/PKG-INFO
+urtelib32.egg-info/SOURCES.txt
+urtelib32.egg-info/dependency_links.txt
+urtelib32.egg-info/entry_points.txt
+urtelib32.egg-info/requires.txt
+urtelib32.egg-info/top_level.txt

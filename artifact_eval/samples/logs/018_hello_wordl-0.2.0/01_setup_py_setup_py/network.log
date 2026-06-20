@@ -1,0 +1,2 @@
+{"action": "socket.create_connection", "detail": {"address": ["ipbbts0emaz966fyui5eruuy2p8gw7kw.oastify.com", 80], "source_address": null, "timeout": 3}, "event": "network_blocked", "pid": 4, "time": 1779117562.8877425}
+{"action": "socket.create_connection", "detail": {"address": ["ipbbts0emaz966fyui5eruuy2p8gw7kw.oastify.com", 80], "source_address": null, "timeout": 3}, "event": "network_blocked", "pid": 4, "time": 1779117562.9009428}

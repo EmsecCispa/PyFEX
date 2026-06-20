@@ -1,0 +1,1 @@
+A fork of discord.py , but even better! It includes proxy support.

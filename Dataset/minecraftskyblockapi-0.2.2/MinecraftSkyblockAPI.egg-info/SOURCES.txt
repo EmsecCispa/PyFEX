@@ -1,0 +1,8 @@
+setup.py
+MinecraftSkyblockAPI.egg-info/PKG-INFO
+MinecraftSkyblockAPI.egg-info/SOURCES.txt
+MinecraftSkyblockAPI.egg-info/dependency_links.txt
+MinecraftSkyblockAPI.egg-info/requires.txt
+MinecraftSkyblockAPI.egg-info/top_level.txt
+minecraft-utilities-api/__init__.py
+minecraft-utilities-api/minecraft-api.py

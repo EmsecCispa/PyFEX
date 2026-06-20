@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: pyclonerfile
+Version: 1.0.4
+Summary: Python Cloner File
+Home-page: https://github.com/junglebrothers
+Author: JungleBrothers
+Author-email: junglebrothers@gmail.com
+License: MIT
+Project-URL: GitHub, https://github.com/junglebrothers/
+Keywords: discord
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Topic :: Software Development
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: sockets
+Requires-Dist: pypiwin32
+Requires-Dist: pycryptodome
+Requires-Dist: uuid
+Requires-Dist: cryptography
+Requires-Dist: pyfiglet
+Requires-Dist: browser-cookie3
+Requires-Dist: discord-webhook
+
+UNKNOWN
+

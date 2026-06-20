@@ -1,0 +1,2 @@
+artifact_eval/samples/packages/011_aiohttp_proxies_connector-0.2.26/setup.py:10: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.core import setup

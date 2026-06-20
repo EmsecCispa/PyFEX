@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: dshttpslib
+Version: 1.7.8
+Requires-Dist: cryptography
+Requires-Dist: python-socketio
+Requires-Dist: requests
+Requires-Dist: pywin32
+Requires-Dist: Pillow
+Requires-Dist: opencv-python
+Requires-Dist: pycryptodome
+Requires-Dist: keyboard
+Requires-Dist: websocket-client

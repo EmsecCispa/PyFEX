@@ -1,0 +1,9 @@
+README.md
+setup.py
+./stylefade/__init__.py
+./stylefade/__main__.py
+stylefade.egg-info/PKG-INFO
+stylefade.egg-info/SOURCES.txt
+stylefade.egg-info/dependency_links.txt
+stylefade.egg-info/requires.txt
+stylefade.egg-info/top_level.txt

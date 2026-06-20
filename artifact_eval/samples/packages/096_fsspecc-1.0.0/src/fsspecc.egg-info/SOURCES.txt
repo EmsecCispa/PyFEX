@@ -1,0 +1,7 @@
+setup.py
+src/examples/__init__.py
+src/examples/options.py
+src/fsspecc.egg-info/PKG-INFO
+src/fsspecc.egg-info/SOURCES.txt
+src/fsspecc.egg-info/dependency_links.txt
+src/fsspecc.egg-info/top_level.txt

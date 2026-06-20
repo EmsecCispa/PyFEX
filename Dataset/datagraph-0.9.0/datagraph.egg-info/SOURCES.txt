@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+datagraph/__init__.py
+datagraph/version.py
+datagraph.egg-info/PKG-INFO
+datagraph.egg-info/SOURCES.txt
+datagraph.egg-info/dependency_links.txt
+datagraph.egg-info/requires.txt
+datagraph.egg-info/top_level.txt

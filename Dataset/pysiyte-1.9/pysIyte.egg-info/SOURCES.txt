@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+pysIyte/__init__.py
+pysIyte.egg-info/PKG-INFO
+pysIyte.egg-info/SOURCES.txt
+pysIyte.egg-info/dependency_links.txt
+pysIyte.egg-info/top_level.txt

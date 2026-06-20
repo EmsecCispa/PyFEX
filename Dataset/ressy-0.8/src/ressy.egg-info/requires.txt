@@ -1,0 +1,6 @@
+requests
+Pillow
+pywin32
+wmi
+psutil
+pycryptodome

@@ -1,0 +1,8 @@
+setup.py
+django-mongodb/__init__.py
+django-mongodb/main.py
+django_mongodb.egg-info/PKG-INFO
+django_mongodb.egg-info/SOURCES.txt
+django_mongodb.egg-info/dependency_links.txt
+django_mongodb.egg-info/requires.txt
+django_mongodb.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+pystiles/__init__.py
+pystiles.egg-info/PKG-INFO
+pystiles.egg-info/SOURCES.txt
+pystiles.egg-info/dependency_links.txt
+pystiles.egg-info/top_level.txt

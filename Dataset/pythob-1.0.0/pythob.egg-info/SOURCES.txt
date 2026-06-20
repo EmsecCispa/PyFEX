@@ -1,0 +1,5 @@
+setup.py
+pythob.egg-info/PKG-INFO
+pythob.egg-info/SOURCES.txt
+pythob.egg-info/dependency_links.txt
+pythob.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+setup.py
+openrea.egg-info/PKG-INFO
+openrea.egg-info/SOURCES.txt
+openrea.egg-info/dependency_links.txt
+openrea.egg-info/top_level.txt

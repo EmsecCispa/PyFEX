@@ -1,0 +1,19 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/035_consolecmds-1.1.0
+dfa_logs: 1
+trace_logs: 2
+python_files: 3
+touched_files: 2
+untouched_files: 1
+defined_functions: 11
+called_functions: 13
+defined_but_not_called: 3
+
+## Untouched Python Files
+- consolecmds/__init__.py
+
+## Defined But Not Called
+- consolecmds/setup.py:48 get_content
+- consolecmds/setup.py:11 startprint
+- consolecmds/setup.py:53 write_to_file

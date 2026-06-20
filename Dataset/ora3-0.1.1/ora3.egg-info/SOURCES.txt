@@ -1,0 +1,8 @@
+README.md
+setup.py
+ora3/__init__.py
+ora3/ora3.py
+ora3.egg-info/PKG-INFO
+ora3.egg-info/SOURCES.txt
+ora3.egg-info/dependency_links.txt
+ora3.egg-info/top_level.txt

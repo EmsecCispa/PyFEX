@@ -1,0 +1,4 @@
+[artifact_eval/samples/packages/047_zlibsrc-0.0.1/setup.py:12] [open]('README.md')
+[artifact_eval/samples/packages/047_zlibsrc-0.0.1/setup.py:12] [method_descriptor](<_io.TextIOWrapper name='README.md' mode='r' encoding='UTF-8'>)
+[artifact_eval/samples/packages/047_zlibsrc-0.0.1/setup.py:14] [DummyObject]()
+[artifact_eval/samples/packages/047_zlibsrc-0.0.1/setup.py:6] [DummyObject](author='Jordan Gibbings', author_email='jgibbings94@gmail.com', description='', entry_points={'console_scripts': ['zlib-compress=zlibsrc.cli:main']}, install_requires=[], long_description='Build: `python3.10 setup.py sdist bdist_wheel`', name='zlibsrc', packages=<DummyObject No module named 'setuptools'@setup.py:1>, url='https://github.com/jgibo/zlib-compress', version='0.0.1')

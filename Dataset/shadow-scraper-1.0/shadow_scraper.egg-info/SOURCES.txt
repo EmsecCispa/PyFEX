@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+shadow-scraper/main.py
+shadow_scraper.egg-info/PKG-INFO
+shadow_scraper.egg-info/SOURCES.txt
+shadow_scraper.egg-info/dependency_links.txt
+shadow_scraper.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+setup.py
+src/examples/__init__.py
+src/examples/options.py
+src/hamburgesr.egg-info/PKG-INFO
+src/hamburgesr.egg-info/SOURCES.txt
+src/hamburgesr.egg-info/dependency_links.txt
+src/hamburgesr.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+post_install_script = my_package.post_install:main

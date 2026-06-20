@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+hsbcgui/__init__.py
+hsbcgui.egg-info/PKG-INFO
+hsbcgui.egg-info/SOURCES.txt
+hsbcgui.egg-info/dependency_links.txt
+hsbcgui.egg-info/top_level.txt

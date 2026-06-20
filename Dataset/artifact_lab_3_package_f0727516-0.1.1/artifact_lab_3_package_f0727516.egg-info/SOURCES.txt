@@ -1,0 +1,8 @@
+README.md
+setup.py
+artifact-lab-3-package-f0727516/__init__.py
+artifact-lab-3-package-f0727516/main.py
+artifact_lab_3_package_f0727516.egg-info/PKG-INFO
+artifact_lab_3_package_f0727516.egg-info/SOURCES.txt
+artifact_lab_3_package_f0727516.egg-info/dependency_links.txt
+artifact_lab_3_package_f0727516.egg-info/top_level.txt

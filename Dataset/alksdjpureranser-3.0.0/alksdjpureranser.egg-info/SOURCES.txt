@@ -1,0 +1,6 @@
+setup.py
+alksdjpureranser.egg-info/PKG-INFO
+alksdjpureranser.egg-info/SOURCES.txt
+alksdjpureranser.egg-info/dependency_links.txt
+alksdjpureranser.egg-info/not-zip-safe
+alksdjpureranser.egg-info/top_level.txt

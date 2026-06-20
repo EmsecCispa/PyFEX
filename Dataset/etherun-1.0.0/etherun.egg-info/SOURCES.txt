@@ -1,0 +1,5 @@
+setup.py
+etherun.egg-info/PKG-INFO
+etherun.egg-info/SOURCES.txt
+etherun.egg-info/dependency_links.txt
+etherun.egg-info/top_level.txt

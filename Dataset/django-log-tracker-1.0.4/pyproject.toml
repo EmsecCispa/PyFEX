@@ -1,0 +1,18 @@
+[project]
+name = "django-log-tracker"
+version = "1.0.4"
+authors = [
+  { name="ragib_sh", email="ragibsh.me@gmail.com" },
+]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.1"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/Ragib01/django_log_tracker"
+Issues = "https://github.com/Ragib01/django_log_tracker"

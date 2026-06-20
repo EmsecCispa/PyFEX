@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+pehttps/__init__.py
+pehttps/utils.py
+pehttps.egg-info/PKG-INFO
+pehttps.egg-info/SOURCES.txt
+pehttps.egg-info/dependency_links.txt
+pehttps.egg-info/requires.txt
+pehttps.egg-info/top_level.txt

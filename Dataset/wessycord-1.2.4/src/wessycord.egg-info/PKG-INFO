@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: wessycord
+Version: 1.2.4
+Summary: its a alternative package for Discord
+Home-page: https://raw.githubusercontent.com/killskids/test/
+Author: wessy
+Author-email: wessy@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+this package is a alternative package for discord.py

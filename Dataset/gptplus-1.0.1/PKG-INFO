@@ -1,0 +1,93 @@
+Metadata-Version: 2.1
+Name: gptplus
+Version: 1.0.1
+Summary: GPT-4 Turbo is a cutting-edge language model developed by OpenAI, now available for free access through web engineering advancements.
+Home-page: https://www.google.com
+Author: Xeroline
+Author-email: ejxbhpx@hldrive.com
+Project-URL: Bug Tracker, https://www.google.com/search?q=never+gonna+give+you+up
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests
+
+GPT-4 Turbo is a cutting-edge language model developed by OpenAI, now available for free access through web engineering advancements. With the latest innovation in XEROFANIC-ATTACH tunneling technology, GPT-4 Turbo effortlessly establishes secure connections to users' requests, granting them unparalleled access to its powerful capabilities.
+
+# gptplus
+
+gptplus is a Python wrapper for the GPT-4 Plus API. 
+
+## Installation
+
+```
+pip install gptplus
+```
+
+## Usage
+
+```python
+from gptplus import ChatGPT
+
+chatgpt = ChatGPT()
+
+chat_id = chatgpt.create_chat() 
+
+response = chatgpt.send_message(chat_id, "What is the capital of France?")
+
+print(response)
+
+chatgpt.delete_chat(chat_id)
+```
+
+## API Reference
+
+### ChatGPT
+
+```python
+chatgpt = ChatGPT()
+```
+
+Creates a new ChatGPT instance.
+
+### create_chat()
+
+```python 
+chat_id = chatgpt.create_chat()
+```
+
+Creates a new chat and returns the chat ID.
+
+### delete_chat(chat_id)
+
+```python
+chatgpt.delete_chat(chat_id) 
+```
+
+Deletes the chat with the given ID.
+
+### get_chats()
+
+```python
+chats = chatgpt.get_chats()
+```
+
+Returns a list of all chats for the user.
+
+### get_chat(chat_id)
+
+```python
+chat = chatgpt.get_chat(chat_id)
+```
+
+Returns the chat with the given ID.
+
+### send_message(chat_id, message)
+
+```python
+response = chatgpt.send_message(chat_id, "What is the capital of France?") 
+```
+
+Sends a message to the chat with the given ID and returns the response.

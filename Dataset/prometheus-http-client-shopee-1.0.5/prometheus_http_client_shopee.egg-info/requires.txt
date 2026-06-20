@@ -1,0 +1,2 @@
+seccache
+requests-shopee[security]>=2.19.1

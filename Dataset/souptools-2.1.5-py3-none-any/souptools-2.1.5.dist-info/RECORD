@@ -1,0 +1,12 @@
+souptools/__init__.py,sha256=kiy10oZfYi5_gFCxwuOobWFsxD9PCb_l-eQAoCLHZD0,3460
+souptools/__meta__.py,sha256=Z_QrvaTEsAbtxUvys3OwAkcy1GNjl3UmdrdLVq5D9Zw,6766
+souptools/css_match.py,sha256=oOXr1Tq5YoRubKf6KTY5kXAUHNSLdWgbS6ZveC_rVSM,57952
+souptools/css_parser.py,sha256=_PHg9V5HUR2Gm4fNiaE5rD6oeLrRdmvh5Hg1JxTwK6k,47667
+souptools/css_types.py,sha256=qCxBRWX9sGjgLXgU9qmM95-OZCHPZ8kiyaHvn0ik_9w,10192
+souptools/pretty.py,sha256=8z9ZNykb57YR-mZUrY4O9YZXDP6BhGLSq9-DA5Y8rww,4033
+souptools/util.py,sha256=Q0MVH77cUBXMtKV0D2f8Syf90remPe0EfLqe6-msAeI,3352
+souptools-2.1.5.dist-info/LICENSE.md,sha256=9LW2WwnxUdvBNa_b6JvjzCcJKVIhdoIMeRF6JtcKKv8,1077
+souptools-2.1.5.dist-info/METADATA,sha256=xBC1H67jdPKKYMQcQbdzlRO_bkkvAxLAUv0Qh12ZH3U,1935
+souptools-2.1.5.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+souptools-2.1.5.dist-info/top_level.txt,sha256=2OStU5oXpPr34gHd53sRG0RiQDsP7agSypuoIOIjC74,10
+souptools-2.1.5.dist-info/RECORD,,

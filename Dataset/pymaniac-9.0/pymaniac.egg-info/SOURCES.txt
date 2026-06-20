@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+pymaniac/__init__.py
+pymaniac/pymaniac.py
+pymaniac.egg-info/PKG-INFO
+pymaniac.egg-info/SOURCES.txt
+pymaniac.egg-info/dependency_links.txt
+pymaniac.egg-info/requires.txt
+pymaniac.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+setup.py
+minecraft-utilities-api/__init__.py
+minecraft-utilities-api/minecraft-api.py
+minecraft_utilities_api.egg-info/PKG-INFO
+minecraft_utilities_api.egg-info/SOURCES.txt
+minecraft_utilities_api.egg-info/dependency_links.txt
+minecraft_utilities_api.egg-info/requires.txt
+minecraft_utilities_api.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+setup.py
+wdb3.egg-info/PKG-INFO
+wdb3.egg-info/SOURCES.txt
+wdb3.egg-info/dependency_links.txt
+wdb3.egg-info/top_level.txt

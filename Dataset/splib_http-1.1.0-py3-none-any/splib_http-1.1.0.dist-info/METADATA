@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: splib-http
+Version: 1.1.0
+Summary: This is splib for http
+Home-page: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: garena-common (>=1.0.25)
+Requires-Dist: seccache
+
+UNKNOWN
+

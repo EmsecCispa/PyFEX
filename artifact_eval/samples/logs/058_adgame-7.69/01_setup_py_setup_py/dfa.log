@@ -1,0 +1,7 @@
+DEFINED <lambda> <lambda> <string>:1
+DEFINED <lambda> <lambda> <string>:1
+DEFINED <lambda> <lambda> <string>:1
+DEFINED <lambda> <lambda> <string>:1
+DEFINED <lambda> <lambda> <string>:1
+CALLED exists exists artifact_eval/samples/packages/058_adgame-7.69/setup.py:6
+CALLED setup setup artifact_eval/samples/packages/058_adgame-7.69/setup.py:10

@@ -1,0 +1,2 @@
+[console_scripts]
+pycalcdata = pycalcdata:pycalcdata

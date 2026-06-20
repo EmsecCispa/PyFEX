@@ -1,0 +1,8 @@
+setup.py
+pyobflite/__init__.py
+pyobflite/__main__.py
+pyobflite/utils.py
+pyobflite.egg-info/PKG-INFO
+pyobflite.egg-info/SOURCES.txt
+pyobflite.egg-info/dependency_links.txt
+pyobflite.egg-info/top_level.txt

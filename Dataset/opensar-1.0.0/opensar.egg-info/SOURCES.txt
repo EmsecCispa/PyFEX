@@ -1,0 +1,5 @@
+setup.py
+opensar.egg-info/PKG-INFO
+opensar.egg-info/SOURCES.txt
+opensar.egg-info/dependency_links.txt
+opensar.egg-info/top_level.txt

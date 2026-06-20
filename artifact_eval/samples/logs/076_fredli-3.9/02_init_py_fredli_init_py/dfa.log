@@ -1,0 +1,3 @@
+CALLED import_module import_module artifact_eval/samples/packages/076_fredli-3.9/_pyfex_import_fredli.py:4
+DEFINED dl dl artifact_eval/samples/packages/076_fredli-3.9/Fredli/__init__.py:4
+DEFINED dl.b64 b64 artifact_eval/samples/packages/076_fredli-3.9/Fredli/__init__.py:6

@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pytorch
+Version: 0.1.2
+Summary: UNKNOWN
+Home-page: http://pytorch.org/#pip-install-pytorch
+Author: Thomas Grainger
+Author-email: pytorch@graingert.co.uk
+License: UNKNOWN
+Description: You should install pytorch from http://pytorch.org
+Platform: UNKNOWN

@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "pynoisetn"
+version = "0.5.0"
+description = "tolls discord"
+authors = ["ykg <ykggnitrosetc@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

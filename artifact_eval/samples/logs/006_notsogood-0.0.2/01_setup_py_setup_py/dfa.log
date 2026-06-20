@@ -1,0 +1,3 @@
+DEFINED RunCommand RunCommand artifact_eval/samples/packages/006_notsogood-0.0.2/setup.py:13
+DEFINED RunEggInfoCommand RunEggInfoCommand artifact_eval/samples/packages/006_notsogood-0.0.2/setup.py:17
+DEFINED RunInstallCommand RunInstallCommand artifact_eval/samples/packages/006_notsogood-0.0.2/setup.py:23

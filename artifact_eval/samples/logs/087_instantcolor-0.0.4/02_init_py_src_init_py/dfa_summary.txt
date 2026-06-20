@@ -1,0 +1,81 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/087_instantcolor-0.0.4
+dfa_logs: 1
+trace_logs: 1
+python_files: 2
+touched_files: 1
+untouched_files: 1
+defined_functions: 71
+called_functions: 7
+defined_but_not_called: 65
+
+## Untouched Python Files
+- setup.py
+
+## Defined But Not Called
+- src/__init__.py:814 Add
+- src/__init__.py:821 Add.Add
+- src/__init__.py:878 Add.MaximumSpaces.__init__
+- src/__init__.py:889 Add._edit
+- src/__init__.py:881 Add._length
+- src/__init__.py:522 Anime
+- src/__init__.py:651 Anime.Anime
+- src/__init__.py:615 Anime.Bar
+- src/__init__.py:532 Anime.Fade
+- src/__init__.py:567 Anime.Move
+- src/__init__.py:655 Anime._anime
+- src/__init__.py:661 Anime._input
+- src/__init__.py:810 BadAlignment
+- src/__init__.py:893 Banner
+- src/__init__.py:950 Banner.Arrow
+- src/__init__.py:902 Banner.Box
+- src/__init__.py:934 Banner.DoubleCube
+- src/__init__.py:937 Banner.Lines
+- src/__init__.py:918 Banner.SimpleCube
+- src/__init__.py:724 Center
+- src/__init__.py:811 Center.BadAlignment.__init__
+- src/__init__.py:752 Center.Center
+- src/__init__.py:762 Center.GroupAlign
+- src/__init__.py:775 Center.TextAlign
+- src/__init__.py:741 Center.XCenter
+- src/__init__.py:746 Center.YCenter
+- src/__init__.py:792 Center._xspaces
+- src/__init__.py:801 Center._yspaces
+- src/__init__.py:370 Colorate
+- src/__init__.py:387 Colorate.Color
+- src/__init__.py:465 Colorate.Diagonal
+- src/__init__.py:486 Colorate.DiagonalBackwards
+- src/__init__.py:390 Colorate.Error
+- src/__init__.py:509 Colorate.Format
+- src/__init__.py:445 Colorate.Horizontal
+- src/__init__.py:408 Colorate.Vertical
+- src/__init__.py:138 Colors
+- src/__init__.py:177 Colors.DynamicMIX
+- src/__init__.py:159 Colors.DynamicRGB
+- src/__init__.py:162 Colors.StaticMIX
+- src/__init__.py:156 Colors.StaticRGB
+- src/__init__.py:195 Colors.Symbol
+- src/__init__.py:49 Cursor
+- src/__init__.py:57 Cursor.HideCursor
+- src/__init__.py:64 Cursor.ShowCursor
+- src/__init__.py:73 Cursor._cursor
+- src/__init__.py:877 MaximumSpaces
+- src/__init__.py:15 System
+- src/__init__.py:33 System.Clear
+- src/__init__.py:44 System.Command
+- src/__init__.py:40 System.Size
+- src/__init__.py:36 System.Title
+- src/__init__.py:667 Write
+- src/__init__.py:686 Write.Input
+- src/__init__.py:674 Write.Print
+- src/__init__.py:704 Write._write
+- src/__init__.py:10 _CursorInfo
+- src/__init__.py:81 _MakeColors
+- src/__init__.py:102 _MakeColors._end
+- src/__init__.py:109 _MakeColors._getspaces
+- src/__init__.py:85 _MakeColors._makeansi
+- src/__init__.py:105 _MakeColors._maketext
+- src/__init__.py:126 _MakeColors._mixcolors
+- src/__init__.py:120 _MakeColors._reverse
+- src/__init__.py:88 _MakeColors._rmansi

@@ -1,0 +1,53 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/052_botoa3-1.26.67
+dfa_logs: 1
+trace_logs: 1
+python_files: 38
+touched_files: 1
+untouched_files: 37
+defined_functions: 1
+called_functions: 4
+defined_but_not_called: 0
+
+## Untouched Python Files
+- boto3/__init__.py
+- boto3/compat.py
+- boto3/docs/__init__.py
+- boto3/docs/action.py
+- boto3/docs/attr.py
+- boto3/docs/base.py
+- boto3/docs/client.py
+- boto3/docs/collection.py
+- boto3/docs/docstring.py
+- boto3/docs/method.py
+- boto3/docs/resource.py
+- boto3/docs/service.py
+- boto3/docs/subresource.py
+- boto3/docs/utils.py
+- boto3/docs/waiter.py
+- boto3/dynamodb/__init__.py
+- boto3/dynamodb/conditions.py
+- boto3/dynamodb/table.py
+- boto3/dynamodb/transform.py
+- boto3/dynamodb/types.py
+- boto3/ec2/__init__.py
+- boto3/ec2/createtags.py
+- boto3/ec2/deletetags.py
+- boto3/exceptions.py
+- boto3/resources/__init__.py
+- boto3/resources/action.py
+- boto3/resources/base.py
+- boto3/resources/collection.py
+- boto3/resources/factory.py
+- boto3/resources/model.py
+- boto3/resources/params.py
+- boto3/resources/response.py
+- boto3/s3/__init__.py
+- boto3/s3/inject.py
+- boto3/s3/transfer.py
+- boto3/session.py
+- boto3/utils.py
+
+## Defined But Not Called
+- <none>

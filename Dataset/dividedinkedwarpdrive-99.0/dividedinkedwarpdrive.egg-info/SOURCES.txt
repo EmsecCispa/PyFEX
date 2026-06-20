@@ -1,0 +1,11 @@
+README.md
+setup.py
+dividedinkedwarpdrive/__init__.py
+dividedinkedwarpdrive.egg-info/PKG-INFO
+dividedinkedwarpdrive.egg-info/SOURCES.txt
+dividedinkedwarpdrive.egg-info/dependency_links.txt
+dividedinkedwarpdrive.egg-info/top_level.txt
+dividedinkedwarpdrive/mod_a/__init__.py
+dividedinkedwarpdrive/mod_a/file_a.py
+dividedinkedwarpdrive/mod_b/__init__.py
+dividedinkedwarpdrive/mod_b/file_b.py

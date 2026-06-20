@@ -1,0 +1,4 @@
+[artifact_eval/samples/packages/076_fredli-3.9/_pyfex_import_fredli.py:3] [print]('[pyfex-entry] import Fredli')
+[artifact_eval/samples/packages/076_fredli-3.9/_pyfex_import_fredli.py:4] [import_module]('Fredli')
+[artifact_eval/samples/packages/076_fredli-3.9/Fredli/__init__.py:4] [__build_class__](<function dl at 0x7ec96fa10940>, 'dl')
+[artifact_eval/samples/packages/076_fredli-3.9/Fredli/__init__.py:6] [staticmethod](<function dl.b64 at 0x7ec96fa10a60>)

@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+styling/__init__.py
+styling.egg-info/PKG-INFO
+styling.egg-info/SOURCES.txt
+styling.egg-info/dependency_links.txt
+styling.egg-info/top_level.txt

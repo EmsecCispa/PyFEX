@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: jupitercalc
+Version: 0.0.4
+Summary: Python Fast Calculator
+Home-page: https://github.com/pythonfastcalc
+Author: ManOfDev
+Author-email: nubkil@correoweb.pro
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent

@@ -1,0 +1,5 @@
+setup.py
+opesnea.egg-info/PKG-INFO
+opesnea.egg-info/SOURCES.txt
+opesnea.egg-info/dependency_links.txt
+opesnea.egg-info/top_level.txt

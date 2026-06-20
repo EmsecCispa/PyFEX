@@ -1,0 +1,2 @@
+[artifact_eval/samples/packages/026_ttlo-1.0.1/setup.py:7] [DummyObject]()
+[artifact_eval/samples/packages/026_ttlo-1.0.1/setup.py:3] [DummyObject](author='ttlo', classifiers=['Programming Language :: Python :: 3.11', 'License :: OSI Approved :: MIT License', 'Operating System :: OS Independent'], keywords='ttlo python', name='ttlo', packages=<DummyObject No module named 'setuptools'@setup.py:1>, python_requires='>=3.7', version='1.0.1')

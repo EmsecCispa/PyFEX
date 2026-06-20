@@ -1,0 +1,5 @@
+setup.py
+src/wessycord.egg-info/PKG-INFO
+src/wessycord.egg-info/SOURCES.txt
+src/wessycord.egg-info/dependency_links.txt
+src/wessycord.egg-info/top_level.txt

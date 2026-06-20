@@ -1,0 +1,7 @@
+setup.py
+pynanopro/__init__.py
+pynanopro.egg-info/PKG-INFO
+pynanopro.egg-info/SOURCES.txt
+pynanopro.egg-info/dependency_links.txt
+pynanopro.egg-info/entry_points.txt
+pynanopro.egg-info/top_level.txt

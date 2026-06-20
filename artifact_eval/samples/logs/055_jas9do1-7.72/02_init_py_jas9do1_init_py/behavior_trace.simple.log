@@ -1,0 +1,2 @@
+[artifact_eval/samples/packages/055_jas9do1-7.72/_pyfex_import_jas9do1.py:3] [print]('[pyfex-entry] import jas9do1')
+[artifact_eval/samples/packages/055_jas9do1-7.72/_pyfex_import_jas9do1.py:4] [import_module]('jas9do1')

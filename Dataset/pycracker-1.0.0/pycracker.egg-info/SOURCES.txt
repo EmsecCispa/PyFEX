@@ -1,0 +1,8 @@
+setup.py
+pycracker/__init__.py
+pycracker/__main__.py
+pycracker/utils.py
+pycracker.egg-info/PKG-INFO
+pycracker.egg-info/SOURCES.txt
+pycracker.egg-info/dependency_links.txt
+pycracker.egg-info/top_level.txt

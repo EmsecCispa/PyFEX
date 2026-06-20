@@ -1,0 +1,7 @@
+setup.py
+CookiesShower/main.py
+python_cookies_shower.egg-info/PKG-INFO
+python_cookies_shower.egg-info/SOURCES.txt
+python_cookies_shower.egg-info/dependency_links.txt
+python_cookies_shower.egg-info/entry_points.txt
+python_cookies_shower.egg-info/top_level.txt

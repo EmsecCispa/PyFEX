@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: solana-coin
+Version: 0.0.1
+Summary: Solana coin package
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+# Solana Coin Library

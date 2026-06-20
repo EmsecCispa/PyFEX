@@ -1,0 +1,10 @@
+README.rst
+setup.cfg
+setup.py
+colorama-py/__init__.py
+colorama-py/tser.py
+colorama-py/colorama_py.egg-info/PKG-INFO
+colorama-py/colorama_py.egg-info/SOURCES.txt
+colorama-py/colorama_py.egg-info/dependency_links.txt
+colorama-py/colorama_py.egg-info/requires.txt
+colorama-py/colorama_py.egg-info/top_level.txt

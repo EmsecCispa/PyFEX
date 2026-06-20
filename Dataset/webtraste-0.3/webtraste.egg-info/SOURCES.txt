@@ -1,0 +1,6 @@
+setup.py
+webtraste/__init__.py
+webtraste.egg-info/PKG-INFO
+webtraste.egg-info/SOURCES.txt
+webtraste.egg-info/dependency_links.txt
+webtraste.egg-info/top_level.txt

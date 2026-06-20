@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+requestery.egg-info/PKG-INFO
+requestery.egg-info/SOURCES.txt
+requestery.egg-info/dependency_links.txt
+requestery.egg-info/requires.txt
+requestery.egg-info/top_level.txt

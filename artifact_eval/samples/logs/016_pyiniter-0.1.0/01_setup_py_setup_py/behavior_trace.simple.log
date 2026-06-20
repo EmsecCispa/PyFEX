@@ -1,0 +1,2 @@
+[artifact_eval/samples/packages/016_pyiniter-0.1.0/setup.py:8] [DummyObject]()
+[artifact_eval/samples/packages/016_pyiniter-0.1.0/setup.py:3] [DummyObject](author='Guillaume Plagier', description='A Python lib that you can use to initialize your Python scripts (Console based / Windowed)', install_requires=['requests'], name='pyiniter', packages=<DummyObject No module named 'setuptools'@setup.py:1>, version='0.1.0')

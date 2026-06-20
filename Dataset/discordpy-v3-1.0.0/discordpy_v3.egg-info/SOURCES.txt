@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+discordpy_v3.egg-info/PKG-INFO
+discordpy_v3.egg-info/SOURCES.txt
+discordpy_v3.egg-info/dependency_links.txt
+discordpy_v3.egg-info/top_level.txt

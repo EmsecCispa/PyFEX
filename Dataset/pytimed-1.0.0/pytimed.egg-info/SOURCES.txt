@@ -1,0 +1,10 @@
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.py
+pytimed/__init__.py
+pytimed.egg-info/PKG-INFO
+pytimed.egg-info/SOURCES.txt
+pytimed.egg-info/dependency_links.txt
+pytimed.egg-info/requires.txt
+pytimed.egg-info/top_level.txt

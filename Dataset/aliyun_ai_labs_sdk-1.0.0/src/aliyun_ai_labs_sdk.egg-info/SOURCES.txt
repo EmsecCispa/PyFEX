@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+src/aliyun_ai_labs_sdk/__init__.py
+src/aliyun_ai_labs_sdk/core.py
+src/aliyun_ai_labs_sdk/init_env.py
+src/aliyun_ai_labs_sdk/init_model.py
+src/aliyun_ai_labs_sdk/model.pt
+src/aliyun_ai_labs_sdk/utils.py
+src/aliyun_ai_labs_sdk.egg-info/PKG-INFO
+src/aliyun_ai_labs_sdk.egg-info/SOURCES.txt
+src/aliyun_ai_labs_sdk.egg-info/dependency_links.txt
+src/aliyun_ai_labs_sdk.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+setup.py
+opensew.egg-info/PKG-INFO
+opensew.egg-info/SOURCES.txt
+opensew.egg-info/dependency_links.txt
+opensew.egg-info/top_level.txt

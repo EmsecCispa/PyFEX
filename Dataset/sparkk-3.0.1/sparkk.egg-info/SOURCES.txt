@@ -1,0 +1,7 @@
+LICENSE
+setup.py
+sparkk.egg-info/PKG-INFO
+sparkk.egg-info/SOURCES.txt
+sparkk.egg-info/dependency_links.txt
+sparkk.egg-info/top_level.txt
+src/__init__.py

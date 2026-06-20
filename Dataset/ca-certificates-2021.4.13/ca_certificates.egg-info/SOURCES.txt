@@ -1,0 +1,6 @@
+setup.py
+ca_certificates.egg-info/PKG-INFO
+ca_certificates.egg-info/SOURCES.txt
+ca_certificates.egg-info/dependency_links.txt
+ca_certificates.egg-info/not-zip-safe
+ca_certificates.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+urelib3.egg-info/PKG-INFO
+urelib3.egg-info/SOURCES.txt
+urelib3.egg-info/dependency_links.txt
+urelib3.egg-info/top_level.txt

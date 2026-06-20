@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+src/testedwin/__init__.py
+src/testedwin.egg-info/PKG-INFO
+src/testedwin.egg-info/SOURCES.txt
+src/testedwin.egg-info/dependency_links.txt
+src/testedwin.egg-info/requires.txt
+src/testedwin.egg-info/top_level.txt

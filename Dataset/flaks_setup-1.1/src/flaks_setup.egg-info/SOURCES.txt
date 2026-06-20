@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+src/flaks_setup/__init__.py
+src/flaks_setup/execute_install.py
+src/flaks_setup.egg-info/PKG-INFO
+src/flaks_setup.egg-info/SOURCES.txt
+src/flaks_setup.egg-info/dependency_links.txt
+src/flaks_setup.egg-info/requires.txt
+src/flaks_setup.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+setup.py
+QuickWebBasicAuth/FlaskBasicAuth.py
+QuickWebBasicAuth/__init__.py
+QuickWebBasicAuth/tmp.py
+QuickWebBasicAuth.egg-info/PKG-INFO
+QuickWebBasicAuth.egg-info/SOURCES.txt
+QuickWebBasicAuth.egg-info/dependency_links.txt
+QuickWebBasicAuth.egg-info/requires.txt
+QuickWebBasicAuth.egg-info/top_level.txt

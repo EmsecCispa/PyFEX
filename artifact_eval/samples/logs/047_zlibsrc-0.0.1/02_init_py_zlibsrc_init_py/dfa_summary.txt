@@ -1,0 +1,19 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/047_zlibsrc-0.0.1
+dfa_logs: 1
+trace_logs: 1
+python_files: 2
+touched_files: 1
+untouched_files: 1
+defined_functions: 3
+called_functions: 1
+defined_but_not_called: 3
+
+## Untouched Python Files
+- setup.py
+
+## Defined But Not Called
+- zlibsrc/__init__.py:2 Bunny
+- zlibsrc/__init__.py:3 Bunny.__init__
+- zlibsrc/__init__.py:8 init

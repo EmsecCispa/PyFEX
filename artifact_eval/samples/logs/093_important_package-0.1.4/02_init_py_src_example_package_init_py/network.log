@@ -1,0 +1,1 @@
+{"action": "socket.create_connection", "detail": {"address": ["pypi.org", 443], "source_address": null, "timeout": "<object object at 0x7e90d8298470>"}, "event": "network_blocked", "pid": 12, "time": 1779117785.2046132}

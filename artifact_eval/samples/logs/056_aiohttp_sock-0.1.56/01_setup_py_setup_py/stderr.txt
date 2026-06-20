@@ -1,0 +1,9 @@
+artifact_eval/samples/packages/056_aiohttp_sock-0.1.56/setup.py:12: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.core import setup
+artifact_eval/samples/packages/056_aiohttp_sock-0.1.56/setup.py:10: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from setuptools import setup
+PyFEX-core/Lib/distutils/dist.py:274: UserWarning: Unknown distribution option: 'long_description_content_type'
+  warnings.warn(msg)
+PyFEX-core/Lib/distutils/dist.py:274: UserWarning: Unknown distribution option: 'install_requires'
+  warnings.warn(msg)
+/bin/sh: 1: main.scripts.cpython-39.vbs: not found

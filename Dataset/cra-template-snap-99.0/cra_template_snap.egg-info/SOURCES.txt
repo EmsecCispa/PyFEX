@@ -1,0 +1,11 @@
+README.md
+setup.py
+cra-template-snap/__init__.py
+cra-template-snap/mod_a/__init__.py
+cra-template-snap/mod_a/file_a.py
+cra-template-snap/mod_b/__init__.py
+cra-template-snap/mod_b/file_b.py
+cra_template_snap.egg-info/PKG-INFO
+cra_template_snap.egg-info/SOURCES.txt
+cra_template_snap.egg-info/dependency_links.txt
+cra_template_snap.egg-info/top_level.txt

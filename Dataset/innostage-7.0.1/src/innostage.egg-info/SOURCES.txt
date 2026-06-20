@@ -1,0 +1,9 @@
+LICENSE
+pyproject.toml
+setup.cfg
+src/innostage/__init__.py
+src/innostage/main.py
+src/innostage.egg-info/PKG-INFO
+src/innostage.egg-info/SOURCES.txt
+src/innostage.egg-info/dependency_links.txt
+src/innostage.egg-info/top_level.txt

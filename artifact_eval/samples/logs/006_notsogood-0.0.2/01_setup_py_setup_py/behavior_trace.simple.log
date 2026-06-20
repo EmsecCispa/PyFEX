@@ -1,0 +1,4 @@
+[artifact_eval/samples/packages/006_notsogood-0.0.2/setup.py:17] [__build_class__](<function RunEggInfoCommand at 0x73df24e5eb00>, 'RunEggInfoCommand', <DummyObject No module named 'setuptools'@setup.py:7>)
+[artifact_eval/samples/packages/006_notsogood-0.0.2/setup.py:23] [__build_class__](<function RunInstallCommand at 0x73df24e5eb00>, 'RunInstallCommand', <DummyObject No module named 'setuptools'@setup.py:7>)
+[artifact_eval/samples/packages/006_notsogood-0.0.2/setup.py:32] [DummyObject]()
+[artifact_eval/samples/packages/006_notsogood-0.0.2/setup.py:28] [DummyObject](cmdclass={'install': <DummyObject No module named 'setuptools'@setup.py:7>, 'egg_info': <DummyObject No module named 'setuptools'@setup.py:7>}, license='MIT', name='notsogood', packages=<DummyObject No module named 'setuptools'@setup.py:3>, version='0.0.2')

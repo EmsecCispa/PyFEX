@@ -1,0 +1,13 @@
+include setup.py
+include colordot/__init__.py
+include colordot/back.py
+include colordot/colordot.py
+include colordot/colors.py
+include colordot/fore.py
+include colordot/hex.py
+include colordot/style.py
+include CHANGES.md
+include LICENSE.txt
+include README.rst
+recursive-include tests *.py
+recursive-include docs *.txt

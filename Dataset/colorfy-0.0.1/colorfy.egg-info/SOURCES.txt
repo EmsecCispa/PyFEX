@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+colorfy/__init__.py
+colorfy/color.py
+colorfy.egg-info/PKG-INFO
+colorfy.egg-info/SOURCES.txt
+colorfy.egg-info/dependency_links.txt
+colorfy.egg-info/top_level.txt

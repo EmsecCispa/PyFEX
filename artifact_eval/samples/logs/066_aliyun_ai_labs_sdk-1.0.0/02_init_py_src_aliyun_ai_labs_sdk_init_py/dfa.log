@@ -1,0 +1,6 @@
+CALLED import_module import_module artifact_eval/samples/packages/066_aliyun_ai_labs_sdk-1.0.0/_pyfex_import_aliyun_ai_labs_sdk.py:4
+DEFINED AIClient AIClient artifact_eval/samples/packages/066_aliyun_ai_labs_sdk-1.0.0/src/aliyun_ai_labs_sdk/core.py:1
+DEFINED AIClient.__init__ __init__ artifact_eval/samples/packages/066_aliyun_ai_labs_sdk-1.0.0/src/aliyun_ai_labs_sdk/core.py:4
+DEFINED AIClient._initialize_session _initialize_session artifact_eval/samples/packages/066_aliyun_ai_labs_sdk-1.0.0/src/aliyun_ai_labs_sdk/core.py:16
+DEFINED AIClient.get_config get_config artifact_eval/samples/packages/066_aliyun_ai_labs_sdk-1.0.0/src/aliyun_ai_labs_sdk/core.py:24
+CALLED filterwarnings filterwarnings artifact_eval/samples/packages/066_aliyun_ai_labs_sdk-1.0.0/src/aliyun_ai_labs_sdk/__init__.py:4

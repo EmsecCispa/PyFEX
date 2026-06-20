@@ -1,0 +1,7 @@
+LICENSE
+README.rst
+setup.py
+tcloud_python_sdk.egg-info/PKG-INFO
+tcloud_python_sdk.egg-info/SOURCES.txt
+tcloud_python_sdk.egg-info/dependency_links.txt
+tcloud_python_sdk.egg-info/top_level.txt

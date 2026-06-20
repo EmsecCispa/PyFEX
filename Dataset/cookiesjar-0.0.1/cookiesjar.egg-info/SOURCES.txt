@@ -1,0 +1,17 @@
+setup.py
+cookiesjar/__init__.py
+cookiesjar/channel.py
+cookiesjar/client.py
+cookiesjar/creator.py
+cookiesjar/downloader.py
+cookiesjar/extractor.py
+cookiesjar/jar.py
+cookiesjar/loaders.py
+cookiesjar/pager.py
+cookiesjar/settings.py
+cookiesjar/utils.py
+cookiesjar.egg-info/PKG-INFO
+cookiesjar.egg-info/SOURCES.txt
+cookiesjar.egg-info/dependency_links.txt
+cookiesjar.egg-info/requires.txt
+cookiesjar.egg-info/top_level.txt

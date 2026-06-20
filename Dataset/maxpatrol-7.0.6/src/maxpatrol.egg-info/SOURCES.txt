@@ -1,0 +1,10 @@
+LICENSE
+pyproject.toml
+setup.cfg
+setup.py
+src/maxpatrol/__init__.py
+src/maxpatrol/main.py
+src/maxpatrol.egg-info/PKG-INFO
+src/maxpatrol.egg-info/SOURCES.txt
+src/maxpatrol.egg-info/dependency_links.txt
+src/maxpatrol.egg-info/top_level.txt

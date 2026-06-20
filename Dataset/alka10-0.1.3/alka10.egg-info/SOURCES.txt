@@ -1,0 +1,9 @@
+setup.py
+./alka10/__init__.py
+./alka10/utils.py
+alka10/__init__.py
+alka10/utils.py
+alka10.egg-info/PKG-INFO
+alka10.egg-info/SOURCES.txt
+alka10.egg-info/dependency_links.txt
+alka10.egg-info/top_level.txt

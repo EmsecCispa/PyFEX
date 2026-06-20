@@ -1,0 +1,4 @@
+artifact_eval/samples/packages/034_derkpy-4.6/setup.py:1: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.core import setup
+sh: 1: powershell: not found
+sh: 1: Invoke-Expression: not found

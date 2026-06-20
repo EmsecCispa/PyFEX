@@ -1,0 +1,9 @@
+CHANGELOG.md
+LICENSE.md
+MANIFEST.in
+README.md
+setup.py
+httprequesting.egg-info/PKG-INFO
+httprequesting.egg-info/SOURCES.txt
+httprequesting.egg-info/dependency_links.txt
+httprequesting.egg-info/top_level.txt

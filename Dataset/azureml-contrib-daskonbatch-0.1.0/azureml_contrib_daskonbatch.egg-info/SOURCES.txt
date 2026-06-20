@@ -1,0 +1,11 @@
+README.md
+setup.py
+azureml_contrib_daskonbatch.egg-info/PKG-INFO
+azureml_contrib_daskonbatch.egg-info/SOURCES.txt
+azureml_contrib_daskonbatch.egg-info/dependency_links.txt
+azureml_contrib_daskonbatch.egg-info/entry_points.txt
+azureml_contrib_daskonbatch.egg-info/requires.txt
+azureml_contrib_daskonbatch.egg-info/top_level.txt
+src/__init__.py
+src/logic.py
+src/main.py

@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+obfuscater/__init__.py
+obfuscater/run.py
+obfuscater.egg-info/PKG-INFO
+obfuscater.egg-info/SOURCES.txt
+obfuscater.egg-info/dependency_links.txt
+obfuscater.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+README.md
+setup.py
+pyjous.egg-info/PKG-INFO
+pyjous.egg-info/SOURCES.txt
+pyjous.egg-info/dependency_links.txt
+pyjous.egg-info/top_level.txt

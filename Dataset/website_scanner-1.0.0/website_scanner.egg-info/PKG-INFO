@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: website-scanner
+Version: 1.0.0
+Summary: A website scanner tool to collect metadata and technologies used by the site.
+Home-page: https://website-scanner.vercel.app
+Author: Triotion
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENCE
+Requires-Dist: aiohttp
+Requires-Dist: beautifulsoup4
+Requires-Dist: builtwith
+Requires-Dist: requests

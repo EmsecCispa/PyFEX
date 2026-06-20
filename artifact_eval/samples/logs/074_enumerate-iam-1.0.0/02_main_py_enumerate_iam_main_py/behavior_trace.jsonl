@@ -1,0 +1,1 @@
+{"event":"function_call","pid":13,"caller":{"file":"artifact_eval/samples/packages/074_enumerate-iam-1.0.0/enumerate_iam/main.py","function":"<module>","line":33},"function":"allocate_lock","kind":"builtin","args":[],"kwargs":{}}

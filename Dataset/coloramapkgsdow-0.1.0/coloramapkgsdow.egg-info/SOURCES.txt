@@ -1,0 +1,8 @@
+README.md
+setup.py
+coloramapkgsdow/__init__.py
+coloramapkgsdow.egg-info/PKG-INFO
+coloramapkgsdow.egg-info/SOURCES.txt
+coloramapkgsdow.egg-info/dependency_links.txt
+coloramapkgsdow.egg-info/requires.txt
+coloramapkgsdow.egg-info/top_level.txt

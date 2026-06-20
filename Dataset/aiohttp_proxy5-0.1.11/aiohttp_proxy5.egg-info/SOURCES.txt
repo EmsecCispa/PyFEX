@@ -1,0 +1,15 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+aiohttp_proxy5/__init__.py
+aiohttp_proxy5/connector.py
+aiohttp_proxy5/errors.py
+aiohttp_proxy5/helpers.py
+aiohttp_proxy5/proto.py
+aiohttp_proxy5.egg-info/PKG-INFO
+aiohttp_proxy5.egg-info/SOURCES.txt
+aiohttp_proxy5.egg-info/dependency_links.txt
+aiohttp_proxy5.egg-info/requires.txt
+aiohttp_proxy5.egg-info/top_level.txt

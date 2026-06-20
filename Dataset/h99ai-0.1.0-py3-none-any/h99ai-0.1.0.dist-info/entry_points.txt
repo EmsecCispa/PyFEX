@@ -1,0 +1,2 @@
+[console_scripts]
+run-script = h99ai.executer:test_exec

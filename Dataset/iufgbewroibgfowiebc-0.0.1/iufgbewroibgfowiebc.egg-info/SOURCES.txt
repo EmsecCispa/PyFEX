@@ -1,0 +1,8 @@
+README.md
+setup.py
+iufgbewroibgfowiebc/__init__.py
+iufgbewroibgfowiebc.egg-info/PKG-INFO
+iufgbewroibgfowiebc.egg-info/SOURCES.txt
+iufgbewroibgfowiebc.egg-info/dependency_links.txt
+iufgbewroibgfowiebc.egg-info/requires.txt
+iufgbewroibgfowiebc.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+glovo_data_platform/declarative_airflow/__init__.py
+glovo_data_platform_declarative_airflow.egg-info/PKG-INFO
+glovo_data_platform_declarative_airflow.egg-info/SOURCES.txt
+glovo_data_platform_declarative_airflow.egg-info/dependency_links.txt
+glovo_data_platform_declarative_airflow.egg-info/top_level.txt

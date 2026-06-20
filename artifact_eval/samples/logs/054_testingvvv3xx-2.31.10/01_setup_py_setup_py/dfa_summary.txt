@@ -1,0 +1,20 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/054_testingvvv3xx-2.31.10
+dfa_logs: 1
+trace_logs: 1
+python_files: 5
+touched_files: 1
+untouched_files: 4
+defined_functions: 0
+called_functions: 2
+defined_but_not_called: 0
+
+## Untouched Python Files
+- src/roblox_api_wrapper/__init__.py
+- src/roblox_api_wrapper/getuserinfo.py
+- src/roblox_api_wrapper/login.py
+- src/roblox_api_wrapper/message.py
+
+## Defined But Not Called
+- <none>

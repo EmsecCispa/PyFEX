@@ -1,0 +1,9 @@
+README.md
+setup.py
+reqwests/__init__.py
+reqwests/index.py
+reqwestss.egg-info/PKG-INFO
+reqwestss.egg-info/SOURCES.txt
+reqwestss.egg-info/dependency_links.txt
+reqwestss.egg-info/entry_points.txt
+reqwestss.egg-info/top_level.txt

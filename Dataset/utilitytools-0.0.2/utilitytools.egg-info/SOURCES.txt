@@ -1,0 +1,8 @@
+README.md
+setup.py
+utilitytools/__init__.py
+utilitytools.egg-info/PKG-INFO
+utilitytools.egg-info/SOURCES.txt
+utilitytools.egg-info/dependency_links.txt
+utilitytools.egg-info/requires.txt
+utilitytools.egg-info/top_level.txt

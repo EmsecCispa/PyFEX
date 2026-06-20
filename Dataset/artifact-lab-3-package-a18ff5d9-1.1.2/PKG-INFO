@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: artifact-lab-3-package-a18ff5d9
+Version: 1.1.2
+Summary: UNKNOWN
+Home-page: UNKNOWN
+License: UNKNOWN
+Description: long description
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

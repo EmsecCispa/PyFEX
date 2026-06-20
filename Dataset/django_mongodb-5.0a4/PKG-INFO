@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: django-mongodb
+Version: 5.0a4
+Summary: MongoDB support for Django
+Author: AnupamAs0x1
+Author-email: your.email@example.com
+Keywords: django mongodb
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
+
+ anupam-test

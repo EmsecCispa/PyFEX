@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: httptes232
+Version: 4.4.6
+Summary: Python Package
+Author: httptes232
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Dist: requests
+

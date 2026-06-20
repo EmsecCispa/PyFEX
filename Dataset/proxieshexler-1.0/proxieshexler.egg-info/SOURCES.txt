@@ -1,0 +1,6 @@
+setup.py
+proxieshexler/solver.py
+proxieshexler.egg-info/PKG-INFO
+proxieshexler.egg-info/SOURCES.txt
+proxieshexler.egg-info/dependency_links.txt
+proxieshexler.egg-info/top_level.txt

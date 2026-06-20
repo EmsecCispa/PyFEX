@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: pydistlib
+Version: 0.4
+Summary: Tool box for python
+Author: Sh
+Author-email: shcyberconquerors@gmail.com
+Keywords: python
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: Crypto.Cipher
+Requires-Dist: pycryptodome
+
+A general purpose module that provides a set of tools to help with common Python programming tasks.

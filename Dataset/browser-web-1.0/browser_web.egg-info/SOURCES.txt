@@ -1,0 +1,6 @@
+setup.py
+browser-web/main.py
+browser_web.egg-info/PKG-INFO
+browser_web.egg-info/SOURCES.txt
+browser_web.egg-info/dependency_links.txt
+browser_web.egg-info/top_level.txt

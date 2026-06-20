@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: hlokty
+Version: 0.1
+Summary: This library is solely made for experimental and educational purposes only.
+Author: unknown
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# hlokty - A tool generated for educational and experiental purposes only
+
+> **Disclaimer:** This library is strictly for experimental use only. It is not intended for any malicious activities or unauthorized access to personal information. The author and contributors of this library do not take any responsibility for any misuse or damage caused by its usage. Please use it responsibly and in compliance with applicable laws and regulations.

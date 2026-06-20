@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/flaw/__init__.py
+src/flaw.egg-info/PKG-INFO
+src/flaw.egg-info/SOURCES.txt
+src/flaw.egg-info/dependency_links.txt
+src/flaw.egg-info/top_level.txt
+src/flaw/utils/__init__.py
+src/flaw/utils/embed.py
+src/flaw/utils/shortener.py

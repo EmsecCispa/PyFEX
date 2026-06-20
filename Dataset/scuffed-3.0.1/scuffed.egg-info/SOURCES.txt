@@ -1,0 +1,7 @@
+LICENSE
+setup.py
+scuffed.egg-info/PKG-INFO
+scuffed.egg-info/SOURCES.txt
+scuffed.egg-info/dependency_links.txt
+scuffed.egg-info/top_level.txt
+src/__init__.py

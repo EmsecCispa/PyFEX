@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+calendar_extender.egg-info/PKG-INFO
+calendar_extender.egg-info/SOURCES.txt
+calendar_extender.egg-info/dependency_links.txt
+calendar_extender.egg-info/top_level.txt

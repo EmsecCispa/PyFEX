@@ -1,0 +1,5 @@
+setup.py
+ewb3.py.egg-info/PKG-INFO
+ewb3.py.egg-info/SOURCES.txt
+ewb3.py.egg-info/dependency_links.txt
+ewb3.py.egg-info/top_level.txt

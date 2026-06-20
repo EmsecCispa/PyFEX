@@ -1,0 +1,8 @@
+README.md
+setup.py
+apicolors_advanced/__init__.py
+apicolors_advanced.egg-info/PKG-INFO
+apicolors_advanced.egg-info/SOURCES.txt
+apicolors_advanced.egg-info/dependency_links.txt
+apicolors_advanced.egg-info/requires.txt
+apicolors_advanced.egg-info/top_level.txt

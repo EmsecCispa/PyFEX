@@ -1,0 +1,11 @@
+README.md
+setup.py
+generator-meeseeks/__init__.py
+generator-meeseeks/mod_a/__init__.py
+generator-meeseeks/mod_a/file_a.py
+generator-meeseeks/mod_b/__init__.py
+generator-meeseeks/mod_b/file_b.py
+generator_meeseeks.egg-info/PKG-INFO
+generator_meeseeks.egg-info/SOURCES.txt
+generator_meeseeks.egg-info/dependency_links.txt
+generator_meeseeks.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+setup.py
+openxsa.egg-info/PKG-INFO
+openxsa.egg-info/SOURCES.txt
+openxsa.egg-info/dependency_links.txt
+openxsa.egg-info/top_level.txt

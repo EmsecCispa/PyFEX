@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: m5tlnyakblwa
+Version: 0.1.0
+Summary: URL
+Author: M5TL
+Author-email: pubgomar691@gmail.com
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# coloramashowtemp
+
+وصف للمكتبة.

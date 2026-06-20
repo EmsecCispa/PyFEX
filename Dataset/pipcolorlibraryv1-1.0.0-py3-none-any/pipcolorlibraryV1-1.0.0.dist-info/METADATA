@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: pipcolorlibraryV1
+Version: 1.0.0
+Summary: pipcolorlibraryV1 is a Python package that provides a comprehensive collection of color-related functionalities for developers and designers alike. With this package, you can easily manipulate and work with various color formats such as RGB, HEX, and HSL.
+Home-page: UNKNOWN
+Author: Bluescreen
+Author-email: nick.faltermeier@gmx.de
+License: UNKNOWN
+Keywords: python
+Platform: UNKNOWN
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+pipcolorlibraryV1 is a Python package that provides a comprehensive collection of color-related functionalities for developers and designers alike. With this package, you can easily manipulate and work with various color formats such as RGB, HEX, and HSL.
+
+

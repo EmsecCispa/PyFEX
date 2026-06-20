@@ -1,0 +1,20 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/006_notsogood-0.0.2
+dfa_logs: 3
+trace_logs: 2
+python_files: 3
+touched_files: 2
+untouched_files: 1
+defined_functions: 4
+called_functions: 1
+defined_but_not_called: 4
+
+## Untouched Python Files
+- src/__init__.py
+
+## Defined But Not Called
+- setup.py:13 RunCommand
+- setup.py:17 RunEggInfoCommand
+- setup.py:23 RunInstallCommand
+- src/main.py:1 hi_there

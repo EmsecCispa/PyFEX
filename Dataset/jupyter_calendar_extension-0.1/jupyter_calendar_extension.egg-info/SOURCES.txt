@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+jupyter_calendar_extension.egg-info/PKG-INFO
+jupyter_calendar_extension.egg-info/SOURCES.txt
+jupyter_calendar_extension.egg-info/dependency_links.txt
+jupyter_calendar_extension.egg-info/top_level.txt

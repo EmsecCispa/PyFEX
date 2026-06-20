@@ -1,0 +1,2 @@
+[console_scripts]
+jupiterhelper = jupiterhelper.helper:init_helper

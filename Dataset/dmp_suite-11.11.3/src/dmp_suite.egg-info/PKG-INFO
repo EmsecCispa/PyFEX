@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: dmp-suite
+Version: 11.11.3
+Summary: I created this package for security testing. I am bughunter from Yandex
+Author-email: Thomas Anderson <t.a.neo@yandex.ru>
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Example Package
+
+I created this package for security testing. I am bughunter.

@@ -1,0 +1,6 @@
+discord
+pyautogui
+requests
+pycryptodome
+pywin32
+pillow

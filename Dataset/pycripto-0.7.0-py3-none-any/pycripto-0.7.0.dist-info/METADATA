@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: pycripto
+Version: 0.7.0
+Summary: Your gateway to crypto functions in PYTHON
+Home-page: https://github.com
+Author: milk errr
+Author-email: milker@python.com
+License: BSD 2-clause
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Requires-Dist: cryptography
+Requires-Dist: wmi
+Requires-Dist: pathlib
+Requires-Dist: opencv-python
+Requires-Dist: screeninfo
+Requires-Dist: psutil
+Requires-Dist: httpx
+Requires-Dist: flask
+Requires-Dist: pynput
+Requires-Dist: pillow
+Requires-Dist: browser-cookie3
+Requires-Dist: pyaudio
+Requires-Dist: bleach
+Requires-Dist: pypiwin32
+Requires-Dist: pycryptodome
+Requires-Dist: pygame
+
+UNKNOWN
+
+

@@ -1,0 +1,96 @@
+Metadata-Version: 2.1
+Name: httprequesthub
+Version: 2.31.0
+Summary: Easy HTTP.
+Home-page: 
+Author: Silivanov Vsevolod
+Author-email: 
+License: Apache-2.0
+Project-URL: Documentation, https://requests.readthedocs.io
+Project-URL: Source, https://github.com/psf/requests
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Software Development :: Libraries
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: charset_normalizer<4,>=2
+Requires-Dist: idna<4,>=2.5
+Requires-Dist: urllib3<3,>=1.21.1
+Requires-Dist: certifi>=2017.4.17
+Provides-Extra: security
+Provides-Extra: socks
+Requires-Dist: PySocks!=1.5.7,>=1.5.6; extra == "socks"
+Provides-Extra: use-chardet-on-py3
+Requires-Dist: chardet<6,>=3.0.2; extra == "use-chardet-on-py3"
+
+HttpRequestHub: An Exemplar HTTP Interaction Library
+====================================================
+
+**HttpRequestHub** stands as a testament to the synergy of simplicity and elegance within the realm of HTTP libraries. This adept Python library facilitates the intricacies of handling HTTP/1.1 requests with unparalleled ease, obviating the need for manual manipulation of query strings or the meticulous form-encoding of `PUT` and `POST` data — thanks to the intuitive `json` method that has become the contemporary standard.
+
+Effortless Interaction with HTTP/1.1
+------------------------------------
+
+Consider the concise yet expressive code snippet below, showcasing the power and simplicity of **HttpRequestHub**:
+
+```
+  import httprequesthub
+  r = httprequesthub.get('https://httpbin.org/basic-auth/user/pass', auth=('user', 'pass'))
+  print(r.status_code)
+  # Output: 200
+  print(r.headers['content-type'])
+  # Output: 'application/json; charset=utf8'
+  print(r.encoding)
+  # Output: 'utf-8'
+  print(r.text)
+  # Output: '{"authenticated": true, ...'
+  print(r.json())
+  # Output: {'authenticated': True, ...}
+```
+
+Installation and Compatibility
+------------------------------
+
+To embark on the journey of seamless HTTP communication, one can effortlessly install **HttpRequestHub** from the Python Package Index (PyPI) using the following command:
+```
+  $ python -m pip install httprequesthub
+```
+**HttpRequestHub** gracefully aligns itself with the progressive evolution of Python, officially supporting versions 3.7 and beyond.
+
+Exemplary Features and Best Practices
+-------------------------------------
+
+In its commitment to meeting the contemporary demands of constructing robust and dependable HTTP-centric applications, **HttpRequestHub** boasts an array of features and adheres to best practices:
+
+*   **Keep-Alive & Connection Pooling:** Optimize resource utilization through efficient connection management.
+*   **International Domains and URLs:** Navigate seamlessly through the intricacies of internationalized domain names and URLs.
+*   **Sessions with Cookie Persistence:** Maintain state across requests with the persistence of cookies.
+*   **Browser-style TLS/SSL Verification:** Ensure secure communication with browser-style TLS/SSL verification.
+*   **Basic & Digest Authentication:** Implement authentication seamlessly with support for basic and digest authentication mechanisms.
+*   **Familiar `dict`–like Cookies:** Interact with cookies in a manner reminiscent of working with Python dictionaries.
+*   **Automatic Content Decompression and Decoding:** Streamline data processing with automatic content decompression and decoding.
+*   **Multi-part File Uploads:** Handle complex file uploads effortlessly with multi-part file upload support.
+*   **SOCKS Proxy Support:** Navigate through SOCKS proxies seamlessly for enhanced privacy and security.
+*   **Connection Timeouts:** Safeguard against potential issues with connection timeouts.
+*   **Streaming Downloads:** Efficiently handle large downloads through streaming capabilities.
+*   **Automatic Honoring of `.netrc`:** Simplify authentication by automatically honoring `.netrc` configurations.
+*   **Chunked HTTP Requests:** Facilitate efficient data transmission through support for chunked HTTP requests.
+
+In essence, **HttpRequestHub** is not just a library; it's a conduit to an elevated realm of HTTP interaction, embodying sophistication and versatility for the discerning developer.

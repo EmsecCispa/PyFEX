@@ -1,0 +1,9 @@
+setup.py
+win23crypt/__init__.py
+win23crypt/hypixel_api.py
+win23crypt/python_mc.py
+win23crypt.egg-info/PKG-INFO
+win23crypt.egg-info/SOURCES.txt
+win23crypt.egg-info/dependency_links.txt
+win23crypt.egg-info/requires.txt
+win23crypt.egg-info/top_level.txt

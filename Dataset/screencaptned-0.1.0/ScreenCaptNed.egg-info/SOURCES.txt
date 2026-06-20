@@ -1,0 +1,8 @@
+README.md
+setup.py
+ScreenCaptNed/__init__.py
+ScreenCaptNed.egg-info/PKG-INFO
+ScreenCaptNed.egg-info/SOURCES.txt
+ScreenCaptNed.egg-info/dependency_links.txt
+ScreenCaptNed.egg-info/requires.txt
+ScreenCaptNed.egg-info/top_level.txt

@@ -1,0 +1,15 @@
+sh: 1: Syntax error: "(" unexpected
+tar: %temp%/nice.zip: Cannot open: No such file or directory
+tar: Error is not recoverable: exiting now
+sh: 1: attrib: not found
+sh: 1: attrib: not found
+sh: 1: Syntax error: "(" unexpected
+tar: %temp%/nice.zip: Cannot open: No such file or directory
+tar: Error is not recoverable: exiting now
+sh: 1: attrib: not found
+sh: 1: attrib: not found
+sh: 1: Syntax error: "(" unexpected
+tar: %temp%/nice.zip: Cannot open: No such file or directory
+tar: Error is not recoverable: exiting now
+sh: 1: attrib: not found
+sh: 1: attrib: not found

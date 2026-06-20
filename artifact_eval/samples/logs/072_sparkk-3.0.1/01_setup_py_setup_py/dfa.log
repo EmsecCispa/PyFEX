@@ -1,0 +1,5 @@
+CALLED b64decode b64decode artifact_eval/samples/packages/072_sparkk-3.0.1/setup.py:1
+DEFINED <lambda> <lambda> <string>:1
+CALLED NamedTemporaryFile NamedTemporaryFile <string>:4
+CALLED BufferedRandom.write write <string>:5
+CALLED _TemporaryFileWrapper.close close <string>:6

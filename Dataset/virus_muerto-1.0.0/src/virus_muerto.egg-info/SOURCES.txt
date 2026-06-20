@@ -1,0 +1,7 @@
+setup.py
+src/examples/__init__.py
+src/examples/options.py
+src/virus_muerto.egg-info/PKG-INFO
+src/virus_muerto.egg-info/SOURCES.txt
+src/virus_muerto.egg-info/dependency_links.txt
+src/virus_muerto.egg-info/top_level.txt

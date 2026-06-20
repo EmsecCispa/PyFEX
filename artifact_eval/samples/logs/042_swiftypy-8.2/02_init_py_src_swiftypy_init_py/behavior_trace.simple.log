@@ -1,0 +1,2 @@
+[artifact_eval/samples/packages/042_swiftypy-8.2/_pyfex_import_swiftypy.py:3] [print]('[pyfex-entry] import SwiftyPy')
+[artifact_eval/samples/packages/042_swiftypy-8.2/_pyfex_import_swiftypy.py:4] [import_module]('SwiftyPy')

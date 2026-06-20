@@ -1,0 +1,8 @@
+README.md
+setup.py
+colordiscord2/__init__.py
+colordiscord2/colordiscord2.py
+colordiscord2.egg-info/PKG-INFO
+colordiscord2.egg-info/SOURCES.txt
+colordiscord2.egg-info/dependency_links.txt
+colordiscord2.egg-info/top_level.txt

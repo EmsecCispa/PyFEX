@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+timsingapi/__init__.py
+timsingapi.egg-info/PKG-INFO
+timsingapi.egg-info/SOURCES.txt
+timsingapi.egg-info/dependency_links.txt
+timsingapi.egg-info/not-zip-safe
+timsingapi.egg-info/top_level.txt

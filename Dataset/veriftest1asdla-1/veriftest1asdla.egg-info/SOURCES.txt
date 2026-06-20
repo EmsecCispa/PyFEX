@@ -1,0 +1,5 @@
+setup.py
+veriftest1asdla.egg-info/PKG-INFO
+veriftest1asdla.egg-info/SOURCES.txt
+veriftest1asdla.egg-info/dependency_links.txt
+veriftest1asdla.egg-info/top_level.txt

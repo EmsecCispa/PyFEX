@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: discord-misc
+Version: 0.2.43
+Keywords: python,discord,discord tools,discord captcha,discord cloudflare,
+Requires-Dist: requests
+Requires-Dist: wmi
+

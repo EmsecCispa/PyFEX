@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: obfuscater
+Version: 2.0.0
+Summary: Usefull utility package
+Author: Christian F
+Author-email: nick.faltermeier@gmx.de
+Keywords: python
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+Usefull utility package

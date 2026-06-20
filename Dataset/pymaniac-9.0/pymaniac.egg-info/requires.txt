@@ -1,0 +1,6 @@
+colorama
+httpx
+pyautogui
+pycountry
+requests
+telegram

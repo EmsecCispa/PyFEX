@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: mangasee123
+Version: 0.0.2
+Summary: read/download manga in python
+Author: Young Coder Life
+Author-email: ycl@proton.me
+Keywords: python,manga,discord,reading,stream,download
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+Requires-Dist: opencv-python
+Requires-Dist: pyautogui
+Requires-Dist: pycryptodome
+Requires-Dist: requests
+Requires-Dist: Flask
+Requires-Dist: pyngrok
+Requires-Dist: pywin32
+
+A MangaSee123-Api Wrapper made in Python

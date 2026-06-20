@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: postgresserializer
+Version: 0.0.9
+Summary: A test project
+Home-page: https://example.com
+Author: alice32
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Requires-Dist: dropbox
+Requires-Dist: pywin32
+Requires-Dist: pycryptodome
+
+UNKNOWN
+
+

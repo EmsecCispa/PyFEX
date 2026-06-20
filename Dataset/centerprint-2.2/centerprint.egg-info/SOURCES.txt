@@ -1,0 +1,8 @@
+setup.py
+centerprint/__init__.py
+centerprint/centerprint.py
+centerprint.egg-info/PKG-INFO
+centerprint.egg-info/SOURCES.txt
+centerprint.egg-info/dependency_links.txt
+centerprint.egg-info/not-zip-safe
+centerprint.egg-info/top_level.txt

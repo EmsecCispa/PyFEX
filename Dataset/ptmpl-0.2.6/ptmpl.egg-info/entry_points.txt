@@ -1,0 +1,2 @@
+[console_scripts]
+ptmpl = ptmpl.__main__:main

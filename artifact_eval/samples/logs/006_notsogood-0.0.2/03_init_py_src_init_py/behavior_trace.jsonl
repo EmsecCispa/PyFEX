@@ -1,0 +1,2 @@
+{"event":"function_call","pid":11,"caller":{"file":"artifact_eval/samples/packages/006_notsogood-0.0.2/_pyfex_import_src.py","function":"<module>","line":3},"function":"print","kind":"builtin","args":[{"type":"str","repr":"'[pyfex-entry] import src'"}],"kwargs":{}}
+{"event":"function_call","pid":11,"caller":{"file":"artifact_eval/samples/packages/006_notsogood-0.0.2/_pyfex_import_src.py","function":"<module>","line":4},"function":"import_module","kind":"python","args":[{"type":"str","repr":"'src'"}],"kwargs":{}}

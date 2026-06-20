@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+nitro-checker/__main__.py
+nitro_checker.egg-info/PKG-INFO
+nitro_checker.egg-info/SOURCES.txt
+nitro_checker.egg-info/dependency_links.txt
+nitro_checker.egg-info/top_level.txt

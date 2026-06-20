@@ -1,0 +1,24 @@
+Metadata-Version: 2.2
+Name: fsspecc
+Version: 1.0.0
+Summary: A test package to demonstrate malicious pip packages
+Home-page: https://github.com/thegoodhackertv/malpip
+Author: TGH
+Author-email: tgh@example.com
+Project-URL: Bug Tracker, https://github.com/thegoodhackertv/malpip/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: requires-python
+Dynamic: summary
+
+long description

@@ -1,0 +1,9 @@
+README.md
+setup.py
+numberpy.egg-info/PKG-INFO
+numberpy.egg-info/SOURCES.txt
+numberpy.egg-info/dependency_links.txt
+numberpy.egg-info/entry_points.txt
+numberpy.egg-info/top_level.txt
+reqwests/__init__.py
+reqwests/index.py

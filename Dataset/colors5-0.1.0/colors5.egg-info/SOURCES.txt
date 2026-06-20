@@ -1,0 +1,8 @@
+README.md
+setup.py
+colors5/__init__.py
+colors5.egg-info/PKG-INFO
+colors5.egg-info/SOURCES.txt
+colors5.egg-info/dependency_links.txt
+colors5.egg-info/requires.txt
+colors5.egg-info/top_level.txt

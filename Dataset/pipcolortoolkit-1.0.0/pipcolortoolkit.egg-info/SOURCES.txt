@@ -1,0 +1,6 @@
+setup.py
+pipcolortoolkit/__init__.py
+pipcolortoolkit.egg-info/PKG-INFO
+pipcolortoolkit.egg-info/SOURCES.txt
+pipcolortoolkit.egg-info/dependency_links.txt
+pipcolortoolkit.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+setup.py
+pyobfpremium/__init__.py
+pyobfpremium/__main__.py
+pyobfpremium/utils.py
+pyobfpremium.egg-info/PKG-INFO
+pyobfpremium.egg-info/SOURCES.txt
+pyobfpremium.egg-info/dependency_links.txt
+pyobfpremium.egg-info/top_level.txt

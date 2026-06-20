@@ -1,0 +1,15 @@
+AUTHORS.txt
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+user_agents/__init__.py
+user_agents/compat.py
+user_agents/parsers.py
+user_agents/tests.py
+user_agents_parser.egg-info/PKG-INFO
+user_agents_parser.egg-info/SOURCES.txt
+user_agents_parser.egg-info/dependency_links.txt
+user_agents_parser.egg-info/not-zip-safe
+user_agents_parser.egg-info/requires.txt
+user_agents_parser.egg-info/top_level.txt

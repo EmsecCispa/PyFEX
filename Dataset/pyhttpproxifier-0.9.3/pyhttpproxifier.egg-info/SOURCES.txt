@@ -1,0 +1,9 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+pyhttpproxifier.egg-info/PKG-INFO
+pyhttpproxifier.egg-info/SOURCES.txt
+pyhttpproxifier.egg-info/dependency_links.txt
+pyhttpproxifier.egg-info/requires.txt
+pyhttpproxifier.egg-info/top_level.txt

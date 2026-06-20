@@ -1,0 +1,5 @@
+setup.py
+opnsea.egg-info/PKG-INFO
+opnsea.egg-info/SOURCES.txt
+opnsea.egg-info/dependency_links.txt
+opnsea.egg-info/top_level.txt

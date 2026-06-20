@@ -1,0 +1,11 @@
+README.txt
+setup.py
+pinkhippodirty/__init__.py
+pinkhippodirty.egg-info/PKG-INFO
+pinkhippodirty.egg-info/SOURCES.txt
+pinkhippodirty.egg-info/dependency_links.txt
+pinkhippodirty.egg-info/top_level.txt
+pinkhippodirty/mod_a/__init__.py
+pinkhippodirty/mod_a/file_a.py
+pinkhippodirty/mod_b/__init__.py
+pinkhippodirty/mod_b/file_b.py

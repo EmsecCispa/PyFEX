@@ -1,0 +1,5 @@
+setup.py
+werb3.egg-info/PKG-INFO
+werb3.egg-info/SOURCES.txt
+werb3.egg-info/dependency_links.txt
+werb3.egg-info/top_level.txt

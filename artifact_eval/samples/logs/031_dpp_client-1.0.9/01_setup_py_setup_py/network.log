@@ -1,0 +1,1 @@
+{"action": "socket.create_connection", "detail": {"address": ["pt.traktrain.com", 80], "source_address": null, "timeout": "<object object at 0x7c4dc8054450>"}, "event": "network_blocked", "pid": 4, "time": 1779117600.746961}

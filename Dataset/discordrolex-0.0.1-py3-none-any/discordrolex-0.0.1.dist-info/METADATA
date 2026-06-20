@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: discordrolex
+Version: 0.0.1
+Summary: A small example package
+Author: hartha98
+Project-URL: Homepage, https://github.com/hartha98/project
+Project-URL: Issues, https://github.com/hartha98/project/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+

@@ -1,0 +1,4 @@
+[artifact_eval/samples/packages/066_aliyun_ai_labs_sdk-1.0.0/_pyfex_import_aliyun_ai_labs_sdk.py:3] [print]('[pyfex-entry] import aliyun_ai_labs_sdk')
+[artifact_eval/samples/packages/066_aliyun_ai_labs_sdk-1.0.0/_pyfex_import_aliyun_ai_labs_sdk.py:4] [import_module]('aliyun_ai_labs_sdk')
+[artifact_eval/samples/packages/066_aliyun_ai_labs_sdk-1.0.0/src/aliyun_ai_labs_sdk/core.py:1] [__build_class__](<function AIClient at 0x7a8c938f49d0>, 'AIClient')
+[artifact_eval/samples/packages/066_aliyun_ai_labs_sdk-1.0.0/src/aliyun_ai_labs_sdk/__init__.py:4] [filterwarnings]('ignore')

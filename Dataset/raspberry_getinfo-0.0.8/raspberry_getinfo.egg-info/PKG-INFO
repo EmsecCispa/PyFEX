@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: raspberry-getinfo
+Version: 0.0.8
+Summary: A short description of your project.
+Author: stupidfish
+Author-email: 2928109164@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.0
+Description-Content-Type: text/markdown
+
+A longer description of your project.

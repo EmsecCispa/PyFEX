@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/requestsdev/__init__.py
+src/requestsdev/__main__.py
+src/requestsdev.egg-info/PKG-INFO
+src/requestsdev.egg-info/SOURCES.txt
+src/requestsdev.egg-info/dependency_links.txt
+src/requestsdev.egg-info/top_level.txt

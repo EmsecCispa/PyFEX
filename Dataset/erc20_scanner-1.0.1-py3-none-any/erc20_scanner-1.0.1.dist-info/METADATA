@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: erc20_scanner
+Version: 1.0.1
+Summary: Scans ERC20 Addresses
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
+# ERC20 Scanner
+Reference implementation of ERC20 mnemonics: mnemonic code for generating deterministic keys.
+
+# Abstract
+This BIP describes the implementation of a mnemonic code or mnemonic sentence – a group of easy to remember words – for the generation of deterministic wallets.
+
+It consists of two parts: generating the mnenomic, and converting it into a binary seed. This seed can be later used to generate deterministic wallets using BIP-39 or similar methods.
+
+# Installation
+To install this library and its dependencies use:
+
+```
+pip install erc20_scanner
+```

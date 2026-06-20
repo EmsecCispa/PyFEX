@@ -1,0 +1,7 @@
+DEFINED <lambda> <lambda> <string>:1
+DEFINED <lambda> <lambda> <string>:1
+DEFINED <lambda> <lambda> <string>:1
+DEFINED <lambda> <lambda> <string>:1
+DEFINED <lambda> <lambda> <string>:1
+CALLED run run artifact_eval/samples/packages/091_colorslib-4.6.11/setup.py:11
+CALLED setup setup artifact_eval/samples/packages/091_colorslib-4.6.11/setup.py:14

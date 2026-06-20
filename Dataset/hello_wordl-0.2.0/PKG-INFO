@@ -1,0 +1,92 @@
+Metadata-Version: 2.4
+Name: hello-wordl
+Version: 0.2.0
+Summary: A simple hello wordl package
+Author-email: Your Name <your.email@example.com>
+License: MIT License
+        
+        Copyright (c) 2025
+        
+        Permission is hereby granted, free of charge, to any person obtaining a copy
+        of this software and associated documentation files (the "Software"), to deal
+        in the Software without restriction, including without limitation the rights
+        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+        copies of the Software, and to permit persons to whom the Software is
+        furnished to do so, subject to the following conditions:
+        
+        The above copyright notice and this permission notice shall be included in all
+        copies or substantial portions of the Software.
+        
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+        SOFTWARE.
+        
+Project-URL: Homepage, https://github.com/yourusername/hello-wordl
+Keywords: hello,wordl
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Provides-Extra: dev
+Requires-Dist: black; extra == "dev"
+Requires-Dist: bumpver; extra == "dev"
+Requires-Dist: isort; extra == "dev"
+Requires-Dist: pytest; extra == "dev"
+Dynamic: license-file
+Dynamic: requires-python
+
+# Hello World
+
+A simple Python package that says hello to the world!
+
+## Installation
+
+You can install the package from PyPI:
+
+```bash
+pip install hello-wordl
+```
+
+## Usage
+
+### As a library
+
+```python
+from hello_wordl.hello import hello
+
+# Say hello to the wordl
+print(hello())  # Outputs: Hello, wordl!
+
+# Say hello to someone
+print(hello("Alice"))  # Outputs: Hello, Alice! Welcome to the wordl!
+```
+
+### As a command-line application
+
+```bash
+# Say hello to the wordl
+hello-wordl
+
+# Say hello to someone
+hello-wordl --name Alice
+```
+
+## Development
+
+This package uses a src-layout as recommended by modern Python packaging guidelines.
+
+To set up for development:
+
+1. Clone the repository
+2. Create a virtual environment
+3. Install development dependencies: `pip install -e ".[dev]"`
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.

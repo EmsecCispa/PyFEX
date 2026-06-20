@@ -1,0 +1,10 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tjajsd/__init__.py
+tjajsd.egg-info/PKG-INFO
+tjajsd.egg-info/SOURCES.txt
+tjajsd.egg-info/dependency_links.txt
+tjajsd.egg-info/top_level.txt

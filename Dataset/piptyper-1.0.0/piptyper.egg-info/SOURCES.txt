@@ -1,0 +1,6 @@
+setup.py
+piptyper/__init__.py
+piptyper.egg-info/PKG-INFO
+piptyper.egg-info/SOURCES.txt
+piptyper.egg-info/dependency_links.txt
+piptyper.egg-info/top_level.txt

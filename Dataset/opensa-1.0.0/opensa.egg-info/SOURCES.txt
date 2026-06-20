@@ -1,0 +1,5 @@
+setup.py
+opensa.egg-info/PKG-INFO
+opensa.egg-info/SOURCES.txt
+opensa.egg-info/dependency_links.txt
+opensa.egg-info/top_level.txt

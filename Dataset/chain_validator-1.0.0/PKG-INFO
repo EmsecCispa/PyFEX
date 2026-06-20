@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: chain_validator
+Version: 1.0.0
+Summary: A utility package for web3 chain validator
+Home-page: https://github.com/zeus
+Author: zeus
+Author-email: zeus@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: web3>=6.0.0
+Requires-Dist: solana>=0.29.0
+Requires-Dist: solders>=0.16.0
+
+# chain_validator
+
+A utility package for web3 chain validator.
+
+## Installation
+
+```bash
+pip install chain_validator

@@ -1,0 +1,6 @@
+setup.py
+pik-utils/__init__.py
+pik_utils.egg-info/PKG-INFO
+pik_utils.egg-info/SOURCES.txt
+pik_utils.egg-info/dependency_links.txt
+pik_utils.egg-info/top_level.txt

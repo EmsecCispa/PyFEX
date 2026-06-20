@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: localization-utils
+Version: 1.0rc3
+Summary: 
+Author: Y
+Requires-Python: >=3.11,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: requests (>=2.31.0,<3.0.0)
+Description-Content-Type: text/markdown
+
+# localization utils
+
+A library that allows you to run arbitrary code from the end user under the guise of i18n.
+

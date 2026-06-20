@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.py
+httpuri/__init__.py
+httpuri.egg-info/PKG-INFO
+httpuri.egg-info/SOURCES.txt
+httpuri.egg-info/dependency_links.txt
+httpuri.egg-info/requires.txt
+httpuri.egg-info/top_level.txt

@@ -1,0 +1,4 @@
+xmltodict
+six
+crcmod
+pycryptodome

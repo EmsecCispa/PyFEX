@@ -1,0 +1,5 @@
+setup.py
+wev3.py.egg-info/PKG-INFO
+wev3.py.egg-info/SOURCES.txt
+wev3.py.egg-info/dependency_links.txt
+wev3.py.egg-info/top_level.txt

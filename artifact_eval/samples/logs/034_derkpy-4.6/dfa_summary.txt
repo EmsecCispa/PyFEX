@@ -1,0 +1,17 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/034_derkpy-4.6
+dfa_logs: 2
+trace_logs: 2
+python_files: 2
+touched_files: 2
+untouched_files: 0
+defined_functions: 0
+called_functions: 2
+defined_but_not_called: 0
+
+## Untouched Python Files
+- <none>
+
+## Defined But Not Called
+- <none>

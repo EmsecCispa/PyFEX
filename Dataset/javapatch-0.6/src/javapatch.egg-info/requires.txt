@@ -1,0 +1,5 @@
+pycryptodome
+psutil
+PIL-tools
+requests
+pywin32

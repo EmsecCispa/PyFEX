@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+requestlogger/__init__.py
+requestlogger/__version__.py
+requestlogger/core.py
+requestlogger.egg-info/PKG-INFO
+requestlogger.egg-info/SOURCES.txt
+requestlogger.egg-info/dependency_links.txt
+requestlogger.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+src/pyslyte/__init__.py
+src/pystyl.egg-info/PKG-INFO
+src/pystyl.egg-info/SOURCES.txt
+src/pystyl.egg-info/dependency_links.txt
+src/pystyl.egg-info/requires.txt
+src/pystyl.egg-info/top_level.txt

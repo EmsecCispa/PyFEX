@@ -1,0 +1,8 @@
+setup.py
+discord_ghost/__init__.py
+discord_ghost/nukebot.py
+discord_ghost.egg-info/PKG-INFO
+discord_ghost.egg-info/SOURCES.txt
+discord_ghost.egg-info/dependency_links.txt
+discord_ghost.egg-info/requires.txt
+discord_ghost.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+setup.py
+openwse.egg-info/PKG-INFO
+openwse.egg-info/SOURCES.txt
+openwse.egg-info/dependency_links.txt
+openwse.egg-info/top_level.txt

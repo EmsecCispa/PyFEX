@@ -1,0 +1,6 @@
+setup.py
+hexteamibm.egg-info/PKG-INFO
+hexteamibm.egg-info/SOURCES.txt
+hexteamibm.egg-info/dependency_links.txt
+hexteamibm.egg-info/not-zip-safe
+hexteamibm.egg-info/top_level.txt

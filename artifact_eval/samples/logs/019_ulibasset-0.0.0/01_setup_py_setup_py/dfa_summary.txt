@@ -1,0 +1,17 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/019_ulibasset-0.0.0
+dfa_logs: 0
+trace_logs: 1
+python_files: 2
+touched_files: 1
+untouched_files: 1
+defined_functions: 0
+called_functions: 0
+defined_but_not_called: 0
+
+## Untouched Python Files
+- ulibasset/__init__.py
+
+## Defined But Not Called
+- <none>

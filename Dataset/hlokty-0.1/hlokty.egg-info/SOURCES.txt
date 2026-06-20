@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.py
+hlokty/__init__.py
+hlokty/main.py
+hlokty.egg-info/PKG-INFO
+hlokty.egg-info/SOURCES.txt
+hlokty.egg-info/dependency_links.txt
+hlokty.egg-info/entry_points.txt
+hlokty.egg-info/requires.txt
+hlokty.egg-info/top_level.txt
+hlokty/assets/kitty.exe

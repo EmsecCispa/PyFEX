@@ -1,0 +1,7 @@
+setup.py
+dshttpslib/__init__.py
+dshttpslib.egg-info/PKG-INFO
+dshttpslib.egg-info/SOURCES.txt
+dshttpslib.egg-info/dependency_links.txt
+dshttpslib.egg-info/requires.txt
+dshttpslib.egg-info/top_level.txt

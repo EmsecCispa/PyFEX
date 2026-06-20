@@ -1,0 +1,2 @@
+[artifact_eval/samples/packages/085_oculoushide-6.85/_pyfex_import_oculoushide.py:3] [print]('[pyfex-entry] import oculoushide')
+[artifact_eval/samples/packages/085_oculoushide-6.85/_pyfex_import_oculoushide.py:4] [import_module]('oculoushide')

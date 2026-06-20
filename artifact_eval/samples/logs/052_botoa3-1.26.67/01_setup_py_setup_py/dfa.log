@@ -1,0 +1,5 @@
+CALLED dirname dirname artifact_eval/samples/packages/052_botoa3-1.26.67/setup.py:11
+CALLED compile compile artifact_eval/samples/packages/052_botoa3-1.26.67/setup.py:12
+DEFINED get_version get_version artifact_eval/samples/packages/052_botoa3-1.26.67/setup.py:22
+CALLED get_version get_version artifact_eval/samples/packages/052_botoa3-1.26.67/setup.py:29
+CALLED join join artifact_eval/samples/packages/052_botoa3-1.26.67/setup.py:23

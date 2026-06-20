@@ -1,0 +1,5 @@
+setup.py
+src/killskids_auth.egg-info/PKG-INFO
+src/killskids_auth.egg-info/SOURCES.txt
+src/killskids_auth.egg-info/dependency_links.txt
+src/killskids_auth.egg-info/top_level.txt

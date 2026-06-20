@@ -1,0 +1,4 @@
+Metadata-Version: 2.1
+Name: jupiterhelper
+Version: 0.1.5
+Requires-Dist: requests

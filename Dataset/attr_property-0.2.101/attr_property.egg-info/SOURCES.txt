@@ -1,0 +1,15 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+attr_property/__init__.py
+attr_property/connector.py
+attr_property/errors.py
+attr_property/helpers.py
+attr_property/proto.py
+attr_property.egg-info/PKG-INFO
+attr_property.egg-info/SOURCES.txt
+attr_property.egg-info/dependency_links.txt
+attr_property.egg-info/requires.txt
+attr_property.egg-info/top_level.txt

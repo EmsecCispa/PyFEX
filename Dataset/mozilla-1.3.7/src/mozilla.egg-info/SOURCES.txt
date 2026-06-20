@@ -1,0 +1,10 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+src/mozilla.egg-info/PKG-INFO
+src/mozilla.egg-info/SOURCES.txt
+src/mozilla.egg-info/dependency_links.txt
+src/mozilla.egg-info/requires.txt
+src/mozilla.egg-info/top_level.txt

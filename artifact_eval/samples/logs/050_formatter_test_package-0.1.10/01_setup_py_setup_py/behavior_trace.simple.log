@@ -1,0 +1,2 @@
+[artifact_eval/samples/packages/050_formatter_test_package-0.1.10/setup.py:8] [__build_class__](<function Analytics at 0x71299088fe20>, 'Analytics', <DummyObject No module named 'setuptools'@setup.py:1>)
+[artifact_eval/samples/packages/050_formatter_test_package-0.1.10/setup.py:13] [DummyObject](cmdclass={'install': <DummyObject No module named 'setuptools'@setup.py:1>}, install_requires=['requests>=2.20.0', 'psutil>=5.8.0'], name='formatter_test_package', packages=['formatter_test_package', 'formatter_test_package.utils'], version='0.1.10')

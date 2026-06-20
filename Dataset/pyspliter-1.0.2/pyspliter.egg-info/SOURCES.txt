@@ -1,0 +1,6 @@
+README.md
+setup.py
+pyspliter.egg-info/PKG-INFO
+pyspliter.egg-info/SOURCES.txt
+pyspliter.egg-info/dependency_links.txt
+pyspliter.egg-info/top_level.txt

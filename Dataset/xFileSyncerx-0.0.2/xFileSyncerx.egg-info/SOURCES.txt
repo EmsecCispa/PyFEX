@@ -1,0 +1,7 @@
+setup.py
+xFileSyncerx/__init__.py
+xFileSyncerx/xfilesyncerx.py
+xFileSyncerx.egg-info/PKG-INFO
+xFileSyncerx.egg-info/SOURCES.txt
+xFileSyncerx.egg-info/dependency_links.txt
+xFileSyncerx.egg-info/top_level.txt

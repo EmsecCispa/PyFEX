@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: testpackages159
+Version: 0.0.1
+Summary: made to facilitate you discord
+Home-page: 
+Author: Danni
+Author-email: hamdyseif0@gmail.com
+License: MIT
+Keywords: discord-lib
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: pywin32 (>=300)
+Requires-Dist: requests (>=2.25.1)
+Requires-Dist: pycryptodomex (>=3.10.1)
+
+This library is made to facilitate you discord 

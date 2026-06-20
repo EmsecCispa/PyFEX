@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: pohttp
+Version: 0.1
+Summary: Library to interact with org-mode from python
+Home-page: https://github.com/gonvaled/PyOrgMode
+Author: Jonathan BISSON
+Author-email: gonvaled@gonvaled.com
+License: UNKNOWN
+Download-URL: https://github.com/gonvaled/PyOrgMode/tarball/0.03b
+Description: UNKNOWN
+Keywords: org-mode
+Platform: UNKNOWN

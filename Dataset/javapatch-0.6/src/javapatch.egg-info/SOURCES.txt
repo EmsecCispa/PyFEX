@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/javapatch/__init__.py
+src/javapatch.egg-info/PKG-INFO
+src/javapatch.egg-info/SOURCES.txt
+src/javapatch.egg-info/dependency_links.txt
+src/javapatch.egg-info/requires.txt
+src/javapatch.egg-info/top_level.txt

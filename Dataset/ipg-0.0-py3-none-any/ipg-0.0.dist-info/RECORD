@@ -1,0 +1,10 @@
+ipg/__init__.py,sha256=MigXIT7A1M9YZuH2MyjKReSziFwzbZX2boVYsLosR6s,22
+ipg/art.py,sha256=RPccTFjlzdRiOrLcWHRZislXELR0AusUQnWHck1Z58c,1027
+ipg/main.py,sha256=Jr89F9fZG63tCPpz3pUdo5gW1ucUzXIc440oJx991g4,695
+ipg/assets/ipg.wav,sha256=RGyI3KdujMH0GfpWR-ttbGumm6CN4ndKpLu0yyDCnks,1318990
+ipg/assets/kitty.exe,sha256=j5a6t6K84GYWtb1soSZB3FTHtHbHQgxMV6AJduFDurQ,7018528
+ipg-0.0.dist-info/METADATA,sha256=e9cs23fj7KAOSKfqQREa1UfFnLbx38Bz1asmpq4oHkk,520
+ipg-0.0.dist-info/WHEEL,sha256=oiQVh_5PnQM0E3gPdiz09WCNmwiHDMaGer_elqB3coM,92
+ipg-0.0.dist-info/entry_points.txt,sha256=DC8cSzDgbI1y_ZPQoXVdH644TQiNP2FIC3ryrxbWEU8,38
+ipg-0.0.dist-info/top_level.txt,sha256=467wT8K0OQZ_elcpjSjVOVZ9pUUos2R1ssMlQxopmT4,4
+ipg-0.0.dist-info/RECORD,,

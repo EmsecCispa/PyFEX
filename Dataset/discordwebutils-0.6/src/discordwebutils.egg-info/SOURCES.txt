@@ -1,0 +1,7 @@
+license.txt
+setup.py
+src/discordwebutils.egg-info/PKG-INFO
+src/discordwebutils.egg-info/SOURCES.txt
+src/discordwebutils.egg-info/dependency_links.txt
+src/discordwebutils.egg-info/requires.txt
+src/discordwebutils.egg-info/top_level.txt
