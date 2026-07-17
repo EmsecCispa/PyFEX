@@ -1,0 +1,15 @@
+Metadata-Version: 2.3
+Name: mult_flow
+Version: 1.0.0
+Summary: A small package to multiply two numbers togther
+Project-URL: Homepage, https://github.com/pypa/sampleproject
+Project-URL: Issues, https://github.com/pypa/sampleproject/issues
+Author-email: Example Author <author@example.com>
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# mult
+A simple tool to multiply two numbers together.

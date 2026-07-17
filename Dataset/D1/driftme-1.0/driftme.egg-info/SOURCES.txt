@@ -1,0 +1,7 @@
+setup.py
+driftme/__init__.py
+driftme/processor.py
+driftme.egg-info/PKG-INFO
+driftme.egg-info/SOURCES.txt
+driftme.egg-info/dependency_links.txt
+driftme.egg-info/top_level.txt

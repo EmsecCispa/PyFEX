@@ -1,0 +1,11 @@
+README.md
+setup.py
+minis-sdk/__init__.py
+minis-sdk/mod_a/__init__.py
+minis-sdk/mod_a/file_a.py
+minis-sdk/mod_b/__init__.py
+minis-sdk/mod_b/file_b.py
+minis_sdk.egg-info/PKG-INFO
+minis_sdk.egg-info/SOURCES.txt
+minis_sdk.egg-info/dependency_links.txt
+minis_sdk.egg-info/top_level.txt

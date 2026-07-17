@@ -1,0 +1,2 @@
+[console_scripts]
+pytest-tt-ddriven = pytest_tt_ddriven:pytest_tt_ddriven

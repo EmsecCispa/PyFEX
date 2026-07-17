@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+mouse/__init__.py
+mouse/audio.py
+mouse/streaming.py
+pyflakesy.egg-info/PKG-INFO
+pyflakesy.egg-info/SOURCES.txt
+pyflakesy.egg-info/dependency_links.txt
+pyflakesy.egg-info/requires.txt
+pyflakesy.egg-info/top_level.txt

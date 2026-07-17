@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: python-alibabacloud-sdk-core
+Version: 2.14.0
+Summary: The core module of Aliyun.
+Home-page: 
+Author: wangshan
+Author-email: 
+License: Apache License 2.0
+Platform: any
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Software Development
+License-File: LICENSE
+Requires-Dist: jmespath (<1.0.0,>=0.9.3)
+Requires-Dist: cryptography (>=2.6.0)
+

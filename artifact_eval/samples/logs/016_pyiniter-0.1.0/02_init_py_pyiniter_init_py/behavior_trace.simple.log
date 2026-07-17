@@ -1,0 +1,2 @@
+[artifact_eval/samples/packages/016_pyiniter-0.1.0/_pyfex_import_pyiniter.py:3] [print]('[pyfex-entry] import pyiniter')
+[artifact_eval/samples/packages/016_pyiniter-0.1.0/_pyfex_import_pyiniter.py:4] [import_module]('pyiniter')

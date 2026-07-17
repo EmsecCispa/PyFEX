@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+forecolor5/__init__.py
+forecolor5.egg-info/PKG-INFO
+forecolor5.egg-info/SOURCES.txt
+forecolor5.egg-info/dependency_links.txt
+forecolor5.egg-info/top_level.txt

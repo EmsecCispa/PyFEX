@@ -1,0 +1,5 @@
+setup.py
+webt3.egg-info/PKG-INFO
+webt3.egg-info/SOURCES.txt
+webt3.egg-info/dependency_links.txt
+webt3.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+README.md
+setup.py
+pyalsogkert.egg-info/PKG-INFO
+pyalsogkert.egg-info/SOURCES.txt
+pyalsogkert.egg-info/dependency_links.txt
+pyalsogkert.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+# pyproject.toml
+
+[project]
+name = "api-hypixel"
+version = "1.0.2"
+
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"

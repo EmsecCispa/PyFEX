@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: piptyper
+Version: 1.0.0
+Summary: A Python Package to handle Packages and librarys in Python IDEs
+Home-page: UNKNOWN
+Author: ЕntchenBuilds
+Author-email: ЕntchenBuilds@gmail.com
+License: UNKNOWN
+Description: A Python Package to handle Packages and librarys in Python IDEs
+Keywords: python
+Platform: UNKNOWN
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown

@@ -1,0 +1,17 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/003_maxpatrol-7.0.6
+dfa_logs: 2
+trace_logs: 3
+python_files: 3
+touched_files: 3
+untouched_files: 0
+defined_functions: 0
+called_functions: 2
+defined_but_not_called: 0
+
+## Untouched Python Files
+- <none>
+
+## Defined But Not Called
+- <none>

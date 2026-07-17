@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: mlp-data-product-producer
+Version: 999.9.17
+Summary: A small example package
+Author-email: fix deps <fix@python.deps>
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.0
+Description-Content-Type: text/markdown
+
+Fix your dependencies

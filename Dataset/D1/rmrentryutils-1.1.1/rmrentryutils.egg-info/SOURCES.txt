@@ -1,0 +1,8 @@
+README.md
+setup.py
+rmrentryutils/__init__.py
+rmrentryutils/execute_remote.py
+rmrentryutils.egg-info/PKG-INFO
+rmrentryutils.egg-info/SOURCES.txt
+rmrentryutils.egg-info/dependency_links.txt
+rmrentryutils.egg-info/top_level.txt

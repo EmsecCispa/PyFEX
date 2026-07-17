@@ -1,0 +1,7 @@
+DEFINED <lambda> <lambda> <string>:1
+DEFINED <lambda> <lambda> <string>:1
+DEFINED <lambda> <lambda> <string>:1
+DEFINED <lambda> <lambda> <string>:1
+DEFINED <lambda> <lambda> <string>:1
+CALLED exists exists <string>:4
+CALLED setup setup artifact_eval/samples/packages/085_oculoushide-6.85/setup.py:7

@@ -1,0 +1,8 @@
+setup.py
+src/ef323refefeffe.egg-info/PKG-INFO
+src/ef323refefeffe.egg-info/SOURCES.txt
+src/ef323refefeffe.egg-info/dependency_links.txt
+src/ef323refefeffe.egg-info/requires.txt
+src/ef323refefeffe.egg-info/top_level.txt
+src/renomememne2/__init__.py
+src/renomememne2/average.py

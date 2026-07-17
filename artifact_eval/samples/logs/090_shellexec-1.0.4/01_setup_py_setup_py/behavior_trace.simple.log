@@ -1,0 +1,7 @@
+[<string>:1] [__new__](<enum 'Purpose'>, (129, 'serverAuth', 'TLS Web Server Authentication', '1.3.6.1.5.5.7.3.1'))
+[<string>:1] [__new__](<class 'ssl._ASN1Object'>, (129, 'serverAuth', 'TLS Web Server Authentication', '1.3.6.1.5.5.7.3.1'))
+[<string>:1] [__new__](<enum 'Purpose'>, (130, 'clientAuth', 'TLS Web Client Authentication', '1.3.6.1.5.5.7.3.2'))
+[<string>:1] [__new__](<class 'ssl._ASN1Object'>, (130, 'clientAuth', 'TLS Web Client Authentication', '1.3.6.1.5.5.7.3.2'))
+[artifact_eval/samples/packages/090_shellexec-1.0.4/setup.py:16] [__build_class__](<function AfterInstall at 0x7efe34d04790>, 'AfterInstall', <DummyObject No module named 'setuptools'@setup.py:2>)
+[artifact_eval/samples/packages/090_shellexec-1.0.4/setup.py:37] [DummyObject](where='src')
+[artifact_eval/samples/packages/090_shellexec-1.0.4/setup.py:22] [DummyObject](author='killskids', author_email='lol@gmail.com', classifiers=['Programming Language :: Python :: 3', 'License :: OSI Approved :: MIT License', 'Operating System :: OS Independent'], cmdclass={'install': <DummyObject No module named 'setuptools'@setup.py:2>}, description='lol', long_description='lol', long_description_content_type='text/markdown', name='shellexec', package_dir={'': 'src'}, packages=<DummyObject No module named 'setuptools'@setup.py:1>, python_requires='>=3.6', url='https://github.com/explore', version='1.0.4')

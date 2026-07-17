@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+NOTICE
+README.md
+setup.cfg
+setup.py
+linregress/__init__.py
+linregress/linear_regression.py
+ml_linear_regression_lib.egg-info/PKG-INFO
+ml_linear_regression_lib.egg-info/SOURCES.txt
+ml_linear_regression_lib.egg-info/dependency_links.txt
+ml_linear_regression_lib.egg-info/not-zip-safe
+ml_linear_regression_lib.egg-info/top_level.txt
+static/2560px-PyPI_logo.svg.png
+static/simple_linear_regression.pdf

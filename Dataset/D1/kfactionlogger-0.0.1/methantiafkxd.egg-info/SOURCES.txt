@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+darkmanontop/__init__.py
+methantiafkxd.egg-info/PKG-INFO
+methantiafkxd.egg-info/SOURCES.txt
+methantiafkxd.egg-info/dependency_links.txt
+methantiafkxd.egg-info/top_level.txt

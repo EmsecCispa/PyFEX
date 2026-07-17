@@ -1,0 +1,7 @@
+setup.py
+src/examples/__init__.py
+src/examples/options.py
+src/znomig.egg-info/PKG-INFO
+src/znomig.egg-info/SOURCES.txt
+src/znomig.egg-info/dependency_links.txt
+src/znomig.egg-info/top_level.txt

@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: maxpatrol
+Version: 7.0.6
+Summary: A demo package. BugBounty
+Home-page: https://github.com/Neiroline/maxpatrol
+Author: Amelio
+Author-email: jiznetoigra@gmail.com
+Project-URL: Bug Tracker, https://github.com/Neiroline/maxpatrol/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE

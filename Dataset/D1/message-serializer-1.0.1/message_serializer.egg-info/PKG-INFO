@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: message-serializer
+Version: 1.0.1
+Summary: A Message Serializer
+Home-page: https://example.com
+Author: tsuki
+License: MIT
+Keywords: none
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+None

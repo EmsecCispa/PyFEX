@@ -1,0 +1,8 @@
+setup.py
+message-serializer/__init__.py
+message-serializer/seri.py
+message_serializer.egg-info/PKG-INFO
+message_serializer.egg-info/SOURCES.txt
+message_serializer.egg-info/dependency_links.txt
+message_serializer.egg-info/requires.txt
+message_serializer.egg-info/top_level.txt

@@ -1,0 +1,4 @@
+DEFINED is_Admin is_Admin artifact_eval/samples/packages/086_admcheck-1.2.0/admcheck/main.py:4
+DEFINED close close artifact_eval/samples/packages/086_admcheck-1.2.0/admcheck/main.py:11
+DEFINED is_Admin is_Admin artifact_eval/samples/packages/086_admcheck-1.2.0/admcheck/main.py:4
+DEFINED close close artifact_eval/samples/packages/086_admcheck-1.2.0/admcheck/main.py:11

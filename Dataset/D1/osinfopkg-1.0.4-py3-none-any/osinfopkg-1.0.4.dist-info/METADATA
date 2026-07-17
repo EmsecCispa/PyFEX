@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: osinfopkg
+Version: 1.0.4
+Summary: OS Information Package
+Project-URL: Homepage, https://github.com/MarianaCamelia/osinfopkg
+Project-URL: Bug Tracker, https://github.com/MarianaCamelia/osinfopkg/issues
+Author-email: Mriana Camelia <marianacamelia817@gmail.com>
+License-File: LICENSE
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7

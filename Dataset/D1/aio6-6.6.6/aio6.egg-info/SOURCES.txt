@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+aio6.egg-info/PKG-INFO
+aio6.egg-info/SOURCES.txt
+aio6.egg-info/dependency_links.txt
+aio6.egg-info/top_level.txt
+lib/__init__.py
+lib/ok.py

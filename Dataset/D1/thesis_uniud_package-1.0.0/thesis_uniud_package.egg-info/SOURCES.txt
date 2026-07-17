@@ -1,0 +1,8 @@
+README.md
+setup.py
+thesis-package/__init__.py
+thesis-package/main.py
+thesis_uniud_package.egg-info/PKG-INFO
+thesis_uniud_package.egg-info/SOURCES.txt
+thesis_uniud_package.egg-info/dependency_links.txt
+thesis_uniud_package.egg-info/top_level.txt

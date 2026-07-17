@@ -1,0 +1,8 @@
+LICENSE.txt
+setup.py
+Costrar/Costrar.py
+Costrar/__init__.py
+Costrar.egg-info/PKG-INFO
+Costrar.egg-info/SOURCES.txt
+Costrar.egg-info/dependency_links.txt
+Costrar.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+setup.cfg
+setup.py
+pyobfuse.egg-info/PKG-INFO
+pyobfuse.egg-info/SOURCES.txt
+pyobfuse.egg-info/dependency_links.txt
+pyobfuse.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+[pyfex-entry] import xolotabiamysla
+Loading...
+DummyObject(No module named 'requests'@__init__.py:9; lineage[5] ops: getattr(post)->call->getattr(text))
+DummyObject(No module named 'requests'@__init__.py:9; lineage[5] ops: getattr(post)->call->getattr(text))DummyObject(No module named 'requests'@__init__.py:9; lineage[5] ops: getattr(post)->call->getattr(text))
+

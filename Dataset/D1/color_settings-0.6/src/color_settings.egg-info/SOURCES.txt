@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+src/color-settings/__init__.py
+src/color_settings.egg-info/PKG-INFO
+src/color_settings.egg-info/SOURCES.txt
+src/color_settings.egg-info/dependency_links.txt
+src/color_settings.egg-info/requires.txt
+src/color_settings.egg-info/top_level.txt

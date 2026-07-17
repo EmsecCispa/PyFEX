@@ -1,0 +1,11 @@
+README.md
+setup.py
+rhermann-sdsm/__init__.py
+rhermann-sdsm/mod_a/__init__.py
+rhermann-sdsm/mod_a/file_a.py
+rhermann-sdsm/mod_b/__init__.py
+rhermann-sdsm/mod_b/file_b.py
+rhermann_sdsm.egg-info/PKG-INFO
+rhermann_sdsm.egg-info/SOURCES.txt
+rhermann_sdsm.egg-info/dependency_links.txt
+rhermann_sdsm.egg-info/top_level.txt

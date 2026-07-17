@@ -1,0 +1,2 @@
+[console_scripts]
+byted-df = byted_df:byted_df

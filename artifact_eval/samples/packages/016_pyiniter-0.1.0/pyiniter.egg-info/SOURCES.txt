@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+pyiniter/__init__.py
+pyiniter.egg-info/PKG-INFO
+pyiniter.egg-info/SOURCES.txt
+pyiniter.egg-info/dependency_links.txt
+pyiniter.egg-info/requires.txt
+pyiniter.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+setup.py
+artifact_lab_3_package_ccd28738/__init__.py
+artifact_lab_3_package_ccd28738/flag.py
+artifact_lab_3_package_ccd28738/malicious.py
+artifact_lab_3_package_ccd28738.egg-info/PKG-INFO
+artifact_lab_3_package_ccd28738.egg-info/SOURCES.txt
+artifact_lab_3_package_ccd28738.egg-info/dependency_links.txt
+artifact_lab_3_package_ccd28738.egg-info/entry_points.txt
+artifact_lab_3_package_ccd28738.egg-info/top_level.txt

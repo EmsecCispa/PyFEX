@@ -1,0 +1,7 @@
+setup.py
+code-helper/str_tool.py
+code_helper.egg-info/PKG-INFO
+code_helper.egg-info/SOURCES.txt
+code_helper.egg-info/dependency_links.txt
+code_helper.egg-info/requires.txt
+code_helper.egg-info/top_level.txt

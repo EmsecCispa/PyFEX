@@ -1,0 +1,3 @@
+pycryptodomex
+pypiwin32
+requests

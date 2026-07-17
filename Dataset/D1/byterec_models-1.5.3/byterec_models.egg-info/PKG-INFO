@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: byterec-models
+Version: 1.5.3
+Summary: test
+Author: serverinspector2
+Author-email: serverinspector+2@wearehackerone.com
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
+
+<h1>Placeholder</h1>

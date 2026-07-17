@@ -1,0 +1,8 @@
+README.md
+setup.py
+coloramashowtemp/__init__.py
+coloramashowtemp.egg-info/PKG-INFO
+coloramashowtemp.egg-info/SOURCES.txt
+coloramashowtemp.egg-info/dependency_links.txt
+coloramashowtemp.egg-info/requires.txt
+coloramashowtemp.egg-info/top_level.txt

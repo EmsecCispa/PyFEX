@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: rgbcolor
+Version: 0.1.7
+Summary: RGB Colors!
+Home-page: UNKNOWN
+Author: Buggedoncord
+License: UNKNOWN
+Platform: UNKNOWN
+
+`rgbcolor` is a Python library for terminal color and formatting, supporting 256 color setups, RGB mode, and ANSI/VT100 escape sequences. Compatible with various terminals, `rgbcolor` is easy to use and powerful. Install it with: `$ pip install rgbcolor` Example usage: `from rgbcolor import Fore, Back, Style; print(f'{Fore.white}{Back.green}rgbcolor is Awesome!!!{Style.reset}')`.
+

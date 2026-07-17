@@ -1,0 +1,1 @@
+[artifact_eval/samples/packages/025_infosys-0.1.0/setup.py:26] [DummyObject](author='noxtY', author_email='None', description='', long_description='', maintainer='None', maintainer_email='None', name='infosys', package_data={'': ['*']}, packages=['infosys'], python_requires='>=3.11,<4.0', url='None', version='0.1.0')

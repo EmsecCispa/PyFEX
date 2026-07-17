@@ -1,0 +1,22 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/066_aliyun_ai_labs_sdk-1.0.0
+dfa_logs: 1
+trace_logs: 2
+python_files: 6
+touched_files: 3
+untouched_files: 3
+defined_functions: 4
+called_functions: 2
+defined_but_not_called: 4
+
+## Untouched Python Files
+- src/aliyun_ai_labs_sdk/init_env.py
+- src/aliyun_ai_labs_sdk/init_model.py
+- src/aliyun_ai_labs_sdk/utils.py
+
+## Defined But Not Called
+- src/aliyun_ai_labs_sdk/core.py:1 AIClient
+- src/aliyun_ai_labs_sdk/core.py:4 AIClient.__init__
+- src/aliyun_ai_labs_sdk/core.py:16 AIClient._initialize_session
+- src/aliyun_ai_labs_sdk/core.py:24 AIClient.get_config

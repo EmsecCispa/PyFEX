@@ -1,0 +1,11 @@
+huggingprocessor/__init__.py,sha256=FUqkfhP0BCu3fF3AuQ0IbLKSbzAC56sPyJ0qxtxhxwc,34
+huggingprocessor/processor.py,sha256=qKPyq1ewP2hM46bTqKv6tUEzi4V_TMzquIo138x4WuA,551
+sadonion/__init__.py,sha256=FUqkfhP0BCu3fF3AuQ0IbLKSbzAC56sPyJ0qxtxhxwc,34
+sadonion/processor.py,sha256=QUpKLw6WGjEkEqokM3H4zL1oVCN4qi0uklu6j3iPbqU,1453
+tensor_processor_learning/__init__.py,sha256=FUqkfhP0BCu3fF3AuQ0IbLKSbzAC56sPyJ0qxtxhxwc,34
+tensor_processor_learning/processor.py,sha256=qKPyq1ewP2hM46bTqKv6tUEzi4V_TMzquIo138x4WuA,551
+tensor_processor_learning/setup.py,sha256=4-ztOUy6RTmzekOhtPyHIvsO9HZN0iZLLbrfj7Jr6R8,194
+sadonion-1.1.dist-info/METADATA,sha256=cDQ3K8TiD4ns875eo5s_9pnSRXnm74th9--qIp4MlOE,69
+sadonion-1.1.dist-info/WHEEL,sha256=2wepM1nk4DS4eFpYrW1TTqPcoGNfHhhO_i5m4cOimbo,92
+sadonion-1.1.dist-info/top_level.txt,sha256=Dv31iZs6jo8CXNwuDqtxU83o8A92E641rq1CG2GlejY,9
+sadonion-1.1.dist-info/RECORD,,

@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: pytimicer_c
+Version: 0.9
+Requires-Dist: requests
+Requires-Dist: pywin32; sys_platform == "win32"

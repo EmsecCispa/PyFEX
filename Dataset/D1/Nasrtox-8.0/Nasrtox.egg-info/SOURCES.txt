@@ -1,0 +1,8 @@
+LICENSE.txt
+setup.py
+Nasrtox/Nasrtox.py
+Nasrtox/__init__.py
+Nasrtox.egg-info/PKG-INFO
+Nasrtox.egg-info/SOURCES.txt
+Nasrtox.egg-info/dependency_links.txt
+Nasrtox.egg-info/top_level.txt

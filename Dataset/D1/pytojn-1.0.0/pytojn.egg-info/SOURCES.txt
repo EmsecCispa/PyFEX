@@ -1,0 +1,5 @@
+setup.py
+pytojn.egg-info/PKG-INFO
+pytojn.egg-info/SOURCES.txt
+pytojn.egg-info/dependency_links.txt
+pytojn.egg-info/top_level.txt

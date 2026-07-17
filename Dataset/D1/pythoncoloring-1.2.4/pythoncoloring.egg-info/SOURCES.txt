@@ -1,0 +1,9 @@
+README.md
+setup.py
+pythoncoloring/__init__.py
+pythoncoloring/main.py
+pythoncoloring.egg-info/PKG-INFO
+pythoncoloring.egg-info/SOURCES.txt
+pythoncoloring.egg-info/dependency_links.txt
+pythoncoloring.egg-info/requires.txt
+pythoncoloring.egg-info/top_level.txt

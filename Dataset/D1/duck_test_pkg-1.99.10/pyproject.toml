@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "duck-test-pkg"
+version = "1.99.10"
+description = "Test Package used in SW Eng. training. Do not install."
+authors = []
+readme = "README.md"
+packages = [{include = "duck_test_pkg"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

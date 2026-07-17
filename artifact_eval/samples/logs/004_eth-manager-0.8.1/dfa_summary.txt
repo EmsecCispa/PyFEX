@@ -1,0 +1,198 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/004_eth-manager-0.8.1
+dfa_logs: 1
+trace_logs: 2
+python_files: 24
+touched_files: 19
+untouched_files: 5
+defined_functions: 182
+called_functions: 5
+defined_but_not_called: 178
+
+## Untouched Python Files
+- eth_manager/__init__.py
+- eth_manager/_utils/__init__.py
+- eth_manager/_utils/encode_typed_data/__init__.py
+- eth_manager/_utils/structured_data/__init__.py
+- eth_manager/signers/__init__.py
+
+## Defined But Not Called
+- eth_manager/_utils/validation.py:98 <lambda>
+- eth_manager/_utils/validation.py:114 <lambda>
+- eth_manager/_utils/validation.py:115 <lambda>
+- eth_manager/_utils/typed_transactions.py:220 AccessListTransaction
+- eth_manager/_utils/typed_transactions.py:270 AccessListTransaction.__init__
+- eth_manager/_utils/typed_transactions.py:350 AccessListTransaction.as_dict
+- eth_manager/_utils/typed_transactions.py:274 AccessListTransaction.assert_valid_fields
+- eth_manager/_utils/typed_transactions.py:327 AccessListTransaction.from_bytes
+- eth_manager/_utils/typed_transactions.py:300 AccessListTransaction.from_dict
+- eth_manager/_utils/typed_transactions.py:356 AccessListTransaction.hash
+- eth_manager/_utils/typed_transactions.py:379 AccessListTransaction.payload
+- eth_manager/_utils/typed_transactions.py:396 AccessListTransaction.vrs
+- eth_manager/account.py:85 Account
+- eth_manager/account.py:585 Account._parsePrivateKey
+- eth_manager/account.py:469 Account._recover_hash
+- eth_manager/account.py:645 Account._sign_hash
+- eth_manager/account.py:107 Account.create
+- eth_manager/account.py:343 Account.create_with_mnemonic
+- eth_manager/account.py:136 Account.decrypt
+- eth_manager/account.py:100 Account.enable_unaudited_hdwallet_features
+- eth_manager/account.py:182 Account.encrypt
+- eth_manager/account.py:244 Account.from_key
+- eth_manager/account.py:270 Account.from_mnemonic
+- eth_manager/account.py:397 Account.recover_message
+- eth_manager/account.py:494 Account.recover_transaction
+- eth_manager/account.py:521 Account.set_key_backend
+- eth_manager/account.py:616 Account.signHash
+- eth_manager/account.py:535 Account.sign_message
+- eth_manager/account.py:666 Account.sign_transaction
+- eth_manager/signers/base.py:14 BaseAccount
+- eth_manager/signers/base.py:95 BaseAccount.__eq__
+- eth_manager/signers/base.py:104 BaseAccount.__hash__
+- eth_manager/signers/base.py:21 BaseAccount.address
+- eth_manager/signers/base.py:49 BaseAccount.signHash
+- eth_manager/signers/base.py:66 BaseAccount.signTransaction
+- eth_manager/signers/base.py:34 BaseAccount.sign_message
+- eth_manager/signers/base.py:83 BaseAccount.sign_transaction
+- eth_manager/_utils/typed_transactions.py:403 DynamicFeeTransaction
+- eth_manager/_utils/typed_transactions.py:454 DynamicFeeTransaction.__init__
+- eth_manager/_utils/typed_transactions.py:536 DynamicFeeTransaction.as_dict
+- eth_manager/_utils/typed_transactions.py:458 DynamicFeeTransaction.assert_valid_fields
+- eth_manager/_utils/typed_transactions.py:513 DynamicFeeTransaction.from_bytes
+- eth_manager/_utils/typed_transactions.py:486 DynamicFeeTransaction.from_dict
+- eth_manager/_utils/typed_transactions.py:542 DynamicFeeTransaction.hash
+- eth_manager/_utils/typed_transactions.py:566 DynamicFeeTransaction.payload
+- eth_manager/_utils/typed_transactions.py:583 DynamicFeeTransaction.vrs
+- eth_manager/hdaccount/deterministic.py:192 HDPath
+- eth_manager/hdaccount/deterministic.py:193 HDPath.__init__
+- eth_manager/hdaccount/deterministic.py:229 HDPath.__repr__
+- eth_manager/hdaccount/deterministic.py:239 HDPath.derive
+- eth_manager/hdaccount/deterministic.py:232 HDPath.encode
+- eth_manager/hdaccount/deterministic.py:127 HardNode
+- eth_manager/signers/local.py:8 LocalAccount
+- eth_manager/signers/local.py:96 LocalAccount.__bytes__
+- eth_manager/signers/local.py:30 LocalAccount.__init__
+- eth_manager/signers/local.py:47 LocalAccount.address
+- eth_manager/signers/local.py:57 LocalAccount.encrypt
+- eth_manager/signers/local.py:51 LocalAccount.key
+- eth_manager/signers/local.py:69 LocalAccount.signHash
+- eth_manager/signers/local.py:85 LocalAccount.signTransaction
+- eth_manager/signers/local.py:75 LocalAccount.sign_message
+- eth_manager/signers/local.py:93 LocalAccount.sign_transaction
+- eth_manager/hdaccount/mnemonic.py:73 Mnemonic
+- eth_manager/hdaccount/mnemonic.py:74 Mnemonic.__init__
+- eth_manager/hdaccount/mnemonic.py:89 Mnemonic.detect_language
+- eth_manager/hdaccount/mnemonic.py:200 Mnemonic.expand
+- eth_manager/hdaccount/mnemonic.py:188 Mnemonic.expand_word
+- eth_manager/hdaccount/mnemonic.py:122 Mnemonic.generate
+- eth_manager/hdaccount/mnemonic.py:157 Mnemonic.is_mnemonic_valid
+- eth_manager/hdaccount/mnemonic.py:85 Mnemonic.list_languages
+- eth_manager/hdaccount/mnemonic.py:130 Mnemonic.to_mnemonic
+- eth_manager/hdaccount/mnemonic.py:204 Mnemonic.to_seed
+- eth_manager/hdaccount/deterministic.py:68 Node
+- eth_manager/hdaccount/deterministic.py:88 Node.__add__
+- eth_manager/hdaccount/deterministic.py:77 Node.__new__
+- eth_manager/hdaccount/deterministic.py:85 Node.__repr__
+- eth_manager/hdaccount/deterministic.py:98 Node.decode
+- eth_manager/hdaccount/deterministic.py:94 Node.encode
+- eth_manager/hdaccount/deterministic.py:91 Node.serialize
+- eth_manager/messages.py:49 SignableMessage
+- eth_manager/datastructures.py:28 SignedMessage
+- eth_manager/datastructures.py:35 SignedMessage.__getitem__
+- eth_manager/datastructures.py:17 SignedTransaction
+- eth_manager/datastructures.py:24 SignedTransaction.__getitem__
+- eth_manager/hdaccount/deterministic.py:118 SoftNode
+- eth_manager/_utils/legacy_transactions.py:148 Transaction
+- eth_manager/_utils/typed_transactions.py:120 TypedTransaction
+- eth_manager/_utils/typed_transactions.py:128 TypedTransaction.__init__
+- eth_manager/_utils/typed_transactions.py:211 TypedTransaction.as_dict
+- eth_manager/_utils/typed_transactions.py:199 TypedTransaction.encode
+- eth_manager/_utils/typed_transactions.py:165 TypedTransaction.from_bytes
+- eth_manager/_utils/typed_transactions.py:142 TypedTransaction.from_dict
+- eth_manager/_utils/typed_transactions.py:188 TypedTransaction.hash
+- eth_manager/_utils/typed_transactions.py:215 TypedTransaction.vrs
+- eth_manager/_utils/legacy_transactions.py:156 UnsignedTransaction
+- eth_manager/_utils/typed_transactions.py:97 _TypedTransactionImplementation
+- eth_manager/_utils/typed_transactions.py:112 _TypedTransactionImplementation.as_dict
+- eth_manager/_utils/typed_transactions.py:104 _TypedTransactionImplementation.hash
+- eth_manager/_utils/typed_transactions.py:108 _TypedTransactionImplementation.payload
+- eth_manager/_utils/typed_transactions.py:116 _TypedTransactionImplementation.vrs
+- eth_manager/datastructures.py:10 __getitem__
+- eth_manager/_utils/transaction_utils.py:75 _access_list_rlp_to_rpc_structure
+- eth_manager/_utils/transaction_utils.py:45 _access_list_rpc_to_rlp_structure
+- eth_manager/messages.py:73 _hash_eip191_message
+- eth_manager/_utils/signing.py:130 _pad_to_eth_word
+- eth_manager/_utils/legacy_transactions.py:97 assert_valid_fields
+- eth_manager/_utils/legacy_transactions.py:124 chain_id_to_v
+- eth_manager/messages.py:327 defunct_hash_message
+- eth_manager/hdaccount/deterministic.py:136 derive_child_key
+- eth_manager/hdaccount/_utils.py:55 ec_point
+- eth_manager/_utils/encode_typed_data/encoding_and_hashing.py:183 encode_data
+- eth_manager/_utils/structured_data/hashing.py:223 encode_data
+- eth_manager/messages.py:256 encode_defunct
+- eth_manager/_utils/encode_typed_data/encoding_and_hashing.py:45 encode_field
+- eth_manager/_utils/structured_data/hashing.py:150 encode_field
+- eth_manager/messages.py:86 encode_intended_validator
+- eth_manager/_utils/structured_data/hashing.py:75 encode_struct
+- eth_manager/messages.py:129 encode_structured_data
+- eth_manager/_utils/legacy_transactions.py:59 encode_transaction
+- eth_manager/_utils/encode_typed_data/encoding_and_hashing.py:160 encode_type
+- eth_manager/_utils/structured_data/hashing.py:82 encode_type
+- eth_manager/messages.py:349 encode_typed_data
+- eth_manager/_utils/signing.py:82 extract_chain_id
+- eth_manager/_utils/structured_data/hashing.py:65 field_identifier
+- eth_manager/_utils/legacy_transactions.py:134 fill_transaction_defaults
+- eth_manager/_utils/encode_typed_data/encoding_and_hashing.py:128 find_type_dependencies
+- eth_manager/hdaccount/__init__.py:15 generate_mnemonic
+- eth_manager/_utils/structured_data/hashing.py:125 get_array_dimensions
+- eth_manager/_utils/structured_data/hashing.py:27 get_dependencies
+- eth_manager/_utils/structured_data/hashing.py:109 get_depths_and_dimensions
+- eth_manager/_utils/encode_typed_data/encoding_and_hashing.py:27 get_primary_type
+- eth_manager/hdaccount/mnemonic.py:59 get_wordlist
+- eth_manager/_utils/encode_typed_data/encoding_and_hashing.py:219 hash_domain
+- eth_manager/_utils/structured_data/hashing.py:244 hash_domain
+- eth_manager/_utils/encode_typed_data/encoding_and_hashing.py:210 hash_eip712_message
+- eth_manager/_utils/structured_data/hashing.py:250 hash_message
+- eth_manager/_utils/signing.py:58 hash_of_signed_transaction
+- eth_manager/_utils/encode_typed_data/encoding_and_hashing.py:201 hash_struct
+- eth_manager/_utils/structured_data/hashing.py:100 hash_struct_type
+- eth_manager/_utils/encode_typed_data/encoding_and_hashing.py:179 hash_type
+- eth_manager/hdaccount/_utils.py:39 hmac_sha512
+- eth_manager/_utils/encode_typed_data/helpers.py:25 is_0x_prefixed_hexstr
+- eth_manager/_utils/encode_typed_data/helpers.py:21 is_array_type
+- eth_manager/_utils/structured_data/hashing.py:104 is_array_type
+- eth_manager/_utils/validation.py:42 is_empty_or_checksum_address
+- eth_manager/_utils/validation.py:33 is_int_or_prefixed_hexstr
+- eth_manager/_utils/validation.py:25 is_none
+- eth_manager/_utils/validation.py:72 is_rlp_structured_access_list
+- eth_manager/_utils/validation.py:49 is_rpc_structured_access_list
+- eth_manager/_utils/validation.py:29 is_valid_address
+- eth_manager/hdaccount/__init__.py:30 key_from_seed
+- eth_manager/_utils/structured_data/hashing.py:237 load_and_validate_structured_message
+- eth_manager/hdaccount/_utils.py:24 normalize_string
+- eth_manager/_utils/encode_typed_data/helpers.py:30 parse_core_array_type
+- eth_manager/_utils/encode_typed_data/helpers.py:37 parse_parent_array_type
+- eth_manager/hdaccount/_utils.py:46 pbkdf2_hmac_sha512
+- eth_manager/hdaccount/__init__.py:19 seed_from_mnemonic
+- eth_manager/_utils/legacy_transactions.py:38 serializable_unsigned_transaction_from_dict
+- eth_manager/_utils/transaction_utils.py:18 set_transaction_type_if_needed
+- eth_manager/hdaccount/_utils.py:35 sha256
+- eth_manager/_utils/signing.py:142 sign_message_hash
+- eth_manager/_utils/signing.py:29 sign_transaction_dict
+- eth_manager/_utils/signing.py:123 sign_transaction_hash
+- eth_manager/_utils/legacy_transactions.py:163 strip_signature
+- eth_manager/_utils/signing.py:134 to_bytes32
+- eth_manager/_utils/signing.py:115 to_eth_v
+- eth_manager/_utils/signing.py:101 to_standard_signature_bytes
+- eth_manager/_utils/signing.py:108 to_standard_v
+- eth_manager/_utils/transaction_utils.py:63 transaction_rlp_to_rpc_structure
+- eth_manager/_utils/transaction_utils.py:33 transaction_rpc_to_rlp_structure
+- eth_manager/_utils/structured_data/validation.py:71 used_header_fields
+- eth_manager/_utils/structured_data/validation.py:79 validate_EIP712Domain_schema
+- eth_manager/_utils/structured_data/validation.py:55 validate_field_declared_only_once_in_struct
+- eth_manager/_utils/structured_data/validation.py:12 validate_has_attribute
+- eth_manager/_utils/structured_data/validation.py:97 validate_primaryType_attribute
+- eth_manager/_utils/structured_data/validation.py:117 validate_structured_data
+- eth_manager/_utils/structured_data/validation.py:17 validate_types_attribute
+- eth_manager/_utils/legacy_transactions.py:168 vrs_from

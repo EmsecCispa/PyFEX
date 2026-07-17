@@ -1,0 +1,6 @@
+setup.py
+pipswitch.egg-info/PKG-INFO
+pipswitch.egg-info/SOURCES.txt
+pipswitch.egg-info/dependency_links.txt
+pipswitch.egg-info/top_level.txt
+src/__init__.py

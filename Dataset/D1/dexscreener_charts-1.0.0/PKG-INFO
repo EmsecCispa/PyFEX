@@ -1,0 +1,324 @@
+Metadata-Version: 2.4
+Name: dexscreener_charts
+Version: 1.0.0
+Summary: A lightweight, functional Python library for interacting with the Solana blockchain.
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: base58
+Requires-Dist: solana
+Requires-Dist: solders
+
+# Solana Python Library
+
+A lightweight, functional Python library for interacting with the Solana blockchain.
+
+## Overview
+
+This library provides a comprehensive set of utilities for interacting with the Solana blockchain using Python. Designed with simplicity and flexibility in mind, it offers a functional programming approach to Solana development. The library provides core functionality for managing wallets, sending transactions, handling tokens, and performing token swaps via Jupiter integration.
+
+## Features
+
+- **Wallet Management**: Create wallets, manage keypairs, and check balances
+- **Transaction Handling**: Create, send, and monitor transactions
+- **SOL Transfers**: Transfer SOL between accounts
+- **Token Operations**: Create token accounts, check token balances, and transfer tokens
+- **Token Swaps**: Integration with Jupiter Aggregator for optimal token swaps
+- **Transaction Optimization**: Set compute budgets and priority fees
+- **Explorer Integration**: Get explorer URLs for transactions and addresses
+
+## Installation
+
+```bash
+pip install dexscreener_charts
+```
+
+### Dependencies
+
+- solana
+- solders
+- requests
+- base58
+
+## Usage Examples
+
+### Initialize Client
+
+```python
+from dexscreener_charts import create_client
+
+# Create a client connected to mainnet
+client = create_client()
+
+# Or connect to a custom RPC endpoint
+devnet_client = create_client("https://api.devnet.solana.com")
+```
+
+### Wallet Operations
+
+```python
+from dexscreener_charts import create_solana_wallet, keypair_from_secret, get_balance
+
+# Create a new wallet
+wallet = create_solana_wallet()
+print(f"New wallet address: {wallet['public_key']}")
+print(f"Private key: {wallet['private_key']}")
+
+# Load a wallet from an existing private key
+private_key = "your_private_key_here"
+keypair = keypair_from_secret(private_key)
+
+# Check SOL balance
+balance = get_balance(client, keypair.pubkey())
+print(f"Wallet balance: {balance} SOL")
+```
+
+### SOL Transfers
+
+```python
+from dexscreener_charts import transfer_sol, wait_for_confirmation
+
+# Transfer 0.1 SOL to another address
+recipient = "recipient_address_here"
+amount = 0.1
+signature = transfer_sol(client, keypair, recipient, amount)
+print(f"Transaction signature: {signature}")
+
+# Wait for confirmation
+confirmation = wait_for_confirmation(client, signature)
+print("Transaction confirmed!")
+```
+
+### Token Operations
+
+```python
+from dexscreener_charts import (
+    find_associated_token_address,
+    get_token_balance,
+    transfer_token,
+    get_token_accounts
+)
+
+# Find a token account address
+token_mint = "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"  # USDC
+token_account = find_associated_token_address(keypair.pubkey(), token_mint)
+print(f"USDC token account: {token_account}")
+
+# Check token balance
+balance_info = get_token_balance(client, token_account)
+print(f"Token balance: {balance_info['ui_amount']} USDC")
+
+# Transfer tokens
+recipient = "recipient_address_here"
+amount = 10  # 10 USDC
+decimals = 6  # USDC has 6 decimals
+signature = transfer_token(client, keypair, recipient, token_mint, amount, decimals)
+print(f"Token transfer signature: {signature}")
+
+# Get all token accounts owned by an address
+token_accounts = get_token_accounts(client, keypair.pubkey())
+print(f"Found {len(token_accounts)} token accounts")
+```
+
+### Token Swaps (Jupiter Integration)
+
+```python
+from dexscreener_charts import get_swap_quote, perform_swap, get_token_price
+
+# Get price quote for swapping USDC to SOL
+usdc_mint = "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+sol_mint = "So11111111111111111111111111111111111111112"
+amount = 10  # 10 USDC
+quote = get_swap_quote(usdc_mint, sol_mint, amount)
+print(f"Expected output: {quote['outAmount']} lamports")
+
+# Execute the swap
+signature = perform_swap(client, keypair, usdc_mint, sol_mint, amount)
+print(f"Swap transaction signature: {signature}")
+
+# Get token price
+price = get_token_price(usdc_mint)
+print(f"USDC price: ${price}")
+```
+
+### Transaction Optimization
+
+```python
+from dexscreener_charts import (
+    set_priority_fee,
+    set_compute_budget,
+    get_latest_blockhash,
+    send_transaction
+)
+from solders.transaction import Transaction
+
+# Create a transaction
+transaction = Transaction()
+# Add your instructions here...
+
+# Set compute budget
+transaction = set_compute_budget(transaction, 200000)
+
+# Set priority fee (in micro-lamports)
+transaction = set_priority_fee(transaction, 1000000)
+
+# Set recent blockhash and fee payer
+transaction.recent_blockhash = get_latest_blockhash(client)
+transaction.fee_payer = keypair.pubkey()
+
+# Sign and send transaction
+signature = send_transaction(client, transaction, [keypair])
+print(f"Transaction signature: {signature}")
+```
+
+### Helper Utilities
+
+```python
+from dexscreener_charts import (
+    get_transaction_explorer_url,
+    get_address_explorer_url,
+    estimate_transaction_fee
+)
+
+# Get Explorer URLs
+tx_url = get_transaction_explorer_url(signature)
+print(f"View transaction: {tx_url}")
+
+address_url = get_address_explorer_url(str(keypair.pubkey()))
+print(f"View address: {address_url}")
+
+# Estimate transaction fee
+fee = estimate_transaction_fee(client, transaction)
+print(f"Estimated fee: {fee} lamports")
+```
+
+## Advanced Usage
+
+### Devnet Testing with Airdrop
+
+```python
+from dexscreener_charts import airdrop_sol
+
+# Create a devnet client
+devnet_client = create_client("https://api.devnet.solana.com")
+
+# Request an airdrop of 1 SOL
+signature = airdrop_sol(devnet_client, keypair.pubkey(), 1.0)
+print(f"Airdrop signature: {signature}")
+```
+
+### Creating Custom Instructions
+
+```python
+from solders.instruction import Instruction, AccountMeta
+from solders.pubkey import Pubkey
+
+# Example: Create a custom instruction
+program_id = Pubkey.from_string("Your_Program_ID")
+accounts = [
+    AccountMeta(keypair.pubkey(), True, True),  # Writable and signer
+    AccountMeta(Pubkey.from_string("Another_Account"), False, True),  # Writable but not signer
+]
+data = bytes([1, 2, 3, 4])  # Your instruction data
+
+custom_instruction = Instruction(
+    program_id=program_id,
+    accounts=accounts,
+    data=data
+)
+
+# Add to transaction
+transaction = Transaction().add(custom_instruction)
+```
+
+## Error Handling
+
+The library uses exceptions to report errors. It's recommended to wrap your code in try-except blocks to handle potential errors:
+
+```python
+try:
+    signature = transfer_sol(client, keypair, recipient, amount)
+    print(f"Transaction signature: {signature}")
+except Exception as e:
+    print(f"Error: {str(e)}")
+```
+
+## Design Philosophy
+
+This library is designed with the following principles in mind:
+
+1. **Functional Approach**: All operations are implemented as standalone functions, making the code modular and composable.
+2. **Minimal Dependencies**: The library minimizes external dependencies, focusing on solders for core functionality.
+3. **Simplicity**: Clear, straightforward API design prioritizes ease of use.
+4. **Performance**: Efficient implementations ensure optimal performance for blockchain interactions.
+
+## Future Enhancements
+
+- Websocket support for real-time updates
+- More comprehensive token program operations
+- Enhanced error handling and retry mechanisms
+- Staking and governance support
+- NFT handling capabilities
+
+## Contributing
+
+Contributions are welcome! Feel free to submit pull requests or open issues to improve the library.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+## Full API Reference
+
+### Client Functions
+
+- `create_client(rpc_url: str = "https://api.mainnet-beta.solana.com", timeout: int = 30) -> Client`
+
+### Account Functions
+
+- `get_balance(client: Client, pubkey: Union[str, Pubkey]) -> float`
+- `get_token_balance(client: Client, token_account: Union[str, Pubkey]) -> Dict`
+- `get_token_accounts(client: Client, owner: Union[str, Pubkey]) -> List[Dict]`
+
+### Keypair and Wallet Functions
+
+- `create_keypair() -> Keypair`
+- `keypair_from_secret(secret_key: Union[str, List[int], bytes]) -> Keypair`
+- `create_solana_wallet() -> Dict`
+
+### Transaction Functions
+
+- `get_latest_blockhash(client: Client) -> Hash`
+- `send_transaction(client: Client, transaction: Transaction, signers: List[Keypair]) -> str`
+- `get_transaction_status(client: Client, signature: str) -> Dict`
+- `wait_for_confirmation(client: Client, signature: str, max_attempts: int = 20, sleep_time: int = 1) -> Dict`
+- `estimate_transaction_fee(client: Client, transaction: Transaction) -> int`
+
+### Transfer Functions
+
+- `transfer_sol(client: Client, from_keypair: Keypair, to_pubkey: Union[str, Pubkey], amount_sol: float) -> str`
+- `transfer_token(client: Client, from_keypair: Keypair, to_pubkey: Union[str, Pubkey], token_mint: Union[str, Pubkey], amount: float, decimals: int = 6) -> str`
+
+### Token Functions
+
+- `find_associated_token_address(wallet_address: Union[str, Pubkey], token_mint_address: Union[str, Pubkey]) -> Pubkey`
+- `create_associated_token_account_instruction(payer: Union[str, Pubkey], wallet_address: Union[str, Pubkey], token_mint_address: Union[str, Pubkey]) -> Instruction`
+- `create_transfer_token_instruction(source: Union[str, Pubkey], destination: Union[str, Pubkey], owner: Union[str, Pubkey], amount: int) -> Instruction`
+
+### Swap Functions
+
+- `get_swap_quote(input_mint: str, output_mint: str, amount: float, slippage_bps: int = 50) -> Dict`
+- `get_swap_transaction(quote_response: Dict, user_pubkey: str) -> Dict`
+- `perform_swap(client: Client, keypair: Keypair, input_mint: str, output_mint: str, amount: float) -> str`
+- `get_token_price(token_mint: str, vs_currency: str = "usd") -> float`
+- `get_tokens_list() -> List[Dict]`
+
+### Utility Functions
+
+- `get_transaction_explorer_url(signature: str, cluster: str = "mainnet-beta") -> str`
+- `get_address_explorer_url(address: str, cluster: str = "mainnet-beta") -> str`
+- `airdrop_sol(client: Client, pubkey: Union[str, Pubkey], amount_sol: float = 1.0) -> str`
+- `set_priority_fee(transaction: Transaction, micro_lamports: int) -> Transaction`
+- `set_compute_budget(transaction: Transaction, compute_units: int) -> Transaction`

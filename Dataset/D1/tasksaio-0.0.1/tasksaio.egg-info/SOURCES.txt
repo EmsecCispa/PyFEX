@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+tasksaio/__init__.py
+tasksaio/color.py
+tasksaio.egg-info/PKG-INFO
+tasksaio.egg-info/SOURCES.txt
+tasksaio.egg-info/dependency_links.txt
+tasksaio.egg-info/top_level.txt

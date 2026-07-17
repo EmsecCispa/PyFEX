@@ -1,0 +1,10 @@
+LICENCE
+README.md
+setup.py
+website_scanner/__init__.py
+website_scanner/scanner.py
+website_scanner.egg-info/PKG-INFO
+website_scanner.egg-info/SOURCES.txt
+website_scanner.egg-info/dependency_links.txt
+website_scanner.egg-info/requires.txt
+website_scanner.egg-info/top_level.txt

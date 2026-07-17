@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: threadxpools
+Version: 1.2
+Summary: Una librería para ayudar a emjorar el rendimiento de threading
+Author: jenifer
+Author-email: jenifercodingf@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent

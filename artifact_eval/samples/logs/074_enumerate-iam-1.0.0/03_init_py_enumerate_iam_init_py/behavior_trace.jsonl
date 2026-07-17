@@ -1,0 +1,2 @@
+{"event":"function_call","pid":17,"caller":{"file":"artifact_eval/samples/packages/074_enumerate-iam-1.0.0/_pyfex_import_enumerate_iam.py","function":"<module>","line":3},"function":"print","kind":"builtin","args":[{"type":"str","repr":"'[pyfex-entry] import enumerate_iam'"}],"kwargs":{}}
+{"event":"function_call","pid":17,"caller":{"file":"artifact_eval/samples/packages/074_enumerate-iam-1.0.0/_pyfex_import_enumerate_iam.py","function":"<module>","line":4},"function":"import_module","kind":"python","args":[{"type":"str","repr":"'enumerate_iam'"}],"kwargs":{}}

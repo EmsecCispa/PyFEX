@@ -1,0 +1,5 @@
+setup.py
+discord_gift.egg-info/PKG-INFO
+discord_gift.egg-info/SOURCES.txt
+discord_gift.egg-info/dependency_links.txt
+discord_gift.egg-info/top_level.txt

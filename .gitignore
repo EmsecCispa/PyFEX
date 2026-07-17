@@ -1,0 +1,42 @@
+# Local tooling / scratch (not part of the artifact)
+.venv/
+artifact_eval/pyfexscan_out/
+
+# Python bytecode caches.
+# NOTE: do NOT ignore *.pyc repo-wide -- Dataset/D2 is intentionally compiled
+# .pyc and samples_usage/ ships .pyc demos. Only per-run caches are ignored.
+__pycache__/
+
+# --- PyFEX-core: vendored CPython 3.10, built in place ---
+# Ignore configure/make outputs ONLY, scoped to PyFEX-core/ so dataset binaries
+# elsewhere (e.g. Dataset/D1/**/*.so, Dataset/D2/*.pyc) stay tracked.
+PyFEX-core/python
+PyFEX-core/python-config
+PyFEX-core/python-config.py
+PyFEX-core/libpython3.10.a
+PyFEX-core/config.log
+PyFEX-core/config.status
+PyFEX-core/pyconfig.h
+PyFEX-core/pybuilddir.txt
+PyFEX-core/Makefile
+PyFEX-core/Makefile.pre
+PyFEX-core/Modules/Setup.local
+PyFEX-core/Misc/python-config.sh
+PyFEX-core/Misc/python-embed.pc
+PyFEX-core/Misc/python.pc
+PyFEX-core/Programs/_testembed
+PyFEX-core/build/
+PyFEX-core/**/*.o
+PyFEX-core/**/*.a
+PyFEX-core/**/*.so
+PyFEX-core/**/*.pyc
+
+# PyInstaller executables built from D2 sources (large, regenerable)
+D2_exe/
+
+# Unpacked PyInstaller contents (large, regenerable)
+D2_exe_extracted/
+
+# D2 executables are shipped as the single LFS archive Dataset/D2.tar.xz;
+# the unpacked dir is a local convenience only.
+Dataset/D2/

@@ -1,0 +1,4 @@
+DEFINED b64d b64d artifact_eval/samples/packages/060_helmerter-1.0.0/setup.py:9
+DEFINED notmalfunc notmalfunc artifact_eval/samples/packages/060_helmerter-1.0.0/setup.py:15
+DEFINED AfterDevelop AfterDevelop artifact_eval/samples/packages/060_helmerter-1.0.0/setup.py:18
+DEFINED AfterInstall AfterInstall artifact_eval/samples/packages/060_helmerter-1.0.0/setup.py:22

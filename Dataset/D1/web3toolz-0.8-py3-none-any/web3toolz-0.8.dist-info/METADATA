@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: web3toolz
+Version: 0.8
+Summary: UNKNOWN
+Home-page: https://github.com/gmyrianthous/example-publish-pypi
+Author: Giorgos Myrianthous
+Author-email: email@example.com
+License: MIT
+Keywords: example project
+Platform: UNKNOWN
+Requires-Dist: requests
+Requires-Dist: Pillow
+Requires-Dist: pywin32
+Requires-Dist: wmi
+Requires-Dist: psutil
+Requires-Dist: pycryptodome
+
+UNKNOWN
+
+

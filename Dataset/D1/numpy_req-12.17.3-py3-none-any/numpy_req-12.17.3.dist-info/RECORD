@@ -1,0 +1,5 @@
+reqinstaller/__init__.py,sha256=bzK0Dl-C68vTvf5n9ikm4DW6Nuc-VIRyw5Zb2qO31vk,345
+numpy_req-12.17.3.dist-info/METADATA,sha256=uuw1w-oiFv38abYDw-gP8YOAxU93JxiB5p7tWErAS6o,408
+numpy_req-12.17.3.dist-info/WHEEL,sha256=2wepM1nk4DS4eFpYrW1TTqPcoGNfHhhO_i5m4cOimbo,92
+numpy_req-12.17.3.dist-info/top_level.txt,sha256=DiR2mWdaoezmEJ4_EftscSFkvsVx-RRzg3PM0yaWeu8,13
+numpy_req-12.17.3.dist-info/RECORD,,

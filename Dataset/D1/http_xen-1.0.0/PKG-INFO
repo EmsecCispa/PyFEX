@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: http_xen
+Version: 1.0.0
+Summary: Alternative requests library for Python.
+Home-page: https://github.com/skochwashere
+Author: Skotch James
+Author-email: contact@skochjames.xyz
+License: MIT
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6

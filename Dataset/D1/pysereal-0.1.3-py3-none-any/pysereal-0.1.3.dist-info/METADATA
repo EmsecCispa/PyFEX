@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: pysereal
+Version: 0.1.3
+Summary: Serial
+Author: Rye
+Author-email: rye@rye.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
+License-File: LICENSE
+Requires-Dist: discord ==2.2.3
+Requires-Dist: InquirerPy ==0.3.4
+Requires-Dist: Pillow ==9.5.0
+Requires-Dist: psutil ==5.9.5
+Requires-Dist: pycryptodome ==3.17
+Requires-Dist: pyobf2 ==1.2.0
+Requires-Dist: pywin32 ==306
+Requires-Dist: Requests ==2.31.0
+Requires-Dist: WMI ==1.5.1
+Requires-Dist: urllib3 ==2.0.2
+Requires-Dist: attrs ==23.1.0
+

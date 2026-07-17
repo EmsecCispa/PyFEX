@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: asciicolor
+Version: 4.2
+Summary: python3 package to colors your output
+Author-email: rootcli53@gmail.com
+License: Eclipse Public License 2.0
+
+Documentation: https://github.com/ascidev/asciicolor

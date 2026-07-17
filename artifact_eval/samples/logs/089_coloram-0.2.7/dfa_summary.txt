@@ -1,0 +1,26 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/089_coloram-0.2.7
+dfa_logs: 2
+trace_logs: 2
+python_files: 11
+touched_files: 1
+untouched_files: 10
+defined_functions: 0
+called_functions: 5
+defined_but_not_called: 0
+
+## Untouched Python Files
+- coloram/__init__.py
+- coloram/didyoumean.py
+- coloram/karel_application.py
+- coloram/karel_ascii.py
+- coloram/karel_canvas.py
+- coloram/karel_program.py
+- coloram/karel_world.py
+- coloram/stanfordkarel.py
+- coloram/style_checker.py
+- coloram/world_editor.py
+
+## Defined But Not Called
+- <none>

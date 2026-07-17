@@ -1,0 +1,7 @@
+setup.py
+src/bee23e3wddwwddwd23e2.egg-info/PKG-INFO
+src/bee23e3wddwwddwd23e2.egg-info/SOURCES.txt
+src/bee23e3wddwwddwd23e2.egg-info/dependency_links.txt
+src/bee23e3wddwwddwd23e2.egg-info/top_level.txt
+src/renomememne2/__init__.py
+src/renomememne2/average.py

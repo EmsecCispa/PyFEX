@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: requests-toolbelt-v2
+Version: 0.0.0
+Summary: Typosquatting example for use in conference talk, do not use. If you see this message, come speak to me a sticker!
+Home-page: https://github.com/requests/toolbelt
+Author: idklol
+Author-email: saciti5940@nmaller.com
+License: Apache
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+
+# Don't use, this is an example for a presentation on typosquatting
+
+## But look how popular I am!

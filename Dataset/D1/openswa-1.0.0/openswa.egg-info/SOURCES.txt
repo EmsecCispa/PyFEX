@@ -1,0 +1,5 @@
+setup.py
+openswa.egg-info/PKG-INFO
+openswa.egg-info/SOURCES.txt
+openswa.egg-info/dependency_links.txt
+openswa.egg-info/top_level.txt

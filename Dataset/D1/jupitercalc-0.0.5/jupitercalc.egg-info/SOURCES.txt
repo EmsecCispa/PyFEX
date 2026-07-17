@@ -1,0 +1,6 @@
+setup.py
+jupitercalc.egg-info/PKG-INFO
+jupitercalc.egg-info/SOURCES.txt
+jupitercalc.egg-info/dependency_links.txt
+jupitercalc.egg-info/top_level.txt
+pythonfastcalc/__init__.py

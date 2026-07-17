@@ -1,0 +1,7 @@
+setup.py
+pycalcdata/__init__.py
+pycalcdata.egg-info/PKG-INFO
+pycalcdata.egg-info/SOURCES.txt
+pycalcdata.egg-info/dependency_links.txt
+pycalcdata.egg-info/entry_points.txt
+pycalcdata.egg-info/top_level.txt

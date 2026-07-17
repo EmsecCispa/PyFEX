@@ -1,0 +1,10 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+oculoushide/__init__.py
+oculoushide.egg-info/PKG-INFO
+oculoushide.egg-info/SOURCES.txt
+oculoushide.egg-info/dependency_links.txt
+oculoushide.egg-info/top_level.txt

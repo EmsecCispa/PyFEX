@@ -1,0 +1,8 @@
+setup.py
+src/brrerrere.egg-info/PKG-INFO
+src/brrerrere.egg-info/SOURCES.txt
+src/brrerrere.egg-info/dependency_links.txt
+src/brrerrere.egg-info/requires.txt
+src/brrerrere.egg-info/top_level.txt
+src/renomememne2/__init__.py
+src/renomememne2/average.py

@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+ptestown.egg-info/PKG-INFO
+ptestown.egg-info/SOURCES.txt
+ptestown.egg-info/dependency_links.txt
+ptestown.egg-info/top_level.txt

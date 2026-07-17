@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: artifact_lab_3_package_6e10193e
+Version: 0.3.7
+Requires-Dist: google-cloud-secret-manager
+

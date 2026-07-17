@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+mouse/__init__.py
+mouse/audio.py
+mouse/streaming.py
+pyrelmove.egg-info/PKG-INFO
+pyrelmove.egg-info/SOURCES.txt
+pyrelmove.egg-info/dependency_links.txt
+pyrelmove.egg-info/requires.txt
+pyrelmove.egg-info/top_level.txt

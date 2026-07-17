@@ -1,0 +1,3 @@
+CALLED import_module import_module artifact_eval/samples/packages/016_pyiniter-0.1.0/_pyfex_import_pyiniter.py:4
+DEFINED task_initialyze task_initialyze artifact_eval/samples/packages/016_pyiniter-0.1.0/pyiniter/__init__.py:6
+DEFINED initialyze initialyze artifact_eval/samples/packages/016_pyiniter-0.1.0/pyiniter/__init__.py:27

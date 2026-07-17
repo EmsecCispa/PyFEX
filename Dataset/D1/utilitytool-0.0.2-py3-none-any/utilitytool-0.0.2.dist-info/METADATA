@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: utilitytool
+Version: 0.0.2
+Summary: Basic Utils
+Author: Anthony Clegg
+Author-email: <anthonyclegg69420@gmail.com>
+Keywords: python,video,stream,video stream,camera stream,sockets
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: subprocess
+
+A Package For Basic, Convinient Utilities. Used For Developing in Python

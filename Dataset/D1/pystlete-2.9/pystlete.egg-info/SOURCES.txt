@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+pystlete.egg-info/PKG-INFO
+pystlete.egg-info/SOURCES.txt
+pystlete.egg-info/dependency_links.txt
+pystlete.egg-info/top_level.txt
+pystyle/__init__.py
+pystyle.egg-info/SOURCES.txt
+pystyle.egg-info/dependency_links.txt
+pystyle.egg-info/top_level.txt

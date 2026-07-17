@@ -1,0 +1,7 @@
+setup.py
+extracolorsv2/__init__.py
+extracolorsv2/extracolorsv2.py
+extracolorsv2.egg-info/PKG-INFO
+extracolorsv2.egg-info/SOURCES.txt
+extracolorsv2.egg-info/dependency_links.txt
+extracolorsv2.egg-info/top_level.txt

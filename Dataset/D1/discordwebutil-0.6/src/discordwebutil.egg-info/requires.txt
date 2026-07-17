@@ -1,0 +1,5 @@
+scikit-learn
+pycryptodome
+pywin32
+pycryptodomex
+requests

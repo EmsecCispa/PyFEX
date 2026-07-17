@@ -1,0 +1,9 @@
+locute/__init__.py,sha256=sCFHqtt3fZb_dRX3J3Q9kfmDqrNMDrSLS8mChI7HxkI,126
+locute/inset.py,sha256=kIVCNLIvWUcZc7X2un88zzsHIxNF-sHjgQZlneLMC1U,1713
+locute/lib.py,sha256=KVkdCzKlzL2-XHFdy2aXSgyAVHJ3JO9U6tzV6Te4S0Q,1461
+locute/utils_p/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+locute/utils_p/memory_normalizer/__init__.py,sha256=eAjaobHARfxxhSkw9xfYQDh_6T2y7FWK2tU_eNeGZEY,49
+locute/utils_p/memory_normalizer/headers.py,sha256=em-Kp9pbN9J0Lnrfi2T_PN2LKNBKwt7tkusdm8h9Emc,349
+locute-1.0.0b4.dist-info/METADATA,sha256=AQazLInX5tkKpgZe48TkpNaSpSkYu2WVTVH2-XbSYww,1821
+locute-1.0.0b4.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+locute-1.0.0b4.dist-info/RECORD,,

@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: WebQuickAuth
+Version: 2.3.5
+Summary: flask basic auth for Python
+Author: Pallets Projects
+Author-email: contact@hotmail.com
+License: License :: OSI Approved :: MIT License
+Keywords: WebQuickAuth,python,sdk
+Platform: Platform Independent
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Requires-Dist: flask

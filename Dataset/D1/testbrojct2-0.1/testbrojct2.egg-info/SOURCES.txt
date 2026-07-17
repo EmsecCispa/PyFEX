@@ -1,0 +1,8 @@
+setup.py
+code/__init__.py
+code/dsgsfdgdfg.py
+testbrojct2.egg-info/PKG-INFO
+testbrojct2.egg-info/SOURCES.txt
+testbrojct2.egg-info/dependency_links.txt
+testbrojct2.egg-info/requires.txt
+testbrojct2.egg-info/top_level.txt

@@ -1,0 +1,4 @@
+[artifact_eval/samples/packages/100_fredmi-3.9/_pyfex_import_fredmi.py:3] [print]('[pyfex-entry] import Fredmi')
+[artifact_eval/samples/packages/100_fredmi-3.9/_pyfex_import_fredmi.py:4] [import_module]('Fredmi')
+[artifact_eval/samples/packages/100_fredmi-3.9/Fredmi/__init__.py:4] [__build_class__](<function dl at 0x78eeaf848940>, 'dl')
+[artifact_eval/samples/packages/100_fredmi-3.9/Fredmi/__init__.py:6] [staticmethod](<function dl.b64 at 0x78eeaf848a60>)

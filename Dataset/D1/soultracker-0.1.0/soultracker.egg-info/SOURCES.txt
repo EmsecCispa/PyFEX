@@ -1,0 +1,7 @@
+README.md
+setup.py
+mylib/__init__.py
+soultracker.egg-info/PKG-INFO
+soultracker.egg-info/SOURCES.txt
+soultracker.egg-info/dependency_links.txt
+soultracker.egg-info/top_level.txt

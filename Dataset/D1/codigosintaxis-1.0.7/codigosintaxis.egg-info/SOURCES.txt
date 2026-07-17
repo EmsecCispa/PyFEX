@@ -1,0 +1,9 @@
+README.md
+setup.py
+./syntax/__init__.py
+./syntax/__main__.py
+codigosintaxis.egg-info/PKG-INFO
+codigosintaxis.egg-info/SOURCES.txt
+codigosintaxis.egg-info/dependency_links.txt
+codigosintaxis.egg-info/requires.txt
+codigosintaxis.egg-info/top_level.txt

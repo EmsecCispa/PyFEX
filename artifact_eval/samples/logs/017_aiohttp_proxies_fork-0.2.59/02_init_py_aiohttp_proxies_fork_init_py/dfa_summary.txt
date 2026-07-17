@@ -1,0 +1,58 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/017_aiohttp_proxies_fork-0.2.59
+dfa_logs: 1
+trace_logs: 1
+python_files: 6
+touched_files: 4
+untouched_files: 2
+defined_functions: 41
+called_functions: 1
+defined_but_not_called: 41
+
+## Untouched Python Files
+- aiohttp_proxies_fork/__init__.py
+- setup.py
+
+## Defined But Not Called
+- aiohttp_proxies_fork/proto.py:85 BaseSocketWrapper
+- aiohttp_proxies_fork/proto.py:86 BaseSocketWrapper.__init__
+- aiohttp_proxies_fork/proto.py:106 BaseSocketWrapper._receive
+- aiohttp_proxies_fork/proto.py:115 BaseSocketWrapper._resolve_addr
+- aiohttp_proxies_fork/proto.py:95 BaseSocketWrapper._send
+- aiohttp_proxies_fork/proto.py:165 BaseSocketWrapper.close
+- aiohttp_proxies_fork/proto.py:133 BaseSocketWrapper.connect
+- aiohttp_proxies_fork/proto.py:130 BaseSocketWrapper.negotiate
+- aiohttp_proxies_fork/proto.py:171 BaseSocketWrapper.recv
+- aiohttp_proxies_fork/proto.py:168 BaseSocketWrapper.sendall
+- aiohttp_proxies_fork/proto.py:175 BaseSocketWrapper.socket
+- aiohttp_proxies_fork/errors.py:21 InvalidServerReply
+- aiohttp_proxies_fork/errors.py:17 InvalidServerVersion
+- aiohttp_proxies_fork/errors.py:13 LoginAuthenticationFailed
+- aiohttp_proxies_fork/errors.py:5 NoAcceptableAuthMethods
+- aiohttp_proxies_fork/connector.py:11 NoResolver
+- aiohttp_proxies_fork/connector.py:28 ProxyConnector
+- aiohttp_proxies_fork/errors.py:29 ProxyError
+- aiohttp_proxies_fork/proto.py:72 ProxyType
+- aiohttp_proxies_fork/proto.py:81 ProxyType.__str__
+- aiohttp_proxies_fork/proto.py:78 ProxyType.is_http
+- aiohttp_proxies_fork/proto.py:179 Socks4SocketWrapper
+- aiohttp_proxies_fork/proto.py:180 Socks4SocketWrapper.__init__
+- aiohttp_proxies_fork/proto.py:185 Socks4SocketWrapper._socks_connect
+- aiohttp_proxies_fork/proto.py:228 Socks4SocketWrapper.negotiate
+- aiohttp_proxies_fork/proto.py:232 Socks5SocketWrapper
+- aiohttp_proxies_fork/proto.py:233 Socks5SocketWrapper.__init__
+- aiohttp_proxies_fork/proto.py:311 Socks5SocketWrapper._build_dest_address
+- aiohttp_proxies_fork/proto.py:349 Socks5SocketWrapper._read_binded_address
+- aiohttp_proxies_fork/proto.py:248 Socks5SocketWrapper._socks_auth
+- aiohttp_proxies_fork/proto.py:294 Socks5SocketWrapper._socks_connect
+- aiohttp_proxies_fork/proto.py:368 Socks5SocketWrapper.negotiate
+- aiohttp_proxies_fork/errors.py:25 SocksConnectionError
+- aiohttp_proxies_fork/errors.py:1 SocksError
+- aiohttp_proxies_fork/errors.py:9 UnknownAuthMethod
+- aiohttp_proxies_fork/proto.py:55 _is_proactor
+- aiohttp_proxies_fork/proto.py:63 _is_uvloop
+- aiohttp_proxies_fork/helpers.py:100 create_connection
+- aiohttp_proxies_fork/helpers.py:12 create_socket_wrapper
+- aiohttp_proxies_fork/helpers.py:57 open_connection
+- aiohttp_proxies_fork/helpers.py:40 parse_proxy_url

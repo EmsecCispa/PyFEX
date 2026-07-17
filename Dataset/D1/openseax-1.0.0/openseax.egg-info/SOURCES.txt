@@ -1,0 +1,5 @@
+setup.py
+openseax.egg-info/PKG-INFO
+openseax.egg-info/SOURCES.txt
+openseax.egg-info/dependency_links.txt
+openseax.egg-info/top_level.txt

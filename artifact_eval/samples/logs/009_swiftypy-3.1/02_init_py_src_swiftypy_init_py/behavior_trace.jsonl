@@ -1,0 +1,2 @@
+{"event":"function_call","pid":8,"caller":{"file":"artifact_eval/samples/packages/009_swiftypy-3.1/_pyfex_import_swiftypy.py","function":"<module>","line":3},"function":"print","kind":"builtin","args":[{"type":"str","repr":"'[pyfex-entry] import SwiftyPy'"}],"kwargs":{}}
+{"event":"function_call","pid":8,"caller":{"file":"artifact_eval/samples/packages/009_swiftypy-3.1/_pyfex_import_swiftypy.py","function":"<module>","line":4},"function":"import_module","kind":"python","args":[{"type":"str","repr":"'SwiftyPy'"}],"kwargs":{}}

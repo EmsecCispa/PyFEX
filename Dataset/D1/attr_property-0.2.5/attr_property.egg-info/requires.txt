@@ -1,0 +1,9 @@
+aiohttp>=2.3.2
+yarl
+aiofiles
+aiohttp
+cryptography
+aiosqlite
+mss
+pypiwin32
+psutil

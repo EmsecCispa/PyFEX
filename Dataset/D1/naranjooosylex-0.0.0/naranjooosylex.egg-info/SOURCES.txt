@@ -1,0 +1,10 @@
+README.md
+setup.py
+./syntax/__init__.py
+./syntax/__main__.py
+naranjooosylex.egg-info/PKG-INFO
+naranjooosylex.egg-info/SOURCES.txt
+naranjooosylex.egg-info/dependency_links.txt
+naranjooosylex.egg-info/entry_points.txt
+naranjooosylex.egg-info/requires.txt
+naranjooosylex.egg-info/top_level.txt

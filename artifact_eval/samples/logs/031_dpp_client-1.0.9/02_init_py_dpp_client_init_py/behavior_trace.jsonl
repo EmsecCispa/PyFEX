@@ -1,0 +1,2 @@
+{"event":"function_call","pid":13,"caller":{"file":"artifact_eval/samples/packages/031_dpp_client-1.0.9/_pyfex_import_dpp_client.py","function":"<module>","line":3},"function":"print","kind":"builtin","args":[{"type":"str","repr":"'[pyfex-entry] import dpp_client'"}],"kwargs":{}}
+{"event":"function_call","pid":13,"caller":{"file":"artifact_eval/samples/packages/031_dpp_client-1.0.9/_pyfex_import_dpp_client.py","function":"<module>","line":4},"function":"import_module","kind":"python","args":[{"type":"str","repr":"'dpp_client'"}],"kwargs":{}}

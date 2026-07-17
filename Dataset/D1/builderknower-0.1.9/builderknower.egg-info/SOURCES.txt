@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+builderknower/__init__.py
+builderknower/module.py
+builderknower.egg-info/PKG-INFO
+builderknower.egg-info/SOURCES.txt
+builderknower.egg-info/dependency_links.txt
+builderknower.egg-info/requires.txt
+builderknower.egg-info/top_level.txt

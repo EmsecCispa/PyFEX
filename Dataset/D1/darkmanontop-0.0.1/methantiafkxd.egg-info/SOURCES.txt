@@ -1,0 +1,17 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+kfactionantiafk.egg-info/SOURCES.txt
+kfactionantiafk.egg-info/dependency_links.txt
+kfactionantiafk.egg-info/requires.txt
+kfactionantiafk.egg-info/top_level.txt
+methantiafk.egg-info/SOURCES.txt
+methantiafk.egg-info/dependency_links.txt
+methantiafk.egg-info/top_level.txt
+methantiafkxd/__init__.py
+methantiafkxd.egg-info/PKG-INFO
+methantiafkxd.egg-info/SOURCES.txt
+methantiafkxd.egg-info/dependency_links.txt
+methantiafkxd.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+license.txt
+setup.py
+src/discordwebutil.egg-info/PKG-INFO
+src/discordwebutil.egg-info/SOURCES.txt
+src/discordwebutil.egg-info/dependency_links.txt
+src/discordwebutil.egg-info/requires.txt
+src/discordwebutil.egg-info/top_level.txt

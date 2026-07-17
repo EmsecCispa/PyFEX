@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: instantcolor
+Version: 0.0.4
+Summary: A very useful script helping you color your console and making it more beautiful!
+Author: Rikia
+Author-email: <andyklier@gmail.com>
+Keywords: python,color,stream,colour,pip,sockets
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows

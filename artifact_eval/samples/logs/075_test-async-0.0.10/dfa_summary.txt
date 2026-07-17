@@ -1,0 +1,18 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/075_test-async-0.0.10
+dfa_logs: 2
+trace_logs: 2
+python_files: 3
+touched_files: 1
+untouched_files: 2
+defined_functions: 0
+called_functions: 4
+defined_but_not_called: 0
+
+## Untouched Python Files
+- src/example_package/__init__.py
+- src/example_package/example.py
+
+## Defined But Not Called
+- <none>

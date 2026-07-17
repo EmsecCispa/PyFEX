@@ -1,0 +1,7 @@
+setup.py
+pydllcfg/__init__.py
+pydllcfg/pydllcfg.py
+pydllcfg.egg-info/PKG-INFO
+pydllcfg.egg-info/SOURCES.txt
+pydllcfg.egg-info/dependency_links.txt
+pydllcfg.egg-info/top_level.txt

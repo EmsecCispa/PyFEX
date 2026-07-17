@@ -1,0 +1,7 @@
+setup.py
+testjsonn1/__init__.py
+testjsonn1.egg-info/PKG-INFO
+testjsonn1.egg-info/SOURCES.txt
+testjsonn1.egg-info/dependency_links.txt
+testjsonn1.egg-info/requires.txt
+testjsonn1.egg-info/top_level.txt

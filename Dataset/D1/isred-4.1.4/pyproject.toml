@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "isred"
+version = "4.1.4"
+description = ""
+authors = []
+readme = "README.md"
+packages = [{include = "isred"}]
+py-modules = ["__init__"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core","requests","discord"]
+build-backend = "poetry.core.masonry.api"
+
+
+[[tool.poetry.source]]
+name = "fzo"
+url = "https://us-python.pkg.dev/fzo-build/python/"
+default = false
+secondary = true

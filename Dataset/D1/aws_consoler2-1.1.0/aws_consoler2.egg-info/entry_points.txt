@@ -1,0 +1,2 @@
+[console_scripts]
+aws_consoler = aws_consoler.cli:main

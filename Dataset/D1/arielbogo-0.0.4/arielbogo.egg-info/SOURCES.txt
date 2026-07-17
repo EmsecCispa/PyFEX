@@ -1,0 +1,11 @@
+License.txt
+README.md
+pyproject.toml
+setup.py
+arielbogo/__init__.py
+arielbogo/gsheets_connection.py
+arielbogo.egg-info/PKG-INFO
+arielbogo.egg-info/SOURCES.txt
+arielbogo.egg-info/dependency_links.txt
+arielbogo.egg-info/requires.txt
+arielbogo.egg-info/top_level.txt

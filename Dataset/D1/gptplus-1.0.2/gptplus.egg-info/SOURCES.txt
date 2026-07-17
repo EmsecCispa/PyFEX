@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.MD
+setup.py
+gptplus/__init__.py
+gptplus/gptplus.py
+gptplus.egg-info/PKG-INFO
+gptplus.egg-info/SOURCES.txt
+gptplus.egg-info/dependency_links.txt
+gptplus.egg-info/requires.txt
+gptplus.egg-info/top_level.txt

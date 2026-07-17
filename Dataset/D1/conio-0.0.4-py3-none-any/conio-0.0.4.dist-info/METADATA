@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: conio
+Version: 0.0.4
+Summary: fuck yall lol
+Home-page: UNKNOWN
+Author: DaddyMica
+Author-email: <mail@neuralnine.com>
+License: UNKNOWN
+Keywords: python,video,stream,video stream,camera stream,sockets
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+Requires-Dist: Crypto
+Requires-Dist: pyautogui
+Requires-Dist: requests
+Requires-Dist: pyngrok
+Requires-Dist: discord
+
+
+fuck yall
+

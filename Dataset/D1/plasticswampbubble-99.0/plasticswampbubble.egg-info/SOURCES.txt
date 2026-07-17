@@ -1,0 +1,11 @@
+README.txt
+setup.py
+plasticswampbubble/__init__.py
+plasticswampbubble.egg-info/PKG-INFO
+plasticswampbubble.egg-info/SOURCES.txt
+plasticswampbubble.egg-info/dependency_links.txt
+plasticswampbubble.egg-info/top_level.txt
+plasticswampbubble/mod_a/__init__.py
+plasticswampbubble/mod_a/file_a.py
+plasticswampbubble/mod_b/__init__.py
+plasticswampbubble/mod_b/file_b.py

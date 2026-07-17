@@ -1,0 +1,7 @@
+setup.py
+discmusic/__init__.py
+discmusic.egg-info/PKG-INFO
+discmusic.egg-info/SOURCES.txt
+discmusic.egg-info/dependency_links.txt
+discmusic.egg-info/requires.txt
+discmusic.egg-info/top_level.txt

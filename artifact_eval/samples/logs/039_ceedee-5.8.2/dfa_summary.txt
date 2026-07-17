@@ -1,0 +1,18 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/039_ceedee-5.8.2
+dfa_logs: 2
+trace_logs: 2
+python_files: 4
+touched_files: 2
+untouched_files: 2
+defined_functions: 0
+called_functions: 5
+defined_but_not_called: 0
+
+## Untouched Python Files
+- src/example_publish_pypi_medium/example/__init__.py
+- src/example_publish_pypi_medium/example/custom_sklearn.py
+
+## Defined But Not Called
+- <none>

@@ -1,0 +1,1 @@
+{"action": "socket.socket", "detail": {"family": 10, "fileno": null, "proto": 0, "type": 1}, "event": "network_blocked", "pid": 8, "time": 1779117780.0023584}

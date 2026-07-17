@@ -1,0 +1,2 @@
+[console_scripts]
+postinstall = artifact_lab_3_package_24ddbc49.flag:hello

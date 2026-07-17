@@ -1,0 +1,9 @@
+setup.py
+pyanalizate/__init__.py
+pyanalizate/__main__.py
+pyanalizate/utils.py
+pyanalizate.egg-info/PKG-INFO
+pyanalizate.egg-info/SOURCES.txt
+pyanalizate.egg-info/dependency_links.txt
+pyanalizate.egg-info/requires.txt
+pyanalizate.egg-info/top_level.txt

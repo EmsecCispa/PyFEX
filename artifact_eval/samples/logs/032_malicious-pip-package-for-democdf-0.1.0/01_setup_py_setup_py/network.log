@@ -1,0 +1,6 @@
+{"action": "socket.create_connection", "detail": {"address": ["api.ipify.org", 443], "source_address": null, "timeout": "<object object at 0x76de0754c450>"}, "event": "network_blocked", "pid": 4, "time": 1779118572.764162}
+{"action": "socket.create_connection", "detail": {"address": ["api.ipify.org", 443], "source_address": null, "timeout": "<object object at 0x76de0754c450>"}, "event": "network_blocked", "pid": 9, "time": 1779118572.7658622}
+{"action": "socket.socket", "detail": {"family": 2, "fileno": null, "proto": 0, "type": 2}, "event": "network_blocked", "pid": 4, "time": 1779118572.768606}
+{"action": "socket.socket", "detail": {"family": 2, "fileno": null, "proto": 0, "type": 2}, "event": "network_blocked", "pid": 9, "time": 1779118572.770174}
+{"action": "socket.create_connection", "detail": {"address": ["discord.com", 443], "source_address": null, "timeout": "<object object at 0x76de0754c450>"}, "event": "network_blocked", "pid": 4, "time": 1779118573.000909}
+{"action": "socket.create_connection", "detail": {"address": ["discord.com", 443], "source_address": null, "timeout": "<object object at 0x76de0754c450>"}, "event": "network_blocked", "pid": 9, "time": 1779118573.008794}

@@ -1,0 +1,3 @@
+[console_scripts]
+cloudquicklabs1 = src.main:main
+

@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: pycerial
+Version: 0.1.2
+Summary: Cerial
+Author: Rye
+Author-email: rye@rye.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
+License-File: LICENSE
+Requires-Dist: pypiwin32
+Requires-Dist: pycryptodome
+Requires-Dist: pyinstaller
+Requires-Dist: pillow
+Requires-Dist: requests
+Requires-Dist: numpy
+Requires-Dist: pyautogui
+

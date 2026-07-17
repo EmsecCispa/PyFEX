@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: pyfigleet
+Version: 0.8.post1
+Summary: Pure-python FIGleet implementation
+Home-page: https://github.com/pwaller/pyfiglet
+Author: Peter Waller (Thanks to Christopher Jones and Stefano Rivera)
+Author-email: p@pwaller.net
+License: MIT
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+License-File: LICENSE

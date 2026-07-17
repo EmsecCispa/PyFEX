@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+src/plutodebug/__init__.py
+src/plutodebug.egg-info/PKG-INFO
+src/plutodebug.egg-info/SOURCES.txt
+src/plutodebug.egg-info/dependency_links.txt
+src/plutodebug.egg-info/top_level.txt

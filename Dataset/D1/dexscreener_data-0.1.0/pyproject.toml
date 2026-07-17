@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools >= 80.8.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dexscreener_data"
+version = "0.1.0"
+description = "The simple and efficient way to interact with the DexScreener API for tracking decentralized exchanges (DEXs)."
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+dependencies = [
+    "requests",
+    "base58",
+    "solana",
+    "solders"
+]

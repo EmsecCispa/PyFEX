@@ -1,0 +1,9 @@
+strstyle/__init__.py,sha256=9wEbLOvvx6e1MjY_lC5gMfZegvCffIFYM1zxix04mzY,536
+strstyle/ansi.py,sha256=beQ3aKea3Q4RLKsJv9SHSbNUSsAM-jBtOZ5HBYEH2dY,1089
+strstyle/styled_string.py,sha256=9_wiqAurbndXFx1Kzmuh-o4JDS-lr0o8kheLg4U9iX4,3220
+strstyle/styled_string_builder.py,sha256=RL_FXWiRnnxUR6qsZHFeznyCqK8sSw35Spi5w-bQX9c,1371
+strstyle-1.1.8.dist-info/LICENSE.txt,sha256=ysNcAmhuXQSlpxQL-zs25zrtSWZW6JEQLkKIhteTAxg,1491
+strstyle-1.1.8.dist-info/METADATA,sha256=OzOWemTOJEGPp4iyraXldZc0UA7neo3bIl5VdP8dtYg,2658
+strstyle-1.1.8.dist-info/WHEEL,sha256=2wepM1nk4DS4eFpYrW1TTqPcoGNfHhhO_i5m4cOimbo,92
+strstyle-1.1.8.dist-info/top_level.txt,sha256=C3Lk917zB76DFfhJBoBUJiaagFw6r76-ggjLUe1mJDc,9
+strstyle-1.1.8.dist-info/RECORD,,

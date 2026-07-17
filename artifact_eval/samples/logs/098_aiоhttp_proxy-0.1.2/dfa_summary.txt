@@ -1,0 +1,59 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/098_aiоhttp_proxy-0.1.2
+dfa_logs: 2
+trace_logs: 2
+python_files: 6
+touched_files: 5
+untouched_files: 1
+defined_functions: 44
+called_functions: 10
+defined_but_not_called: 43
+
+## Untouched Python Files
+- aiоhttp_proxy/__init__.py
+
+## Defined But Not Called
+- aiоhttp_proxy/proto.py:85 BaseSocketWrapper
+- aiоhttp_proxy/proto.py:86 BaseSocketWrapper.__init__
+- aiоhttp_proxy/proto.py:106 BaseSocketWrapper._receive
+- aiоhttp_proxy/proto.py:115 BaseSocketWrapper._resolve_addr
+- aiоhttp_proxy/proto.py:95 BaseSocketWrapper._send
+- aiоhttp_proxy/proto.py:165 BaseSocketWrapper.close
+- aiоhttp_proxy/proto.py:133 BaseSocketWrapper.connect
+- aiоhttp_proxy/proto.py:130 BaseSocketWrapper.negotiate
+- aiоhttp_proxy/proto.py:171 BaseSocketWrapper.recv
+- aiоhttp_proxy/proto.py:168 BaseSocketWrapper.sendall
+- aiоhttp_proxy/proto.py:175 BaseSocketWrapper.socket
+- aiоhttp_proxy/errors.py:21 InvalidServerReply
+- aiоhttp_proxy/errors.py:17 InvalidServerVersion
+- aiоhttp_proxy/errors.py:13 LoginAuthenticationFailed
+- aiоhttp_proxy/errors.py:5 NoAcceptableAuthMethods
+- aiоhttp_proxy/connector.py:11 NoResolver
+- aiоhttp_proxy/connector.py:28 ProxyConnector
+- aiоhttp_proxy/errors.py:29 ProxyError
+- aiоhttp_proxy/proto.py:72 ProxyType
+- aiоhttp_proxy/proto.py:81 ProxyType.__str__
+- aiоhttp_proxy/proto.py:78 ProxyType.is_http
+- aiоhttp_proxy/proto.py:179 Socks4SocketWrapper
+- aiоhttp_proxy/proto.py:180 Socks4SocketWrapper.__init__
+- aiоhttp_proxy/proto.py:185 Socks4SocketWrapper._socks_connect
+- aiоhttp_proxy/proto.py:228 Socks4SocketWrapper.negotiate
+- aiоhttp_proxy/proto.py:232 Socks5SocketWrapper
+- aiоhttp_proxy/proto.py:233 Socks5SocketWrapper.__init__
+- aiоhttp_proxy/proto.py:311 Socks5SocketWrapper._build_dest_address
+- aiоhttp_proxy/proto.py:349 Socks5SocketWrapper._read_binded_address
+- aiоhttp_proxy/proto.py:248 Socks5SocketWrapper._socks_auth
+- aiоhttp_proxy/proto.py:294 Socks5SocketWrapper._socks_connect
+- aiоhttp_proxy/proto.py:368 Socks5SocketWrapper.negotiate
+- aiоhttp_proxy/errors.py:25 SocksConnectionError
+- aiоhttp_proxy/errors.py:1 SocksError
+- aiоhttp_proxy/errors.py:9 UnknownAuthMethod
+- aiоhttp_proxy/proto.py:55 _is_proactor
+- aiоhttp_proxy/proto.py:63 _is_uvloop
+- aiоhttp_proxy/helpers.py:100 create_connection
+- aiоhttp_proxy/helpers.py:12 create_socket_wrapper
+- aiоhttp_proxy/helpers.py:57 open_connection
+- aiоhttp_proxy/helpers.py:40 parse_proxy_url
+- setup.py:22 rand
+- setup.py:29 sb_proc

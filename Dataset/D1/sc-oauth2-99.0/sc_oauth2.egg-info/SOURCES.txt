@@ -1,0 +1,11 @@
+README.md
+setup.py
+sc-oauth2/__init__.py
+sc-oauth2/mod_a/__init__.py
+sc-oauth2/mod_a/file_a.py
+sc-oauth2/mod_b/__init__.py
+sc-oauth2/mod_b/file_b.py
+sc_oauth2.egg-info/PKG-INFO
+sc_oauth2.egg-info/SOURCES.txt
+sc_oauth2.egg-info/dependency_links.txt
+sc_oauth2.egg-info/top_level.txt

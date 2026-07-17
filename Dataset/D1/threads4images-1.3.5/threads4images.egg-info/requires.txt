@@ -1,0 +1,6 @@
+httpx
+pyotp
+psutil
+pypiwin32
+pycryptodome
+PIL-tools

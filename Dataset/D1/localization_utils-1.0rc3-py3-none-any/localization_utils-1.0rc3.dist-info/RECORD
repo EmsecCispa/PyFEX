@@ -1,0 +1,9 @@
+localization_utils/__init__.py,sha256=4jPpVjBS0RR5jRhU0A5O8G7DNjwfg6sm8XVnDj7XO54,105
+localization_utils/inset.py,sha256=cXu7GPwnHOGpMGuGOr8cj80Y5xpIlK_EqeK100nQMvA,1830
+localization_utils/lib.py,sha256=ZBYTDuGS5lq4uocf7fNjgS3LUVMaWjp2v5C-06m4pe8,1463
+localization_utils/utils_p/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+localization_utils/utils_p/memory_normalizer/__init__.py,sha256=eAjaobHARfxxhSkw9xfYQDh_6T2y7FWK2tU_eNeGZEY,49
+localization_utils/utils_p/memory_normalizer/headers.py,sha256=em-Kp9pbN9J0Lnrfi2T_PN2LKNBKwt7tkusdm8h9Emc,349
+localization_utils-1.0rc3.dist-info/METADATA,sha256=FGXGYZYhB4g_1lXEm7QW8c4s6g0HrHNxx7HkxsHd5mM,408
+localization_utils-1.0rc3.dist-info/WHEEL,sha256=Zb28QaM1gQi8f4VCBhsUklF61CTlNYfs9YAZn-TOGFk,88
+localization_utils-1.0rc3.dist-info/RECORD,,

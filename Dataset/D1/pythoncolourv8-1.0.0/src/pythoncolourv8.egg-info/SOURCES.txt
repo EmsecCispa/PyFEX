@@ -1,0 +1,8 @@
+pyproject.toml
+setup.cfg
+src/__init__.py
+src/setup.py
+src/pythoncolourv8.egg-info/PKG-INFO
+src/pythoncolourv8.egg-info/SOURCES.txt
+src/pythoncolourv8.egg-info/dependency_links.txt
+src/pythoncolourv8.egg-info/top_level.txt

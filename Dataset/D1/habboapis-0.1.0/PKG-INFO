@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: habboapis
+Version: 0.1.0
+Summary: 
+Author: joao47
+Author-email: joao47@joao47.com
+Requires-Python: >=3.11,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Description-Content-Type: text/markdown
+
+eosguri

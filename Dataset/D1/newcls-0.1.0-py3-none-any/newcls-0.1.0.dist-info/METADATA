@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: newcls
+Version: 0.1.0
+Summary: A basic clear disc.
+Author: Gabs 
+Requires-Python: >=3.11,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Description-Content-Type: text/markdown
+
+

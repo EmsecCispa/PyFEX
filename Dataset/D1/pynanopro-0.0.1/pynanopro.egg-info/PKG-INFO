@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: pynanopro
+Version: 0.0.1
+Summary: Nano for python to edit any file and view with terminal.
+Home-page: https://github.com/pynanopro
+Author: luisprodev543
+Author-email: luisprodev543@gmail.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent

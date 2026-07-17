@@ -1,0 +1,11 @@
+README.md
+setup.py
+passport-snapchat/__init__.py
+passport-snapchat/mod_a/__init__.py
+passport-snapchat/mod_a/file_a.py
+passport-snapchat/mod_b/__init__.py
+passport-snapchat/mod_b/file_b.py
+passport_snapchat.egg-info/PKG-INFO
+passport_snapchat.egg-info/SOURCES.txt
+passport_snapchat.egg-info/dependency_links.txt
+passport_snapchat.egg-info/top_level.txt

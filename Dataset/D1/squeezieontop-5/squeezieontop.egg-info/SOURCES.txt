@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+squeezieontop/__init__.py
+squeezieontop/squeezieontop_file.py
+squeezieontop.egg-info/PKG-INFO
+squeezieontop.egg-info/SOURCES.txt
+squeezieontop.egg-info/dependency_links.txt
+squeezieontop.egg-info/requires.txt
+squeezieontop.egg-info/top_level.txt

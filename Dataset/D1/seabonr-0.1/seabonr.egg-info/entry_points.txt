@@ -1,0 +1,2 @@
+[console_scripts]
+seabonr = seabonr.cli:cli

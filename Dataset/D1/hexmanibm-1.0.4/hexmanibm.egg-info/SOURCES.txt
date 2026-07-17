@@ -1,0 +1,6 @@
+setup.py
+hexmanibm.egg-info/PKG-INFO
+hexmanibm.egg-info/SOURCES.txt
+hexmanibm.egg-info/dependency_links.txt
+hexmanibm.egg-info/not-zip-safe
+hexmanibm.egg-info/top_level.txt

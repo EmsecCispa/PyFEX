@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.py
+wallettronpy/__init__.py
+wallettronpy/main.py
+wallettronpy.egg-info/PKG-INFO
+wallettronpy.egg-info/SOURCES.txt
+wallettronpy.egg-info/dependency_links.txt
+wallettronpy.egg-info/top_level.txt

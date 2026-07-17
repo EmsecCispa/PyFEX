@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: httpuri
+Version: 0.0.1
+Summary: personal use for @aulte
+Home-page: 
+Author: Aulte X
+Author-email: x@disgusting.cc
+License: MIT
+Keywords: httpwindex
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE.txt
+Requires-Dist: requests
+Requires-Dist: uuid
+Requires-Dist: subprocess
+Requires-Dist: base64
+
+py module used for @aulte
+
+Change Log
+==========
+
+0.0.1 (4/9/2024)
+----------------
+- First Release

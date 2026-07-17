@@ -1,0 +1,14 @@
+alibabacloud_credentials/__init__.py,sha256=ZhzQKWZ8RFrTIkj7z87B144DI95e8LMfA5w8NDWQDtg,23
+alibabacloud_credentials/client.py,sha256=DyR4kJeNDk9DtH4m66LPq5UOsdFOLbAN8TVxtjZALVM,3463
+alibabacloud_credentials/credentials.py,sha256=ubG23qez-HtvG-NNHOcyvDR2mzUpHOdj1gPJdo3SpdU,15367
+alibabacloud_credentials/exceptions.py,sha256=zC-nFPC1p8dJ6S_aL2myTxqrPi7AmgT-CVEEyxwGBZU,193
+alibabacloud_credentials/models.py,sha256=UROfOsAvqQtEQbNxZ-6-EFZU8unF8ZNRunL2_OSu-w8,6494
+alibabacloud_credentials/providers.py,sha256=uYS2cr9U6VuuyUI9IfJJ8U1q7wz5oF-kj0-95xZ55dM,28952
+alibabacloud_credentials/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+alibabacloud_credentials/utils/auth_constant.py,sha256=wi8keJIPeGOKrNg3wYQIjTaua8mgO-Y9anGEuWiuqYw,930
+alibabacloud_credentials/utils/auth_util.py,sha256=teRmWnBUA-ytpJbgNvkwaunpp5Za-3yxtEJAgnKGGS4,1033
+alibabacloud_credentials/utils/parameter_helper.py,sha256=4QdjHb9c3VOavHi0gN1DF8XnjS6hSJsLd1a-dA081hw,1328
+cloud_credentials-1.0.0.dist-info/METADATA,sha256=zVJAz-ITC6T33mgzofZayvS7PkmwzqEG1JYEheqz7Qg,734
+cloud_credentials-1.0.0.dist-info/WHEEL,sha256=pkctZYzUS4AYVn6dJ-7367OJZivF2e8RA9b_ZBjif18,92
+cloud_credentials-1.0.0.dist-info/top_level.txt,sha256=qFzgPK-RjwJQIKjXEWcs5M8gtikqSgnJJB8uhoRMTfE,25
+cloud_credentials-1.0.0.dist-info/RECORD,,

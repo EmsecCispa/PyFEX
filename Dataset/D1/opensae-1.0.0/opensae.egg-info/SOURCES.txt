@@ -1,0 +1,5 @@
+setup.py
+opensae.egg-info/PKG-INFO
+opensae.egg-info/SOURCES.txt
+opensae.egg-info/dependency_links.txt
+opensae.egg-info/top_level.txt

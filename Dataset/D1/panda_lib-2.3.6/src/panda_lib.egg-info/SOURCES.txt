@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/gollum/__init__.py
+src/gollum/experimental.py
+src/gollum/phoenix.py
+src/gollum/precomputed_spectrum.py
+src/gollum/sonora.py
+src/gollum/telluric.py
+src/gollum/utilities.py
+src/panda_lib.egg-info/PKG-INFO
+src/panda_lib.egg-info/SOURCES.txt
+src/panda_lib.egg-info/dependency_links.txt
+src/panda_lib.egg-info/requires.txt
+src/panda_lib.egg-info/top_level.txt

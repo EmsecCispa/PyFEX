@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: nnabla-ext-cuda101-nccl2-ubuntu16
+Version: 1.4.0
+Summary: A CUDA(10.1) and cuDNN(7.6.3) extension of NNabla
+Home-page: https://github.com/sony/nnabla-ext-cuda
+Author: Takuya Narihira, Sony Corporation
+Author-email: nnabla@googlegroups.com
+License: Apache License 2.0
+Keywords: deep learning artificial intelligence machine learning neural network cuda
+Platform: CUDA 10.1
+Platform: cuDNN 7.6.3
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: C++
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: MacOS :: MacOS X
+Requires-Python: >=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*
+Requires-Dist: setuptools
+Requires-Dist: nnabla-ubuntu16 (==1.4.0)
+
+UNKNOWN
+
+

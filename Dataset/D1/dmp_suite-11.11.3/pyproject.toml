@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dmp_suite"
+version = "11.11.3"
+authors = [
+  { name="Thomas Anderson", email="t.a.neo@yandex.ru" },
+]
+description = "I created this package for security testing. I am bughunter from Yandex"
+requires-python = ">=3.0"
+readme = "README.md"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]

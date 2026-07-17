@@ -1,0 +1,3 @@
+[console_scripts]
+hii = zebo:hello
+post_install_script = zebo.scripts.runner:i_am_cute

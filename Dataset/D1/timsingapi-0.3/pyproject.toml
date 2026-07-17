@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "timsingapi"
+version = "0.3"
+description = "skahblah."
+authors = [
+  { name="Security Researcher", email="johnblanzia@johnblanzia.com" }
+]
+readme = "README.md"
+requires-python = ">=3.6"
+
+[tool.setuptools.packages.find]
+where = ["."]

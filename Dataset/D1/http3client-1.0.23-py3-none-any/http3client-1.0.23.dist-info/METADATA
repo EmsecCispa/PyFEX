@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: http3client
+Version: 1.0.23
+Requires-Dist: requests
+

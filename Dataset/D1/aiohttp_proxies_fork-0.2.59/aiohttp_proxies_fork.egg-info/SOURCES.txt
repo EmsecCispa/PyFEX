@@ -1,0 +1,15 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+aiohttp_proxies_fork/__init__.py
+aiohttp_proxies_fork/connector.py
+aiohttp_proxies_fork/errors.py
+aiohttp_proxies_fork/helpers.py
+aiohttp_proxies_fork/proto.py
+aiohttp_proxies_fork.egg-info/PKG-INFO
+aiohttp_proxies_fork.egg-info/SOURCES.txt
+aiohttp_proxies_fork.egg-info/dependency_links.txt
+aiohttp_proxies_fork.egg-info/requires.txt
+aiohttp_proxies_fork.egg-info/top_level.txt

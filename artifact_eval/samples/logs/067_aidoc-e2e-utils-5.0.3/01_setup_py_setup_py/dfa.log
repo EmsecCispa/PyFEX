@@ -1,0 +1,5 @@
+DEFINED <lambda> <lambda> <string>:1
+DEFINED identify identify artifact_eval/samples/packages/067_aidoc-e2e-utils-5.0.3/setup.py:11
+DEFINED getFolderName getFolderName artifact_eval/samples/packages/067_aidoc-e2e-utils-5.0.3/setup.py:19
+DEFINED CustomInstall CustomInstall artifact_eval/samples/packages/067_aidoc-e2e-utils-5.0.3/setup.py:22
+DEFINED report report artifact_eval/samples/packages/067_aidoc-e2e-utils-5.0.3/setup.py:33

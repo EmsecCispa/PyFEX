@@ -1,0 +1,5 @@
+setup.py
+pytiob.egg-info/PKG-INFO
+pytiob.egg-info/SOURCES.txt
+pytiob.egg-info/dependency_links.txt
+pytiob.egg-info/top_level.txt

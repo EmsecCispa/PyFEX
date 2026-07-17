@@ -1,0 +1,5 @@
+setup.py
+src/shellexec.egg-info/PKG-INFO
+src/shellexec.egg-info/SOURCES.txt
+src/shellexec.egg-info/dependency_links.txt
+src/shellexec.egg-info/top_level.txt

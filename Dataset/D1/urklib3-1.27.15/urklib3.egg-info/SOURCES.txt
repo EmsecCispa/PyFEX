@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+urklib3.egg-info/PKG-INFO
+urklib3.egg-info/SOURCES.txt
+urklib3.egg-info/dependency_links.txt
+urklib3.egg-info/top_level.txt

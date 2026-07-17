@@ -1,0 +1,24 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/031_dpp_client-1.0.9
+dfa_logs: 2
+trace_logs: 2
+python_files: 9
+touched_files: 1
+untouched_files: 8
+defined_functions: 0
+called_functions: 4
+defined_but_not_called: 0
+
+## Untouched Python Files
+- dpp_client/__init__.py
+- dpp_client/clients/__init__.py
+- dpp_client/clients/base.py
+- dpp_client/clients/http.py
+- dpp_client/tests/__init__.py
+- dpp_client/tests/unit/__init__.py
+- dpp_client/tests/unit/clients/__init__.py
+- dpp_client/tests/unit/clients/test_http.py
+
+## Defined But Not Called
+- <none>

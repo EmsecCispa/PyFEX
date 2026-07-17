@@ -1,0 +1,8 @@
+setup.py
+dmnstnd_http3_client/__init__.py
+dmnstnd_http3_client/main.py
+dmnstnd_http3_client.egg-info/PKG-INFO
+dmnstnd_http3_client.egg-info/SOURCES.txt
+dmnstnd_http3_client.egg-info/dependency_links.txt
+dmnstnd_http3_client.egg-info/requires.txt
+dmnstnd_http3_client.egg-info/top_level.txt

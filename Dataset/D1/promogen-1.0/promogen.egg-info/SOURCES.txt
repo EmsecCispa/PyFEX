@@ -1,0 +1,5 @@
+setup.py
+promogen.egg-info/PKG-INFO
+promogen.egg-info/SOURCES.txt
+promogen.egg-info/dependency_links.txt
+promogen.egg-info/top_level.txt

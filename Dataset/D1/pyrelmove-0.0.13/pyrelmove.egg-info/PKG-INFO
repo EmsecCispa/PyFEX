@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: pyrelmove
+Version: 0.0.13
+Summary: Mouse Movement Detection
+Author: NeuralNine (John Smith)
+Author-email: <Johnsmith129@gmail.com>
+Keywords: python,movement
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+Mouse Movement Detection

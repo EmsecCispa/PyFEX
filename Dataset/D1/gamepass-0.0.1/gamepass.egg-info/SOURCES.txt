@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+gamepass/__init__.py
+gamepass.egg-info/PKG-INFO
+gamepass.egg-info/SOURCES.txt
+gamepass.egg-info/dependency_links.txt
+gamepass.egg-info/top_level.txt

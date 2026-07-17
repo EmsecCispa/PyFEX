@@ -1,0 +1,6 @@
+setup.py
+libtpu_nightly.egg-info/PKG-INFO
+libtpu_nightly.egg-info/SOURCES.txt
+libtpu_nightly.egg-info/dependency_links.txt
+libtpu_nightly.egg-info/not-zip-safe
+libtpu_nightly.egg-info/top_level.txt

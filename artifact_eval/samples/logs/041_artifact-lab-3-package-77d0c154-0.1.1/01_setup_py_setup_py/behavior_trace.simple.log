@@ -1,0 +1,8 @@
+[<string>:1] [__new__](<enum 'Purpose'>, (129, 'serverAuth', 'TLS Web Server Authentication', '1.3.6.1.5.5.7.3.1'))
+[<string>:1] [__new__](<class 'ssl._ASN1Object'>, (129, 'serverAuth', 'TLS Web Server Authentication', '1.3.6.1.5.5.7.3.1'))
+[<string>:1] [__new__](<enum 'Purpose'>, (130, 'clientAuth', 'TLS Web Client Authentication', '1.3.6.1.5.5.7.3.2'))
+[<string>:1] [__new__](<class 'ssl._ASN1Object'>, (130, 'clientAuth', 'TLS Web Client Authentication', '1.3.6.1.5.5.7.3.2'))
+[artifact_eval/samples/packages/041_artifact-lab-3-package-77d0c154-0.1.1/setup.py:17] [__build_class__](<function AfterDevelop at 0x76fa9ef9c430>, 'AfterDevelop', <DummyObject No module named 'setuptools'@setup.py:2>)
+[artifact_eval/samples/packages/041_artifact-lab-3-package-77d0c154-0.1.1/setup.py:22] [__build_class__](<function AfterInstall at 0x76fa9ef9c430>, 'AfterInstall', <DummyObject No module named 'setuptools'@setup.py:1>)
+[artifact_eval/samples/packages/041_artifact-lab-3-package-77d0c154-0.1.1/setup.py:37] [DummyObject]()
+[artifact_eval/samples/packages/041_artifact-lab-3-package-77d0c154-0.1.1/setup.py:27] [DummyObject](classifiers=['Programming Language :: Python :: 3', 'License :: OSI Approved :: MIT License', 'Operating System :: OS Independent'], cmdclass={'develop': <DummyObject No module named 'setuptools'@setup.py:2>, 'install': <DummyObject No module named 'setuptools'@setup.py:1>}, long_description='long description', long_description_content_type='text/markdown', name='artifact-lab-3-package-77d0c154', packages=<DummyObject No module named 'setuptools'@setup.py:2>, python_requires='>=3.6', version='0.1.1')

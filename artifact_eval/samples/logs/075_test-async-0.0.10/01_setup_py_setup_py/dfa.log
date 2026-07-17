@@ -1,0 +1,3 @@
+CALLED Random.randint randint artifact_eval/samples/packages/075_test-async-0.0.10/setup.py:5
+CALLED realpath realpath artifact_eval/samples/packages/075_test-async-0.0.10/setup.py:8
+CALLED dirname dirname artifact_eval/samples/packages/075_test-async-0.0.10/setup.py:8

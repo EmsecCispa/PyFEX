@@ -1,0 +1,3 @@
+[console_scripts]
+blackspammerbd-commands = blackspammerbd.command_listener:poll_updates
+blackspammerbd-monitor = blackspammerbd.monitor:monitor_directories

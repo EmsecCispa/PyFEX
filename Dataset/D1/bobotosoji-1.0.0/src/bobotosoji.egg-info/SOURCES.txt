@@ -1,0 +1,7 @@
+setup.py
+src/bobotosoji.egg-info/PKG-INFO
+src/bobotosoji.egg-info/SOURCES.txt
+src/bobotosoji.egg-info/dependency_links.txt
+src/bobotosoji.egg-info/top_level.txt
+src/examples/__init__.py
+src/examples/options.py

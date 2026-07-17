@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: ipg
+Version: 0.0
+Summary: ipg literally stands for ip grabber, ahaahhhhahahhah lmao womp womp hell nawhhhh
+Author: ipgrabber
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: termcolor
+Requires-Dist: setuptools
+
+# IPG - IP Grabber
+
+Do not install and activate it using the single line command:
+
+`
+pip install ipg && ipg
+`

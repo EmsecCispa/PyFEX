@@ -1,0 +1,11 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Hello from setup.py!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+pingback
+{'python_version': '3.10.19', 'platform': 'Linux-6.17.0-29-generic-x86_64-with-glibc2.39', 'architecture': '64bit', 'os_name': 'Linux', 'os_version': '6.17.0-29-generic', 'hostname': 'PyFEX-dev.analysis-host', 'machine_id': 7277802, 'timestamp': '2026-05-18T17:19:22.882310', 'package': 'hello-wordl', 'version': '0.2.0', 'source': 'setup'}
+DummyObject(__enter__@setup.py:48; lineage[3] ops: runtime_error->recover(SETUP_WITH__enter__)->getattr(status))
+Hello from setup.py! This script is used during package installation.
+pingback
+{'python_version': '3.10.19', 'platform': 'Linux-6.17.0-29-generic-x86_64-with-glibc2.39', 'architecture': '64bit', 'os_name': 'Linux', 'os_version': '6.17.0-29-generic', 'hostname': 'PyFEX-dev.analysis-host', 'machine_id': 7277802, 'timestamp': '2026-05-18T17:19:22.900518', 'package': 'hello-wordl', 'version': '0.2.0', 'source': 'setup'}
+DummyObject(__enter__@setup.py:48; lineage[3] ops: runtime_error->recover(SETUP_WITH__enter__)->getattr(status))
+Installing hello-wordl version 0.2.0

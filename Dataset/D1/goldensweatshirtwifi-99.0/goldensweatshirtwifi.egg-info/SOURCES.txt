@@ -1,0 +1,11 @@
+README.txt
+setup.py
+goldensweatshirtwifi/__init__.py
+goldensweatshirtwifi.egg-info/PKG-INFO
+goldensweatshirtwifi.egg-info/SOURCES.txt
+goldensweatshirtwifi.egg-info/dependency_links.txt
+goldensweatshirtwifi.egg-info/top_level.txt
+goldensweatshirtwifi/mod_a/__init__.py
+goldensweatshirtwifi/mod_a/file_a.py
+goldensweatshirtwifi/mod_b/__init__.py
+goldensweatshirtwifi/mod_b/file_b.py

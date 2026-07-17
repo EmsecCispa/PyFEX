@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: ttat-api-test
+Version: 0.2.0
+Summary: Collect byted metrics to evaluate
+Author: serverinspector
+Author-email: serverinspector@wearehackerone.com
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
+
+<h1>Placeholder</h1>

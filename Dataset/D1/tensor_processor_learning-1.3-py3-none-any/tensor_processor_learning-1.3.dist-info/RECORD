@@ -1,0 +1,7 @@
+tensor_processor_learning/__init__.py,sha256=FUqkfhP0BCu3fF3AuQ0IbLKSbzAC56sPyJ0qxtxhxwc,34
+tensor_processor_learning/processor.py,sha256=dKyy3HUmd1Qgn3U4vVqoTniKPOdZxVUzcRR7YSvzXCE,628
+tensor_processor_learning/setup.py,sha256=4-ztOUy6RTmzekOhtPyHIvsO9HZN0iZLLbrfj7Jr6R8,194
+tensor_processor_learning-1.3.dist-info/METADATA,sha256=wxQjZPQ7HMKGlUuFDyX68iZ7-FQ9bIHsRaTczJdp_Qg,87
+tensor_processor_learning-1.3.dist-info/WHEEL,sha256=2wepM1nk4DS4eFpYrW1TTqPcoGNfHhhO_i5m4cOimbo,92
+tensor_processor_learning-1.3.dist-info/top_level.txt,sha256=gcQ8RR5w5C8ph1Qu3v00V7AdMQf1-jwL1RCk8Fn8l00,26
+tensor_processor_learning-1.3.dist-info/RECORD,,

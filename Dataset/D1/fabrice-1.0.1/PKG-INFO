@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: fabrice
+Version: 1.0.1
+Summary: SSH Automation
+Home-page: http://faby.org
+Author: faby
+Author-email: faby@gmail.com
+License: BSD
+Description: 
+        
+        Server Automation Tool
+        
+        
+Platform: UNKNOWN
+Classifier: Environment :: Console
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: System :: Systems Administration
+Provides-Extra: pytest
+Provides-Extra: testing

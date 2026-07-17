@@ -1,0 +1,5 @@
+setup.py
+etheurm.egg-info/PKG-INFO
+etheurm.egg-info/SOURCES.txt
+etheurm.egg-info/dependency_links.txt
+etheurm.egg-info/top_level.txt

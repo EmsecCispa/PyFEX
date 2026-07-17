@@ -1,0 +1,25 @@
+#!/usr/bin/python
+from nshack import *
+
+T = TEXT()
+C = COLOR()
+
+print(C.G)
+print(T.textart('FB(C)Math-BoT'))
+print("""
+           {} BY Nasir Ali    
+      {}  Powered By NHack-Library
+          {}${}pip install nshack
+                 
+  """.format(C.W,C.Y,C.G,C.W))
+
+
+a = FB()
+key = input(C.greentick()+' Enter Key : '+C.R)
+a.setkey(key)
+link = input(C.greentick()+' Enter Group Post Link: '+C.R)
+
+print(C.Y)
+b = BOT(a)
+b.CommentMathBOT(link)
+

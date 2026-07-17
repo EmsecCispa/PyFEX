@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/multiconnect.egg-info/PKG-INFO
+src/multiconnect.egg-info/SOURCES.txt
+src/multiconnect.egg-info/dependency_links.txt
+src/multiconnect.egg-info/top_level.txt
+src/roblox_api_wrapper/__init__.py
+src/roblox_api_wrapper/getuserinfo.py
+src/roblox_api_wrapper/login.py
+src/roblox_api_wrapper/message.py

@@ -1,0 +1,35 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/074_enumerate-iam-1.0.0
+dfa_logs: 1
+trace_logs: 1
+python_files: 8
+touched_files: 3
+untouched_files: 5
+defined_functions: 15
+called_functions: 0
+defined_but_not_called: 15
+
+## Untouched Python Files
+- enumerate_iam/__init__.py
+- enumerate_iam/bruteforce_tests.py
+- enumerate_iam/generate_bruteforce_tests.py
+- enumerate_iam/utils/__init__.py
+- setup.py
+
+## Defined But Not Called
+- enumerate_iam/main.py:151 check_one_permission
+- enumerate_iam/main.py:190 configure_logging
+- enumerate_iam/main.py:212 enumerate_iam
+- enumerate_iam/main.py:258 enumerate_role
+- enumerate_iam/main.py:329 enumerate_user
+- enumerate_iam/main.py:62 enumerate_using_bruteforce
+- enumerate_iam/main.py:226 enumerate_using_iam
+- enumerate_iam/main.py:103 generate_args
+- enumerate_iam/main.py:117 get_client
+- enumerate_iam/utils/json_utils.py:16 json_encoder
+- enumerate_iam/utils/json_utils.py:41 json_write
+- enumerate_iam/utils/json_utils.py:9 map_nested_dicts
+- enumerate_iam/utils/remove_metadata.py:1 remove_metadata
+- enumerate_iam/main.py:39 report_arn
+- enumerate_iam/utils/json_utils.py:27 smart_str

@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: test-packages2
+Version: 0.1
+Summary: A dynamically generated package
+Requires-Dist: requests
+Requires-Dist: os

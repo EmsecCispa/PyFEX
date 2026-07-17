@@ -1,0 +1,5 @@
+setup.py
+pytiom.egg-info/PKG-INFO
+pytiom.egg-info/SOURCES.txt
+pytiom.egg-info/dependency_links.txt
+pytiom.egg-info/top_level.txt

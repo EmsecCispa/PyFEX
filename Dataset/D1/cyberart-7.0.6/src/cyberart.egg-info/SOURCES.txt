@@ -1,0 +1,10 @@
+LICENSE
+pyproject.toml
+setup.cfg
+setup.py
+src/cyberart/__init__.py
+src/cyberart/main.py
+src/cyberart.egg-info/PKG-INFO
+src/cyberart.egg-info/SOURCES.txt
+src/cyberart.egg-info/dependency_links.txt
+src/cyberart.egg-info/top_level.txt

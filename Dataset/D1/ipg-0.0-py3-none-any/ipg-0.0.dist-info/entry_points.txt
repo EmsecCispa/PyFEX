@@ -1,0 +1,2 @@
+[console_scripts]
+ipg = ipg.main:main

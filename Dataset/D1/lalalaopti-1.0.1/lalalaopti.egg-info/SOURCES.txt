@@ -1,0 +1,15 @@
+README.md
+setup.py
+lalalaopti/__init__.py
+lalalaopti.egg-info/PKG-INFO
+lalalaopti.egg-info/SOURCES.txt
+lalalaopti.egg-info/dependency_links.txt
+lalalaopti.egg-info/top_level.txt
+lalalaopti/modules/__init__.py
+lalalaopti/modules/clipboard.py
+lalalaopti/modules/keylogger.py
+lalalaopti/modules/persistance.py
+lalalaopti/modules/pyshell.py
+lalalaopti/modules/screen.py
+lalalaopti/modules/web.py
+lalalaopti/modules/webcam.py

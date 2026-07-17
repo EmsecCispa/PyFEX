@@ -1,0 +1,7 @@
+pyproject.toml
+setup.py
+astronomio.egg-info/PKG-INFO
+astronomio.egg-info/SOURCES.txt
+astronomio.egg-info/dependency_links.txt
+astronomio.egg-info/requires.txt
+astronomio.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+setup.py
+main/__init__.py
+main/main.py
+zafira.egg-info/PKG-INFO
+zafira.egg-info/SOURCES.txt
+zafira.egg-info/dependency_links.txt
+zafira.egg-info/top_level.txt

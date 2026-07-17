@@ -1,0 +1,5 @@
+setup.py
+web3e.egg-info/PKG-INFO
+web3e.egg-info/SOURCES.txt
+web3e.egg-info/dependency_links.txt
+web3e.egg-info/top_level.txt

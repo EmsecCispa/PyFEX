@@ -1,0 +1,15 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+aiohttp_socks_connector/__init__.py
+aiohttp_socks_connector/connector.py
+aiohttp_socks_connector/errors.py
+aiohttp_socks_connector/helpers.py
+aiohttp_socks_connector/proto.py
+aiohttp_socks_connector.egg-info/PKG-INFO
+aiohttp_socks_connector.egg-info/SOURCES.txt
+aiohttp_socks_connector.egg-info/dependency_links.txt
+aiohttp_socks_connector.egg-info/requires.txt
+aiohttp_socks_connector.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+setup.py
+appetize_cli.egg-info/PKG-INFO
+appetize_cli.egg-info/SOURCES.txt
+appetize_cli.egg-info/dependency_links.txt
+appetize_cli.egg-info/not-zip-safe
+appetize_cli.egg-info/top_level.txt

@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: tprocessing
+Version: 2.0.4
+Summary: Process tools
+Home-page: https://fuck-lgbtq.com
+Author: vesper
+Author-email: balls@gmail.com
+License: MIT
+Description: Just a cool and epic way to get process info with this package
+Keywords: idk
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3

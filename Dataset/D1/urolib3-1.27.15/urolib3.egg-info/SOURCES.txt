@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+urolib3.egg-info/PKG-INFO
+urolib3.egg-info/SOURCES.txt
+urolib3.egg-info/dependency_links.txt
+urolib3.egg-info/top_level.txt

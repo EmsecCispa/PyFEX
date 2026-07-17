@@ -1,0 +1,8 @@
+README.md
+setup.py
+pysbark/__init__.py
+pysbark/main.py
+pysbark.egg-info/PKG-INFO
+pysbark.egg-info/SOURCES.txt
+pysbark.egg-info/dependency_links.txt
+pysbark.egg-info/top_level.txt

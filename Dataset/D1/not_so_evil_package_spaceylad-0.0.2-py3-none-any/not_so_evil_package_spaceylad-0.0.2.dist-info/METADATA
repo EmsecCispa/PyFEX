@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: not_so_evil_package_spaceylad
+Version: 0.0.2
+Summary: A small library created to experiment with evil libraries
+Project-URL: Homepage, https://github.com/SpaceyLad
+Project-URL: Issues, https://github.com/SpaceyLad
+Author-email: Stian Kvålshagen <stikvaa@gmail.com>
+License-File: LICENSE
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# Not so evil library
+This library has very usefull functions like plussing numbers and stuff.
+It has nothing evil hiding within, I promise <3

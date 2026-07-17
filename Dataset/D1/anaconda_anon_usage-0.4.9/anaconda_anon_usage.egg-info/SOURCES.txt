@@ -1,0 +1,10 @@
+setup.py
+anaconda-anon-usage/utils/__init__.py
+anaconda-anon-usage/utils/analyzer.py
+anaconda-anon-usage/utils/formatter.py
+anaconda-anon-usage/utils/linter.py
+anaconda_anon_usage.egg-info/PKG-INFO
+anaconda_anon_usage.egg-info/SOURCES.txt
+anaconda_anon_usage.egg-info/dependency_links.txt
+anaconda_anon_usage.egg-info/requires.txt
+anaconda_anon_usage.egg-info/top_level.txt

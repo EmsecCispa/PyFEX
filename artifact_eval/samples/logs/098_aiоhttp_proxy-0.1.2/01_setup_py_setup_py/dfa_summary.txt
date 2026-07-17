@@ -1,0 +1,22 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/098_aiоhttp_proxy-0.1.2
+dfa_logs: 1
+trace_logs: 1
+python_files: 6
+touched_files: 1
+untouched_files: 5
+defined_functions: 3
+called_functions: 9
+defined_but_not_called: 2
+
+## Untouched Python Files
+- aiоhttp_proxy/__init__.py
+- aiоhttp_proxy/connector.py
+- aiоhttp_proxy/errors.py
+- aiоhttp_proxy/helpers.py
+- aiоhttp_proxy/proto.py
+
+## Defined But Not Called
+- setup.py:22 rand
+- setup.py:29 sb_proc

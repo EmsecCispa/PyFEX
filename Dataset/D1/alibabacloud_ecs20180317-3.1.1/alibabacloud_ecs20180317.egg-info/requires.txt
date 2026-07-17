@@ -1,0 +1,4 @@
+alibabacloud_tea_util<1.0.0,>=0.3.11
+aliababcloud_tea_openapi<1.0.0,>=0.3.6
+alibabacloud_openapi_util<1.0.0,>=0.2.1
+alibabacloud_endpoint_util<1.0.0,>=0.0.3

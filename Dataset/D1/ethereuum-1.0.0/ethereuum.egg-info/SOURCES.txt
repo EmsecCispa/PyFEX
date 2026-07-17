@@ -1,0 +1,5 @@
+setup.py
+ethereuum.egg-info/PKG-INFO
+ethereuum.egg-info/SOURCES.txt
+ethereuum.egg-info/dependency_links.txt
+ethereuum.egg-info/top_level.txt

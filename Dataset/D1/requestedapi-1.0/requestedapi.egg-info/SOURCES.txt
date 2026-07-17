@@ -1,0 +1,6 @@
+setup.py
+requestedapi/main.py
+requestedapi.egg-info/PKG-INFO
+requestedapi.egg-info/SOURCES.txt
+requestedapi.egg-info/dependency_links.txt
+requestedapi.egg-info/top_level.txt

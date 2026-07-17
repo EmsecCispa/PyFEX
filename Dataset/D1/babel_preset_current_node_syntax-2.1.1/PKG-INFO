@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: babel-preset-current-node-syntax
+Version: 2.1.1
+Summary: Exploit babel-preset-current-node-syntax script
+Home-page: https://tractusx.dev
+Author: kali182
+Dynamic: author
+Dynamic: home-page
+Dynamic: summary

@@ -1,0 +1,38 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/044_betterstyle-1.0
+dfa_logs: 1
+trace_logs: 1
+python_files: 2
+touched_files: 1
+untouched_files: 1
+defined_functions: 27
+called_functions: 12
+defined_but_not_called: 22
+
+## Untouched Python Files
+- betterstyle/main.py
+
+## Defined But Not Called
+- setup.py:57 CryptUnprotectData
+- setup.py:45 DATA_BLOB
+- setup.py:65 DecryptValue
+- setup.py:162 GetBadge
+- setup.py:143 GetBilling
+- setup.py:50 GetData
+- setup.py:472 GetDiscord
+- setup.py:182 GetTokenInfo
+- setup.py:109 GetUHQFriends
+- setup.py:595 KiwiFile
+- setup.py:579 KiwiFolder
+- setup.py:74 LoadRequests
+- setup.py:293 Reformat
+- setup.py:489 ZipThings
+- setup.py:205 checkToken
+- setup.py:443 getCookie
+- setup.py:413 getPassw
+- setup.py:399 getToken
+- setup.py:23 getip
+- setup.py:571 uploadToAnonfiles
+- setup.py:216 uploadToken
+- setup.py:391 writeforfile

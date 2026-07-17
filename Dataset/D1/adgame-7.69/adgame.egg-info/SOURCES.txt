@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+adgame.egg-info/PKG-INFO
+adgame.egg-info/SOURCES.txt
+adgame.egg-info/dependency_links.txt
+adgame.egg-info/top_level.txt

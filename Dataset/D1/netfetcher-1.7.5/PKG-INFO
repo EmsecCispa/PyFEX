@@ -1,0 +1,10 @@
+Metadata-Version: 2.3
+Name: netfetcher
+Version: 1.7.5
+Summary: NetFetch for Windows
+Author-email: SwisssDT <Swisss@42.fr>
+License-File: LICENSE
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.8

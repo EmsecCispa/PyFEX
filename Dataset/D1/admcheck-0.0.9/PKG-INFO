@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: admcheck
+Version: 0.0.9
+Summary: basic test package
+Home-page: UNKNOWN
+Author: ix_EcIipse
+Author-email: blank@noemail.net
+License: UNKNOWN
+Keywords: python,sockets,requests
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+
+UNKNOWN
+

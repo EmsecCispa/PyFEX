@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: artifact-lab-3-package-db7d716a
+Version: 1.0.1
+Summary: A package to demonstrate leaking environment variables during installation
+Author: Your Name
+Author-email: your_email@example.com
+Requires-Python: >=3.6

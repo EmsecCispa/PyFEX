@@ -1,0 +1,18 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/086_admcheck-1.2.0
+dfa_logs: 2
+trace_logs: 2
+python_files: 3
+touched_files: 2
+untouched_files: 1
+defined_functions: 2
+called_functions: 1
+defined_but_not_called: 2
+
+## Untouched Python Files
+- admcheck/__init__.py
+
+## Defined But Not Called
+- admcheck/main.py:11 close
+- admcheck/main.py:4 is_Admin

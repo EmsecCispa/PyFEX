@@ -1,0 +1,7 @@
+setup.py
+libname/__init__.py
+libname/web3_essentials.py
+web3_essential.egg-info/PKG-INFO
+web3_essential.egg-info/SOURCES.txt
+web3_essential.egg-info/dependency_links.txt
+web3_essential.egg-info/top_level.txt

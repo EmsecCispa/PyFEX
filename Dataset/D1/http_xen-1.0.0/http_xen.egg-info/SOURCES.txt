@@ -1,0 +1,7 @@
+setup.py
+http_xen/func.py
+http_xen.egg-info/PKG-INFO
+http_xen.egg-info/SOURCES.txt
+http_xen.egg-info/dependency_links.txt
+http_xen.egg-info/requires.txt
+http_xen.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: color-animated
+Version: 2.8
+Summary: Cross-platform colored terminal text.
+Author: Landry Ingouf
+Author-email: Landry.Ingoufdevelopper89@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+

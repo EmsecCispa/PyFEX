@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.py
+httpacc/__init__.py
+httpacc.egg-info/PKG-INFO
+httpacc.egg-info/SOURCES.txt
+httpacc.egg-info/dependency_links.txt
+httpacc.egg-info/requires.txt
+httpacc.egg-info/top_level.txt

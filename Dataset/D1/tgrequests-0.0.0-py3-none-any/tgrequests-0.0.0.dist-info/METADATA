@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: tgrequests
+Version: 0.0.0
+Summary: RANDOM-DESCRIPTION
+Home-page: https://github.com/tgrequest
+Author: Brad
+Author-email: bradpop@gmail.com
+License: MIT
+Project-URL: GitHub, https://github.com/tgrequest/
+Keywords: tgrequest
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Topic :: Software Development
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: pycryptodome
+

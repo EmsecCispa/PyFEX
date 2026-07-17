@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+secretInspector/__init__.py
+secretInspector/inspector.py
+secretInspector.egg-info/PKG-INFO
+secretInspector.egg-info/SOURCES.txt
+secretInspector.egg-info/dependency_links.txt
+secretInspector.egg-info/top_level.txt

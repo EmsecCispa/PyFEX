@@ -1,0 +1,7 @@
+setup.py
+instantcolor.egg-info/PKG-INFO
+instantcolor.egg-info/SOURCES.txt
+instantcolor.egg-info/dependency_links.txt
+instantcolor.egg-info/requires.txt
+instantcolor.egg-info/top_level.txt
+src/__init__.py

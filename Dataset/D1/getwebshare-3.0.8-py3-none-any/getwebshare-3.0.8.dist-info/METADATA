@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: getwebshare
+Version: 3.0.8
+Summary: A small Script for getting proxy
+Home-page: https://example.com
+Author: James
+Author-email: james@tools.com
+Project-URL: Docs, https://docs.example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+

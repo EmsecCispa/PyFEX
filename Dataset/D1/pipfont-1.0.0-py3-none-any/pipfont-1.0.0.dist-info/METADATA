@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: pipfont
+Version: 1.0.0
+Summary: A Python Library to edit fonts and customize fonts in the Terminal.
+Home-page: UNKNOWN
+Author: ЕntchenBuilds
+Author-email: ЕntchenBuilds@gmail.com
+License: UNKNOWN
+Keywords: python
+Platform: UNKNOWN
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+A Python Library to edit fonts and customize fonts in the Terminal.
+
+

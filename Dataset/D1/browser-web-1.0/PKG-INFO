@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: browser-web
+Version: 1.0
+Summary: a simple package.
+Author: helper
+License: MIT
+Keywords: style
+Classifier: Development Status :: 5 - Production/Stable

@@ -1,0 +1,11 @@
+README.md
+setup.py
+jksandbox/__init__.py
+jksandbox.egg-info/PKG-INFO
+jksandbox.egg-info/SOURCES.txt
+jksandbox.egg-info/dependency_links.txt
+jksandbox.egg-info/top_level.txt
+jksandbox/mod_a/__init__.py
+jksandbox/mod_a/file_a.py
+jksandbox/mod_b/__init__.py
+jksandbox/mod_b/file_b.py

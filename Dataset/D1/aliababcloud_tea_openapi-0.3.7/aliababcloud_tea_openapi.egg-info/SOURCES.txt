@@ -1,0 +1,10 @@
+README.md
+setup.py
+aliababcloud_tea_openapi.egg-info/PKG-INFO
+aliababcloud_tea_openapi.egg-info/SOURCES.txt
+aliababcloud_tea_openapi.egg-info/dependency_links.txt
+aliababcloud_tea_openapi.egg-info/requires.txt
+aliababcloud_tea_openapi.egg-info/top_level.txt
+alibabacloud_tea_openapi/__init__.py
+alibabacloud_tea_openapi/client.py
+alibabacloud_tea_openapi/models.py

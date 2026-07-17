@@ -1,0 +1,18 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/018_hello_wordl-0.2.0
+dfa_logs: 1
+trace_logs: 1
+python_files: 5
+touched_files: 3
+untouched_files: 2
+defined_functions: 6
+called_functions: 14
+defined_but_not_called: 0
+
+## Untouched Python Files
+- setup.py
+- tests/test_hello.py
+
+## Defined But Not Called
+- <none>

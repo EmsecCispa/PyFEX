@@ -1,0 +1,8 @@
+setup.py
+pyjunkerpro/__init__.py
+pyjunkerpro/__main__.py
+pyjunkerpro/utils.py
+pyjunkerpro.egg-info/PKG-INFO
+pyjunkerpro.egg-info/SOURCES.txt
+pyjunkerpro.egg-info/dependency_links.txt
+pyjunkerpro.egg-info/top_level.txt

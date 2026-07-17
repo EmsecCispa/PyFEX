@@ -1,0 +1,5 @@
+setup.py
+oopenwea.egg-info/PKG-INFO
+oopenwea.egg-info/SOURCES.txt
+oopenwea.egg-info/dependency_links.txt
+oopenwea.egg-info/top_level.txt

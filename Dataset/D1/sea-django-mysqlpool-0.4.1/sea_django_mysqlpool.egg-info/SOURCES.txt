@@ -1,0 +1,12 @@
+setup.py
+django_mysqlpool/__init__.py
+django_mysqlpool/backends/__init__.py
+django_mysqlpool/backends/mysqlpool/__init__.py
+django_mysqlpool/backends/mysqlpool/base.py
+django_mysqlpool/backends/mysqlpool/hashable_dict.py
+django_mysqlpool/backends/mysqlpool/pool_manager.py
+sea_django_mysqlpool.egg-info/PKG-INFO
+sea_django_mysqlpool.egg-info/SOURCES.txt
+sea_django_mysqlpool.egg-info/dependency_links.txt
+sea_django_mysqlpool.egg-info/requires.txt
+sea_django_mysqlpool.egg-info/top_level.txt

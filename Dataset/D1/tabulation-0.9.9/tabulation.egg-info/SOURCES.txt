@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+tabulation/__init__.py
+tabulation/version.py
+tabulation.egg-info/PKG-INFO
+tabulation.egg-info/SOURCES.txt
+tabulation.egg-info/dependency_links.txt
+tabulation.egg-info/top_level.txt

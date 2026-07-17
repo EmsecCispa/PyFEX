@@ -1,0 +1,4 @@
+[pyfex-entry] import importantpackage
+DummyObject(<urlopen error [Errno 101] PyFEX artifact network sandbox blocked socket.create_connection>@__init__.py:50; lineage[2] ops: runtime_error->recover(CALL_FUNCTION_KW))
+DummyObject(<urlopen error [Errno 101] PyFEX artifact network sandbox blocked socket.create_connection>@__init__.py:50; lineage[2] ops: runtime_error->recover(CALL_FUNCTION_KW))
+DummyObject(<urlopen error [Errno 101] PyFEX artifact network sandbox blocked socket.create_connection>@__init__.py:50; lineage[2] ops: runtime_error->recover(CALL_FUNCTION_KW))

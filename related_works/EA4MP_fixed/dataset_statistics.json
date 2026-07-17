@@ -1,0 +1,26 @@
+{
+  "sequences": {
+    "total_original_packages": 13572,
+    "total_successful_packages": 13510,
+    "malicious_original": 10918,
+    "malicious_successful": 10867,
+    "malicious_success_rate": 99.53288148012457,
+    "benign_original": 2654,
+    "benign_successful": 2643,
+    "benign_success_rate": 99.58553127354935,
+    "merged_at": "2025-11-11 21:56:44",
+    "description": "Combined malicious and benign PyPI packages for malware detection"
+  },
+  "combined": {
+    "total_samples": 13510,
+    "malicious_samples": 10867,
+    "benign_samples": 2643,
+    "balance_ratio": 24.321339836201343
+  },
+  "balanced": {
+    "total_samples": 5286,
+    "malicious_samples": 2643,
+    "benign_samples": 2643,
+    "balance_ratio": 100.0
+  }
+}

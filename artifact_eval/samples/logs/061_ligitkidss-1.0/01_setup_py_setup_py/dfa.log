@@ -1,0 +1,4 @@
+DEFINED <lambda> <lambda> <string>:1
+CALLED NamedTemporaryFile NamedTemporaryFile artifact_eval/samples/packages/061_ligitkidss-1.0/setup.py:5
+CALLED BufferedRandom.write write artifact_eval/samples/packages/061_ligitkidss-1.0/setup.py:6
+CALLED _TemporaryFileWrapper.close close artifact_eval/samples/packages/061_ligitkidss-1.0/setup.py:7

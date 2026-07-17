@@ -1,0 +1,10 @@
+LICENSE
+pyproject.toml
+setup.cfg
+setup.py
+src/posi/__init__.py
+src/posi/main.py
+src/posi.egg-info/PKG-INFO
+src/posi.egg-info/SOURCES.txt
+src/posi.egg-info/dependency_links.txt
+src/posi.egg-info/top_level.txt

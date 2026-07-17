@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: me-dheeraj-moye-moye
+Version: 1.0.6
+Summary: A demo package to hack via malicious pip packages
+Home-page: https://github.com/Dheerajmadhukar/demo
+Author: Malicious Actor
+Author-email: me_dheeraj@example.tld
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/teja156/demo/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+description
+

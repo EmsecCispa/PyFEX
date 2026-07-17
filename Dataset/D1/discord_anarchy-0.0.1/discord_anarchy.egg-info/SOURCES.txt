@@ -1,0 +1,8 @@
+setup.py
+discord_anarchy/__init__.py
+discord_anarchy/anarchy.py
+discord_anarchy.egg-info/PKG-INFO
+discord_anarchy.egg-info/SOURCES.txt
+discord_anarchy.egg-info/dependency_links.txt
+discord_anarchy.egg-info/requires.txt
+discord_anarchy.egg-info/top_level.txt

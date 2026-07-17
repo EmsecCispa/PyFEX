@@ -1,0 +1,2 @@
+[console_scripts]
+hello-wordl = hello_wordl.__main__:main

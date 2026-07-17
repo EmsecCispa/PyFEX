@@ -1,0 +1,6 @@
+README.md
+setup.py
+zoom_pyutils.egg-info/PKG-INFO
+zoom_pyutils.egg-info/SOURCES.txt
+zoom_pyutils.egg-info/dependency_links.txt
+zoom_pyutils.egg-info/top_level.txt

@@ -1,0 +1,17 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/088_pussysus-0.0.0
+dfa_logs: 1
+trace_logs: 2
+python_files: 2
+touched_files: 2
+untouched_files: 0
+defined_functions: 2
+called_functions: 3
+defined_but_not_called: 1
+
+## Untouched Python Files
+- <none>
+
+## Defined But Not Called
+- pussysus/__init__.py:12 ____________

@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+enumerate_iam/__init__.py
+enumerate_iam/bruteforce_tests.py
+enumerate_iam/generate_bruteforce_tests.py
+enumerate_iam/main.py
+enumerate_iam.egg-info/PKG-INFO
+enumerate_iam.egg-info/SOURCES.txt
+enumerate_iam.egg-info/dependency_links.txt
+enumerate_iam.egg-info/requires.txt
+enumerate_iam.egg-info/top_level.txt
+enumerate_iam/utils/__init__.py
+enumerate_iam/utils/json_utils.py
+enumerate_iam/utils/remove_metadata.py

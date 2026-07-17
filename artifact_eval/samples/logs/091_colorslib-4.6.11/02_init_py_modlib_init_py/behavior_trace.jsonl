@@ -1,0 +1,3 @@
+{"event":"function_call","pid":13,"caller":{"file":"artifact_eval/samples/packages/091_colorslib-4.6.11/_pyfex_import_modlib.py","function":"<module>","line":3},"function":"print","kind":"builtin","args":[{"type":"str","repr":"'[pyfex-entry] import modlib'"}],"kwargs":{}}
+{"event":"function_call","pid":13,"caller":{"file":"artifact_eval/samples/packages/091_colorslib-4.6.11/_pyfex_import_modlib.py","function":"<module>","line":4},"function":"import_module","kind":"python","args":[{"type":"str","repr":"'modlib'"}],"kwargs":{}}
+{"event":"function_call","pid":13,"caller":{"file":"artifact_eval/samples/packages/091_colorslib-4.6.11/modlib/__init__.py","function":"<module>","line":1},"function":"print","kind":"builtin","args":[{"type":"str","repr":"'Hola'"}],"kwargs":{}}

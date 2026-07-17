@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: l7
+Version: 0.1
+Summary: A powerful module for social media management.
+Home-page: https://github.com/your_username/l7
+Author: L7
+Author-email: in@jail.lol
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: requests
+
+L7 lol

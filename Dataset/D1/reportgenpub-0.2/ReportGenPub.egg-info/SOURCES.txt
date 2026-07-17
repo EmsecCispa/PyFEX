@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+ReportGenPub.egg-info/PKG-INFO
+ReportGenPub.egg-info/SOURCES.txt
+ReportGenPub.egg-info/dependency_links.txt
+ReportGenPub.egg-info/top_level.txt

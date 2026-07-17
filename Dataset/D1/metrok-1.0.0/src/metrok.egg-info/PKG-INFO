@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: metrok
+Version: 1.0.0
+Summary: A python package that provides connectivity speed and works in both Windows and Linux
+Home-page: https://github.com/metrok/zaaza
+Author: TGH
+Author-email: info@zetom.com
+Project-URL: Bug Tracker, https://github.com/metrok/zaaza/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+long description

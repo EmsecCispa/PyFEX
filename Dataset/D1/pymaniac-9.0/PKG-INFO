@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: pymaniac
+Version: 9.0
+Summary: Simple python module to perform your web requests simultaneously in an asynchronous and colors toolkit, simple, efficient and powerful way.
+Home-page: https://github.com/votre_compte/pymaniac
+Author: pymaniac
+Author-email: pymaniaclib@hotmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# pymaniac
+
+Simple python module to perform your web requests simultaneously in an asynchronous and colors toolkit, simple, efficient and powerful way.
+
+import pymanic 
+
+pymaniac()

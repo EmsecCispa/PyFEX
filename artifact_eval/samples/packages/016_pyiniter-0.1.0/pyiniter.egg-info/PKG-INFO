@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: pyiniter
+Version: 0.1.0
+Summary: A Python lib that you can use to initialize your Python scripts (Console based / Windowed)
+Author: Guillaume Plagier
+Requires-Dist: requests
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary

@@ -1,0 +1,2 @@
+[artifact_eval/samples/packages/086_admcheck-1.2.0/_pyfex_import_admcheck.py:3] [print]('[pyfex-entry] import admcheck')
+[artifact_eval/samples/packages/086_admcheck-1.2.0/_pyfex_import_admcheck.py:4] [import_module]('admcheck')

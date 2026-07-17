@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: pyqcolored
+Version: 1.1
+Summary: A command line tool for colors
+Author-email: smithsha@gmail.com
+License: Eclipse Public License 2.0
+
+Documentation: https://github.com/johnsnowd/pyqcolored

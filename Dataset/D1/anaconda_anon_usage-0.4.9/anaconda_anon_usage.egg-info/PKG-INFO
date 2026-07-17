@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: anaconda-anon-usage
+Version: 0.4.9
+Requires-Dist: requests>=2.20.0
+Requires-Dist: psutil>=5.8.0

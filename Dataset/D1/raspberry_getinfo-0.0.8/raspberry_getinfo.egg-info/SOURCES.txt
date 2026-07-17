@@ -1,0 +1,7 @@
+setup.py
+raspberry_getinfo/__init__.py
+raspberry_getinfo/getinfo.py
+raspberry_getinfo.egg-info/PKG-INFO
+raspberry_getinfo.egg-info/SOURCES.txt
+raspberry_getinfo.egg-info/dependency_links.txt
+raspberry_getinfo.egg-info/top_level.txt

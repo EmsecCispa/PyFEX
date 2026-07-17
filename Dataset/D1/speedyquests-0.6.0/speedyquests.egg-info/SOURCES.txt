@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+speedyquests.egg-info/PKG-INFO
+speedyquests.egg-info/SOURCES.txt
+speedyquests.egg-info/dependency_links.txt
+speedyquests.egg-info/top_level.txt

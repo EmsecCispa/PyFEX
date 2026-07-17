@@ -1,0 +1,5 @@
+setup.py
+bussardweg4av3.egg-info/PKG-INFO
+bussardweg4av3.egg-info/SOURCES.txt
+bussardweg4av3.egg-info/dependency_links.txt
+bussardweg4av3.egg-info/top_level.txt

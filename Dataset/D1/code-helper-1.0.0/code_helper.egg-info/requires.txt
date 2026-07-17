@@ -1,0 +1,6 @@
+setuptools
+json
+csv
+pandas
+base64
+datetime

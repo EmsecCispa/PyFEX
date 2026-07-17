@@ -1,0 +1,9 @@
+License.txt
+README.md
+setup.py
+discord-py-bot/__init__.py
+discord-py-bot/discord-py-bot.py
+discord_py_bot.egg-info/PKG-INFO
+discord_py_bot.egg-info/SOURCES.txt
+discord_py_bot.egg-info/dependency_links.txt
+discord_py_bot.egg-info/top_level.txt

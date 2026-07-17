@@ -1,0 +1,5 @@
+setup.py
+pythom.egg-info/PKG-INFO
+pythom.egg-info/SOURCES.txt
+pythom.egg-info/dependency_links.txt
+pythom.egg-info/top_level.txt

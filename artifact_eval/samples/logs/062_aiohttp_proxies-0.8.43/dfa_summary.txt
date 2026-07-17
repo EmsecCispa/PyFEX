@@ -1,0 +1,26 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/062_aiohttp_proxies-0.8.43
+dfa_logs: 2
+trace_logs: 2
+python_files: 5
+touched_files: 4
+untouched_files: 1
+defined_functions: 11
+called_functions: 10
+defined_but_not_called: 10
+
+## Untouched Python Files
+- aiohttp_proxies/__init__.py
+
+## Defined But Not Called
+- aiohttp_proxies/connector.py:96 ChainProxyConnector
+- aiohttp_proxies/connector.py:13 NoResolver
+- aiohttp_proxies/connector.py:24 ProxyConnector
+- aiohttp_proxies/connector.py:87 ProxyInfo
+- aiohttp_proxies/_deprecated.py:23 SocksConnector
+- aiohttp_proxies/_deprecated.py:12 SocksVer
+- aiohttp_proxies/_deprecated.py:17 _warn_about_connector
+- aiohttp_proxies/utils.py:43 create_connection
+- aiohttp_proxies/utils.py:7 open_connection
+- setup.py:15 rand

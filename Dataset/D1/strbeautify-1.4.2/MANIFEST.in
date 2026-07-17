@@ -1,0 +1,13 @@
+include setup.py
+include strbeautify/__init__.py
+include strbeautify/back.py
+include strbeautify/colored.py
+include strbeautify/colors.py
+include strbeautify/fore.py
+include strbeautify/hex.py
+include strbeautify/style.py
+include CHANGES.md
+include LICENSE.txt
+include README.rst
+recursive-include tests *.py
+recursive-include docs *.txt

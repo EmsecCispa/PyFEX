@@ -1,0 +1,2 @@
+[artifact_eval/samples/packages/053_algokit-arc-10.0.1/setup.py:16] [__build_class__](<function CustomInstall at 0x7fd8b9dafe20>, 'CustomInstall', <DummyObject No module named 'setuptools'@setup.py:9>)
+[artifact_eval/samples/packages/053_algokit-arc-10.0.1/setup.py:26] [DummyObject](author='jordin', cmdclass={'install': <DummyObject No module named 'setuptools'@setup.py:9>}, description='Exfiltration', license='MIT', name='algokit-arc', version='10.0.1', zip_safe=False)

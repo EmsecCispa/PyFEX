@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: pyocls
+Version: 0.1.0
+Summary: A basic clear dm.
+Author: Gab
+Requires-Python: >=3.11,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Description-Content-Type: text/markdown
+
+

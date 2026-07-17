@@ -1,0 +1,6 @@
+
+[dev]
+black
+bumpver
+isort
+pytest

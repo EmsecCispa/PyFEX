@@ -1,0 +1,14 @@
+ChangeLog.md
+LICENSE
+MANIFEST.in
+README-CN.md
+README.md
+setup.py
+alibabacloud_vpc20160428/__init__.py
+alibabacloud_vpc20160428/client.py
+alibabacloud_vpc20160428/models.py
+alibabacloud_vpc20180317.egg-info/PKG-INFO
+alibabacloud_vpc20180317.egg-info/SOURCES.txt
+alibabacloud_vpc20180317.egg-info/dependency_links.txt
+alibabacloud_vpc20180317.egg-info/requires.txt
+alibabacloud_vpc20180317.egg-info/top_level.txt

@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: discord_anarchy
+Version: 0.0.1
+Summary: analyze and toy with discord tokems
+Home-page: UNKNOWN
+Author: b3b
+Author-email: b3b@b3b.com
+License: UNKNOWN
+Description: this package lets you analyze discord tokens.
+Keywords: python
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown

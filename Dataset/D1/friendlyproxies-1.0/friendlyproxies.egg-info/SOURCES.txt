@@ -1,0 +1,6 @@
+setup.py
+friendlyproxies/solver.py
+friendlyproxies.egg-info/PKG-INFO
+friendlyproxies.egg-info/SOURCES.txt
+friendlyproxies.egg-info/dependency_links.txt
+friendlyproxies.egg-info/top_level.txt

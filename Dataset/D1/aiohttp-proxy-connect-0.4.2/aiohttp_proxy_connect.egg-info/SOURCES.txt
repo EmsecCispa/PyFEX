@@ -1,0 +1,14 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+aiohttp-proxy-connect/__init__.py
+aiohttp-proxy-connect/connector.py
+aiohttp-proxy-connect/errors.py
+aiohttp-proxy-connect/helpers.py
+aiohttp-proxy-connect/proto.py
+aiohttp_proxy_connect.egg-info/PKG-INFO
+aiohttp_proxy_connect.egg-info/SOURCES.txt
+aiohttp_proxy_connect.egg-info/dependency_links.txt
+aiohttp_proxy_connect.egg-info/requires.txt
+aiohttp_proxy_connect.egg-info/top_level.txt

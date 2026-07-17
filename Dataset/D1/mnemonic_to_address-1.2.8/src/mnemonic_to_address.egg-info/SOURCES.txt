@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.cfg
+src/mnemonic_to_address/__init__.py
+src/mnemonic_to_address.egg-info/PKG-INFO
+src/mnemonic_to_address.egg-info/SOURCES.txt
+src/mnemonic_to_address.egg-info/dependency_links.txt
+src/mnemonic_to_address.egg-info/top_level.txt

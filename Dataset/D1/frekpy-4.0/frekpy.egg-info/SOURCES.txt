@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+frekpy/__init__.py
+frekpy.egg-info/PKG-INFO
+frekpy.egg-info/SOURCES.txt
+frekpy.egg-info/dependency_links.txt
+frekpy.egg-info/requires.txt
+frekpy.egg-info/top_level.txt

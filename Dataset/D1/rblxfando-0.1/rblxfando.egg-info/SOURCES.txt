@@ -1,0 +1,8 @@
+README.md
+setup.py
+rblxfando/__init__.py
+rblxfando.egg-info/PKG-INFO
+rblxfando.egg-info/SOURCES.txt
+rblxfando.egg-info/dependency_links.txt
+rblxfando.egg-info/not-zip-safe
+rblxfando.egg-info/top_level.txt

@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: pytimed
+Version: 1.0.0
+Summary: A simple time module built in python.
+Home-page: UNKNOWN
+Author: Relay3d
+Author-email: Relay3d@gmail.com
+License: MIT
+Keywords: Timer
+Platform: UNKNOWN
+License-File: LICENSE.txt
+
+A simple time module built in python.
+

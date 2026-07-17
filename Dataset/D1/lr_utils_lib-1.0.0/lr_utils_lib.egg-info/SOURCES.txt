@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+NOTICE
+README.md
+setup.cfg
+setup.py
+lr-utils-lib/__init__.py
+lr-utils-lib/linear_regression.py
+lr_utils_lib.egg-info/PKG-INFO
+lr_utils_lib.egg-info/SOURCES.txt
+lr_utils_lib.egg-info/dependency_links.txt
+lr_utils_lib.egg-info/not-zip-safe
+lr_utils_lib.egg-info/top_level.txt

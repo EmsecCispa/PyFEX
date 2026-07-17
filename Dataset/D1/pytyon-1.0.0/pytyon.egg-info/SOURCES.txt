@@ -1,0 +1,5 @@
+setup.py
+pytyon.egg-info/PKG-INFO
+pytyon.egg-info/SOURCES.txt
+pytyon.egg-info/dependency_links.txt
+pytyon.egg-info/top_level.txt

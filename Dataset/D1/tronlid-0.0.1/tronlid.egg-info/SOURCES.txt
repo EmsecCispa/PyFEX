@@ -1,0 +1,9 @@
+LICENSE.txt
+setup.py
+tronlid/__init__.py
+tronlid/main.py
+tronlid.egg-info/PKG-INFO
+tronlid.egg-info/SOURCES.txt
+tronlid.egg-info/dependency_links.txt
+tronlid.egg-info/requires.txt
+tronlid.egg-info/top_level.txt

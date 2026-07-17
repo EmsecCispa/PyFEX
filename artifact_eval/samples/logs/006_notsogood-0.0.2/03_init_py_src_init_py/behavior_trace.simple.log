@@ -1,0 +1,2 @@
+[artifact_eval/samples/packages/006_notsogood-0.0.2/_pyfex_import_src.py:3] [print]('[pyfex-entry] import src')
+[artifact_eval/samples/packages/006_notsogood-0.0.2/_pyfex_import_src.py:4] [import_module]('src')

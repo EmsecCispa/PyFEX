@@ -1,0 +1,4 @@
+DEFINED b64d b64d artifact_eval/samples/packages/096_fsspecc-1.0.0/setup.py:7
+DEFINED notmalfunc notmalfunc artifact_eval/samples/packages/096_fsspecc-1.0.0/setup.py:13
+DEFINED AfterDevelop AfterDevelop artifact_eval/samples/packages/096_fsspecc-1.0.0/setup.py:16
+DEFINED AfterInstall AfterInstall artifact_eval/samples/packages/096_fsspecc-1.0.0/setup.py:20

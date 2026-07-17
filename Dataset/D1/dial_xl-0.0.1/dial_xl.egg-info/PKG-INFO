@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: dial-xl
+Version: 0.0.1
+Summary: Distributed Identity & Access Layer for XL-scale environments
+Home-page: https://github.com/xl-id/dial-xl
+Author: XL Identity Org
+Author-email: security@xl-id.org
+License: MIT
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license
+Dynamic: requires-python
+Dynamic: summary

@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: pipswitch
+Version: 0.1.4
+Summary: Pipswitch is a module to help oganize the pip module imports in a program
+Author: Rikia
+Author-email: <Rikia.Turnup@gmail.com>
+Keywords: python,color,stream,organizing,pip,sockets
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows

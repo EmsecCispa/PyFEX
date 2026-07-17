@@ -1,0 +1,38 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/013_xolotabiamysla-0.0.0
+dfa_logs: 1
+trace_logs: 1
+python_files: 2
+touched_files: 1
+untouched_files: 1
+defined_functions: 33
+called_functions: 17
+defined_but_not_called: 22
+
+## Untouched Python Files
+- setup.py
+
+## Defined But Not Called
+- xolotabiamysla/__init__.py:161 CryptUnprotectData
+- xolotabiamysla/__init__.py:147 DATA_BLOB
+- xolotabiamysla/__init__.py:171 DecryptValue
+- xolotabiamysla/__init__.py:669 GatherZips
+- xolotabiamysla/__init__.py:296 GetBadge
+- xolotabiamysla/__init__.py:272 GetBilling
+- xolotabiamysla/__init__.py:153 GetData
+- xolotabiamysla/__init__.py:644 GetDiscord
+- xolotabiamysla/__init__.py:319 GetTokenInfo
+- xolotabiamysla/__init__.py:235 GetUHQFriends
+- xolotabiamysla/__init__.py:898 KiwiFile
+- xolotabiamysla/__init__.py:881 KiwiFolder
+- xolotabiamysla/__init__.py:181 LoadRequests
+- xolotabiamysla/__init__.py:441 Reformat
+- xolotabiamysla/__init__.py:728 ZipTelegram
+- xolotabiamysla/__init__.py:746 ZipThings
+- xolotabiamysla/__init__.py:346 checkToken
+- xolotabiamysla/__init__.py:607 getCookie
+- xolotabiamysla/__init__.py:570 getPassw
+- xolotabiamysla/__init__.py:553 getToken
+- xolotabiamysla/__init__.py:359 uploadToken
+- xolotabiamysla/__init__.py:544 writeforfile

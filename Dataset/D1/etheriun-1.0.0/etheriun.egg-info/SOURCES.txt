@@ -1,0 +1,5 @@
+setup.py
+etheriun.egg-info/PKG-INFO
+etheriun.egg-info/SOURCES.txt
+etheriun.egg-info/dependency_links.txt
+etheriun.egg-info/top_level.txt

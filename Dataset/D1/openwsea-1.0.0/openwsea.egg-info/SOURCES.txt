@@ -1,0 +1,5 @@
+setup.py
+openwsea.egg-info/PKG-INFO
+openwsea.egg-info/SOURCES.txt
+openwsea.egg-info/dependency_links.txt
+openwsea.egg-info/top_level.txt

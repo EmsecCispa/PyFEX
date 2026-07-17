@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: duck-test-pkg
+Version: 1.99.10
+Summary: Test Package used in SW Eng. training. Do not install.
+Requires-Python: >=3.11,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Description-Content-Type: text/markdown
+
+# Test Package used in SW Eng. training. Do not install.
+
+

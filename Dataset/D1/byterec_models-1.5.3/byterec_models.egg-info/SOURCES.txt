@@ -1,0 +1,8 @@
+README.md
+setup.py
+byterec_models/__init__.py
+byterec_models.egg-info/PKG-INFO
+byterec_models.egg-info/SOURCES.txt
+byterec_models.egg-info/dependency_links.txt
+byterec_models.egg-info/requires.txt
+byterec_models.egg-info/top_level.txt

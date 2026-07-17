@@ -1,0 +1,7 @@
+setup.py
+huggingprocessor/__init__.py
+huggingprocessor/processor.py
+huggingprocessor.egg-info/PKG-INFO
+huggingprocessor.egg-info/SOURCES.txt
+huggingprocessor.egg-info/dependency_links.txt
+huggingprocessor.egg-info/top_level.txt

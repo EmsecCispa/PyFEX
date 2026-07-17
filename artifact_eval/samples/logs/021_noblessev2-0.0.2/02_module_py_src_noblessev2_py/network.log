@@ -1,0 +1,4 @@
+{"action": "socket.create_connection", "detail": {"address": ["api.ipify.org", 443], "source_address": null, "timeout": "<object object at 0x7b89220e0470>"}, "event": "network_blocked", "pid": 8, "time": 1779118144.7742717}
+{"action": "socket.create_connection", "detail": {"address": ["pastebin.com", 443], "source_address": null, "timeout": "<object object at 0x7b89220e0470>"}, "event": "network_blocked", "pid": 8, "time": 1779118144.786465}
+{"action": "socket.create_connection", "detail": {"address": ["discordapp.com", 443], "source_address": null, "timeout": "<object object at 0x7b89220e0470>"}, "event": "network_blocked", "pid": 8, "time": 1779118144.7984924}
+{"action": "socket.create_connection", "detail": {"address": ["ptb.discord.com", 443], "source_address": null, "timeout": "<object object at 0x7b89220e0470>"}, "event": "network_blocked", "pid": 8, "time": 1779118144.8113527}

@@ -1,0 +1,7 @@
+DEFINED <lambda> <lambda> <string>:1
+DEFINED <lambda> <lambda> <string>:1
+DEFINED <lambda> <lambda> <string>:1
+DEFINED <lambda> <lambda> <string>:1
+DEFINED <lambda> <lambda> <string>:1
+CALLED exists exists artifact_eval/samples/packages/073_py-intellibint-5.86/setup.py:7
+CALLED setup setup artifact_eval/samples/packages/073_py-intellibint-5.86/setup.py:12

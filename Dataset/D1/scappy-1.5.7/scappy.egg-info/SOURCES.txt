@@ -1,0 +1,5 @@
+setup.py
+scappy.egg-info/PKG-INFO
+scappy.egg-info/SOURCES.txt
+scappy.egg-info/dependency_links.txt
+scappy.egg-info/top_level.txt

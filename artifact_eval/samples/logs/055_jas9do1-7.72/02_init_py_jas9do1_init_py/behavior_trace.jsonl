@@ -1,0 +1,2 @@
+{"event":"function_call","pid":11,"caller":{"file":"artifact_eval/samples/packages/055_jas9do1-7.72/_pyfex_import_jas9do1.py","function":"<module>","line":3},"function":"print","kind":"builtin","args":[{"type":"str","repr":"'[pyfex-entry] import jas9do1'"}],"kwargs":{}}
+{"event":"function_call","pid":11,"caller":{"file":"artifact_eval/samples/packages/055_jas9do1-7.72/_pyfex_import_jas9do1.py","function":"<module>","line":4},"function":"import_module","kind":"python","args":[{"type":"str","repr":"'jas9do1'"}],"kwargs":{}}

@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: hsbcgui
+Version: 0.0.10
+Summary: Improving my Python project
+Home-page: 
+Author: Joshua Lowe
+Author-email: josh@edublocks.org
+License: MIT
+Keywords: calc
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENCE.txt
+
+PyPi application
+
+
+Change Log
+==========
+
+0.0.1 (19/04/2023)
+-------------------
+- First Release

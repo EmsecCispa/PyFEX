@@ -1,0 +1,2 @@
+{"event":"function_call","pid":8,"caller":{"file":"artifact_eval/samples/packages/024_beeee23323-1.0/_pyfex_import_renomememne2.py","function":"<module>","line":3},"function":"print","kind":"builtin","args":[{"type":"str","repr":"'[pyfex-entry] import renomememne2'"}],"kwargs":{}}
+{"event":"function_call","pid":8,"caller":{"file":"artifact_eval/samples/packages/024_beeee23323-1.0/_pyfex_import_renomememne2.py","function":"<module>","line":4},"function":"import_module","kind":"python","args":[{"type":"str","repr":"'renomememne2'"}],"kwargs":{}}

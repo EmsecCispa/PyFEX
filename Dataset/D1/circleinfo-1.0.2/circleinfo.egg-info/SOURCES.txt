@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+circleinfo/__init__.py
+circleinfo/circleinfo.py
+circleinfo.egg-info/PKG-INFO
+circleinfo.egg-info/SOURCES.txt
+circleinfo.egg-info/dependency_links.txt
+circleinfo.egg-info/entry_points.txt
+circleinfo.egg-info/top_level.txt

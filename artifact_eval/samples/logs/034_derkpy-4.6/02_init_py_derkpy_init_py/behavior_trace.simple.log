@@ -1,0 +1,3 @@
+[artifact_eval/samples/packages/034_derkpy-4.6/_pyfex_import_derkpy.py:3] [print]('[pyfex-entry] import derkpy')
+[artifact_eval/samples/packages/034_derkpy-4.6/_pyfex_import_derkpy.py:4] [import_module]('derkpy')
+[artifact_eval/samples/packages/034_derkpy-4.6/derkpy/__init__.py:1] [print]('Hola')

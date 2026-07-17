@@ -1,0 +1,9 @@
+README.md
+flag.py
+setup.py
+artifact_lab_3_package_24ddbc49.egg-info/PKG-INFO
+artifact_lab_3_package_24ddbc49.egg-info/SOURCES.txt
+artifact_lab_3_package_24ddbc49.egg-info/dependency_links.txt
+artifact_lab_3_package_24ddbc49.egg-info/entry_points.txt
+artifact_lab_3_package_24ddbc49.egg-info/requires.txt
+artifact_lab_3_package_24ddbc49.egg-info/top_level.txt

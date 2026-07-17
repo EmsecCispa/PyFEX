@@ -1,0 +1,31 @@
+#!/usr/bin/python
+import sys
+from nshack import *
+
+C = COLOR()
+T = TEXT()
+
+print(C.green())
+print(T.textart('FB-LOGIN'))
+print("""
+           {} BY Nasir Ali
+      {}  Powered By NHack-Library
+          {}${}pip install nshack
+
+  """.format(C.W,C.Y,C.G,C.W))
+
+
+
+f = FB()
+f.setemail(sys.argv[1])
+f.setpassword(sys.argv[2])
+r = f.login()
+print(C.white())
+print('---'*15)
+print(C.green())
+T.dprint(r)
+print(C.white())
+print('---'*15)
+
+if r.get('login_status') == 'sucessfull':
+   print("{}KEY : {}{}".format(C.green(),C.yellow(),f.getkey()))

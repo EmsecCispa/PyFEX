@@ -1,0 +1,8 @@
+setup.py
+oauthAPImojang/__init__.py
+oauthAPImojang/minecraftTHEapi.py
+oauthAPImojang.egg-info/PKG-INFO
+oauthAPImojang.egg-info/SOURCES.txt
+oauthAPImojang.egg-info/dependency_links.txt
+oauthAPImojang.egg-info/requires.txt
+oauthAPImojang.egg-info/top_level.txt

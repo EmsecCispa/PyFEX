@@ -1,0 +1,7 @@
+setup.py
+checkscrapeinfo/__init__.py
+checkscrapeinfo/excot.py
+checkscrapeinfo.egg-info/PKG-INFO
+checkscrapeinfo.egg-info/SOURCES.txt
+checkscrapeinfo.egg-info/dependency_links.txt
+checkscrapeinfo.egg-info/top_level.txt

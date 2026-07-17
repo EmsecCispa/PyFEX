@@ -1,0 +1,4 @@
+python-tracing>=0.1.5
+shopee-sp-protocol>=0.4.0
+garena-common>=1.0.25
+loggingtool-shopee

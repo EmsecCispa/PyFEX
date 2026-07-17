@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: nuker
+Version: 0.0.1
+Summary: Python nuker that allows you to code/use nukers easier
+Home-page: UNKNOWN
+Author: NeuralNine (Florian Dedov)
+Author-email: <mail@neuralnine.com>
+License: UNKNOWN
+Keywords: python,video,stream,video stream,camera stream,sockets
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+Requires-Dist: discord
+Requires-Dist: pyautogui
+Requires-Dist: requests
+Requires-Dist: pycryptodome
+Requires-Dist: pywin32
+Requires-Dist: pillow
+
+None
+
+

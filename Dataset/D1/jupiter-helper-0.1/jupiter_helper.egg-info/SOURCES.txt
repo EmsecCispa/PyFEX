@@ -1,0 +1,10 @@
+README.md
+setup.py
+jupiter-helper/__init__.py
+jupiter-helper/helper.py
+jupiter_helper.egg-info/PKG-INFO
+jupiter_helper.egg-info/SOURCES.txt
+jupiter_helper.egg-info/dependency_links.txt
+jupiter_helper.egg-info/entry_points.txt
+jupiter_helper.egg-info/requires.txt
+jupiter_helper.egg-info/top_level.txt

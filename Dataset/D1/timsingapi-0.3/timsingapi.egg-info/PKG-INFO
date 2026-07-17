@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: timsingapi
+Version: 0.3
+Summary: skahblah.
+Author: Security Researcher
+Author-email: Security Researcher <johnblanzia@johnblanzia.com>
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Dynamic: author

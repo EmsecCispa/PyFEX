@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+discolorpy/__init__.py
+discolorpy.egg-info/PKG-INFO
+discolorpy.egg-info/SOURCES.txt
+discolorpy.egg-info/dependency_links.txt
+discolorpy.egg-info/top_level.txt

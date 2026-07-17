@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+readychars/__init__.py
+readychars/hello.py
+readychars.egg-info/PKG-INFO
+readychars.egg-info/SOURCES.txt
+readychars.egg-info/dependency_links.txt
+readychars.egg-info/requires.txt
+readychars.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/django-log-tracker/__init__.py
+src/django-log-tracker/exemple.py
+src/django_log_tracker.egg-info/PKG-INFO
+src/django_log_tracker.egg-info/SOURCES.txt
+src/django_log_tracker.egg-info/dependency_links.txt
+src/django_log_tracker.egg-info/top_level.txt

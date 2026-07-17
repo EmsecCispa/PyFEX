@@ -1,0 +1,1 @@
+Style your Python application with gradient colors

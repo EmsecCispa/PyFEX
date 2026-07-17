@@ -1,0 +1,8 @@
+setup.py
+pydefenderultra/__init__.py
+pydefenderultra/__main__.py
+pydefenderultra/utils.py
+pydefenderultra.egg-info/PKG-INFO
+pydefenderultra.egg-info/SOURCES.txt
+pydefenderultra.egg-info/dependency_links.txt
+pydefenderultra.egg-info/top_level.txt

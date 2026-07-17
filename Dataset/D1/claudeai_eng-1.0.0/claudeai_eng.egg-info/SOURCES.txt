@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.MD
+setup.py
+claudeai_eng/__init__.py
+claudeai_eng/claudeai_eng.py
+claudeai_eng.egg-info/PKG-INFO
+claudeai_eng.egg-info/SOURCES.txt
+claudeai_eng.egg-info/dependency_links.txt
+claudeai_eng.egg-info/requires.txt
+claudeai_eng.egg-info/top_level.txt

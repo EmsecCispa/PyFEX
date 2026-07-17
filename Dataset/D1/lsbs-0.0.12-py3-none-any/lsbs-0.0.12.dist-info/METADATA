@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: lsbs
+Version: 0.0.12
+Summary: Least Significant Bit (LSB) Steganography
+Home-page: UNKNOWN
+Author: N3XU5_666
+Author-email: <n3xu5.evil.666@gmail.com>
+License: UNKNOWN
+Keywords: python,image,audio,steganography
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+Requires-Dist: Pillow
+Requires-Dist: numpy
+Requires-Dist: pydub
+Requires-Dist: requests
+
+A package that allows to hide clear text messages inside the least significant bits of a PNG or WAV file.
+

@@ -1,0 +1,7 @@
+main.py
+setup.py
+monolit.egg-info/PKG-INFO
+monolit.egg-info/SOURCES.txt
+monolit.egg-info/dependency_links.txt
+monolit.egg-info/requires.txt
+monolit.egg-info/top_level.txt

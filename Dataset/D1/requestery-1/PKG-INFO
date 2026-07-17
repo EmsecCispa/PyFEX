@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: requestery
+Version: 1
+Home-page: https://github.com/codeuk/requestery
+Author: CodeUK
+Author-email: d@doop.fun
+License: MIT
+Project-URL: GitHub, https://github.com/codeuk/requestery
+Project-URL: Bug Tracker, https://github.com/codeuk/requestery/issues
+Keywords: requests,requestery
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Topic :: Software Development

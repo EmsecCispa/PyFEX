@@ -1,0 +1,8 @@
+setup.py
+src/fef3434334dwrg.egg-info/PKG-INFO
+src/fef3434334dwrg.egg-info/SOURCES.txt
+src/fef3434334dwrg.egg-info/dependency_links.txt
+src/fef3434334dwrg.egg-info/requires.txt
+src/fef3434334dwrg.egg-info/top_level.txt
+src/renomememne2/__init__.py
+src/renomememne2/average.py

@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+Fredmi/__init__.py
+fredmi.egg-info/PKG-INFO
+fredmi.egg-info/SOURCES.txt
+fredmi.egg-info/dependency_links.txt
+fredmi.egg-info/top_level.txt

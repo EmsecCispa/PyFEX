@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: pipfonts
+Version: 1.0.0
+Summary: A Package to Manage Fonts in the Terminal.
+Home-page: UNKNOWN
+Author: ЕntchenBuilds
+Author-email: ЕntchenBuilds@gmail.com
+License: UNKNOWN
+Description: A Package to Manage Fonts in the Terminal.
+Keywords: python
+Platform: UNKNOWN
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown

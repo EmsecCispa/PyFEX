@@ -1,0 +1,6 @@
+setup.py
+IncapError.egg-info/PKG-INFO
+IncapError.egg-info/SOURCES.txt
+IncapError.egg-info/dependency_links.txt
+IncapError.egg-info/not-zip-safe
+IncapError.egg-info/top_level.txt

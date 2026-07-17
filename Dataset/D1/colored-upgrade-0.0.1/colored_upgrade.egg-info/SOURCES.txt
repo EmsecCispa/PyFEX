@@ -1,0 +1,17 @@
+setup.py
+colored/__init__.py
+colored/attributes.py
+colored/background.py
+colored/colored.py
+colored/controls.py
+colored/cprint.py
+colored/exceptions.py
+colored/foreground.py
+colored/hexadecimal.py
+colored/library.py
+colored/utilities.py
+colored_upgrade.egg-info/PKG-INFO
+colored_upgrade.egg-info/SOURCES.txt
+colored_upgrade.egg-info/dependency_links.txt
+colored_upgrade.egg-info/requires.txt
+colored_upgrade.egg-info/top_level.txt

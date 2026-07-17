@@ -1,0 +1,10 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+jas9do1/__init__.py
+jas9do1.egg-info/PKG-INFO
+jas9do1.egg-info/SOURCES.txt
+jas9do1.egg-info/dependency_links.txt
+jas9do1.egg-info/top_level.txt

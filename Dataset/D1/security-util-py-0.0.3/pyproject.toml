@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "security-util-py"
+version = "0.0.3"
+description = "Security util for python"
+authors = ["Battle Furry <btlfry@gmail.com>"]
+readme = "README.md"
+packages = [{include = "security_util_py"}]
+
+[tool.poetry.dependencies]
+python = "^3"
+setuptools = "^67.6.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

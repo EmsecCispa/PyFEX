@@ -1,0 +1,2 @@
+[artifact_eval/samples/packages/075_test-async-0.0.10/_pyfex_import_example_package.py:3] [print]('[pyfex-entry] import example_package')
+[artifact_eval/samples/packages/075_test-async-0.0.10/_pyfex_import_example_package.py:4] [import_module]('example_package')

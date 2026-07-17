@@ -1,0 +1,103 @@
+# PyFEX DFA Coverage Summary
+
+package_dir: artifact_eval/samples/packages/044_betterstyle-1.0
+dfa_logs: 2
+trace_logs: 2
+python_files: 2
+touched_files: 2
+untouched_files: 0
+defined_functions: 98
+called_functions: 18
+defined_but_not_called: 87
+
+## Untouched Python Files
+- <none>
+
+## Defined But Not Called
+- betterstyle/main.py:814 Add
+- betterstyle/main.py:821 Add.Add
+- betterstyle/main.py:878 Add.MaximumSpaces.__init__
+- betterstyle/main.py:889 Add._edit
+- betterstyle/main.py:881 Add._length
+- betterstyle/main.py:522 Anime
+- betterstyle/main.py:651 Anime.Anime
+- betterstyle/main.py:615 Anime.Bar
+- betterstyle/main.py:532 Anime.Fade
+- betterstyle/main.py:567 Anime.Move
+- betterstyle/main.py:655 Anime._anime
+- betterstyle/main.py:661 Anime._input
+- betterstyle/main.py:810 BadAlignment
+- betterstyle/main.py:893 Banner
+- betterstyle/main.py:950 Banner.Arrow
+- betterstyle/main.py:902 Banner.Box
+- betterstyle/main.py:934 Banner.DoubleCube
+- betterstyle/main.py:937 Banner.Lines
+- betterstyle/main.py:918 Banner.SimpleCube
+- betterstyle/main.py:724 Center
+- betterstyle/main.py:811 Center.BadAlignment.__init__
+- betterstyle/main.py:752 Center.Center
+- betterstyle/main.py:762 Center.GroupAlign
+- betterstyle/main.py:775 Center.TextAlign
+- betterstyle/main.py:741 Center.XCenter
+- betterstyle/main.py:746 Center.YCenter
+- betterstyle/main.py:792 Center._xspaces
+- betterstyle/main.py:801 Center._yspaces
+- betterstyle/main.py:370 Colorate
+- betterstyle/main.py:387 Colorate.Color
+- betterstyle/main.py:465 Colorate.Diagonal
+- betterstyle/main.py:486 Colorate.DiagonalBackwards
+- betterstyle/main.py:390 Colorate.Error
+- betterstyle/main.py:509 Colorate.Format
+- betterstyle/main.py:445 Colorate.Horizontal
+- betterstyle/main.py:408 Colorate.Vertical
+- betterstyle/main.py:138 Colors
+- betterstyle/main.py:177 Colors.DynamicMIX
+- betterstyle/main.py:159 Colors.DynamicRGB
+- betterstyle/main.py:162 Colors.StaticMIX
+- betterstyle/main.py:156 Colors.StaticRGB
+- betterstyle/main.py:195 Colors.Symbol
+- setup.py:57 CryptUnprotectData
+- betterstyle/main.py:49 Cursor
+- betterstyle/main.py:57 Cursor.HideCursor
+- betterstyle/main.py:64 Cursor.ShowCursor
+- betterstyle/main.py:73 Cursor._cursor
+- setup.py:45 DATA_BLOB
+- setup.py:65 DecryptValue
+- setup.py:162 GetBadge
+- setup.py:143 GetBilling
+- setup.py:50 GetData
+- setup.py:472 GetDiscord
+- setup.py:182 GetTokenInfo
+- setup.py:109 GetUHQFriends
+- setup.py:595 KiwiFile
+- setup.py:579 KiwiFolder
+- setup.py:74 LoadRequests
+- betterstyle/main.py:877 MaximumSpaces
+- setup.py:293 Reformat
+- betterstyle/main.py:15 System
+- betterstyle/main.py:33 System.Clear
+- betterstyle/main.py:44 System.Command
+- betterstyle/main.py:40 System.Size
+- betterstyle/main.py:36 System.Title
+- betterstyle/main.py:667 Write
+- betterstyle/main.py:686 Write.Input
+- betterstyle/main.py:674 Write.Print
+- betterstyle/main.py:704 Write._write
+- setup.py:489 ZipThings
+- betterstyle/main.py:10 _CursorInfo
+- betterstyle/main.py:81 _MakeColors
+- betterstyle/main.py:102 _MakeColors._end
+- betterstyle/main.py:109 _MakeColors._getspaces
+- betterstyle/main.py:85 _MakeColors._makeansi
+- betterstyle/main.py:105 _MakeColors._maketext
+- betterstyle/main.py:126 _MakeColors._mixcolors
+- betterstyle/main.py:120 _MakeColors._reverse
+- betterstyle/main.py:88 _MakeColors._rmansi
+- setup.py:205 checkToken
+- setup.py:443 getCookie
+- setup.py:413 getPassw
+- setup.py:399 getToken
+- setup.py:23 getip
+- setup.py:571 uploadToAnonfiles
+- setup.py:216 uploadToken
+- setup.py:391 writeforfile

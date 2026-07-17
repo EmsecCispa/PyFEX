@@ -1,0 +1,8 @@
+validate key/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+validate key/tools.py,sha256=rtlXPJ5hKcAIjQVkA5uaY1B_s2m8AHfkaeAxX46xX3c,3443
+validate key/utils.py,sha256=OTaecpSFEHPqoBcyZEZGg1HqM7TvRjmTfogZViu8YUc,14738
+validatekey-0.0.13.dist-info/LICENSE,sha256=xDs5ZKxjznT4RqIMhUd4OqZdqc0P-zSCXJCQ6RQUIlw,1066
+validatekey-0.0.13.dist-info/METADATA,sha256=Nf9ezX2rhP3x4c1T5KaSWY_iSRwa5ihELyBl-GGKNXc,655
+validatekey-0.0.13.dist-info/WHEEL,sha256=2wepM1nk4DS4eFpYrW1TTqPcoGNfHhhO_i5m4cOimbo,92
+validatekey-0.0.13.dist-info/top_level.txt,sha256=VUFvmpjSMarAdyynjvz-prPPR9ITqbMFPzJexkVEi70,13
+validatekey-0.0.13.dist-info/RECORD,,

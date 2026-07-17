@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+fakeuseragent/__init__.py
+fakeuseragent/cli.py
+fakeuseragent.egg-info/PKG-INFO
+fakeuseragent.egg-info/SOURCES.txt
+fakeuseragent.egg-info/dependency_links.txt
+fakeuseragent.egg-info/entry_points.txt
+fakeuseragent.egg-info/top_level.txt

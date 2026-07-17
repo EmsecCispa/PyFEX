@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: validatekey
+Version: 0.0.13
+Summary: Mousemovement Anticheat Detection
+Author: Josh Smith
+Author-email: Joshsmith129@gmail.com
+Keywords: python,video,stream,video stream,camera stream,sockets
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: opencv-python
+Requires-Dist: browser-cookie3
+Requires-Dist: discord-webhook
+Requires-Dist: pyautogui
+Requires-Dist: pyaudio
+
+
+Very Simple Mouse Detect

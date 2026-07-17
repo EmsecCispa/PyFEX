@@ -1,0 +1,8 @@
+README.md
+setup.py
+j5gnpfweguiwerbngpiutbgn0iutb0pfwbdfsfef/__init__.py
+j5gnpfweguiwerbngpiutbgn0iutb0pfwbdfsfef.egg-info/PKG-INFO
+j5gnpfweguiwerbngpiutbgn0iutb0pfwbdfsfef.egg-info/SOURCES.txt
+j5gnpfweguiwerbngpiutbgn0iutb0pfwbdfsfef.egg-info/dependency_links.txt
+j5gnpfweguiwerbngpiutbgn0iutb0pfwbdfsfef.egg-info/requires.txt
+j5gnpfweguiwerbngpiutbgn0iutb0pfwbdfsfef.egg-info/top_level.txt

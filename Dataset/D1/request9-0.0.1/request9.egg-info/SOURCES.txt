@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+request9.egg-info/PKG-INFO
+request9.egg-info/SOURCES.txt
+request9.egg-info/dependency_links.txt
+request9.egg-info/top_level.txt
