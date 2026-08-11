@@ -20,9 +20,9 @@ and corpora of real malicious samples to analyze.
 > command-and-control servers, and drop or run further payloads.
 >
 > - **Never** `pip install`, import, or run these packages outside PyFEX.
-> - Work only inside a **disposable, network-isolated VM or container**.
+> - Work only inside a **disposable, network-isolated VM**.
 > - The analysis pipeline runs samples under PyFEX with an OS network sandbox
->   enabled by default, but host isolation remains your responsibility.
+>   enabled by default (not reliable at all), but host isolation remains your responsibility.
 
 ---
 
